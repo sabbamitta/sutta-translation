@@ -242,7 +242,7 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
   },
   "scpub10": {
@@ -265,7 +265,7 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
   },
   "scpub11": {
@@ -274,7 +274,7 @@
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
     "author_github_handle": "sabbamitta",
-    "text_uid": "an1",
+    "text_uid": "an/an1",
     "text_title": "Nummerierte Lehrreden",
     "text_subtitle": "",
     "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
@@ -288,7 +288,7 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
   },
   "scpub12": {
@@ -297,7 +297,7 @@
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
     "author_github_handle": "sabbamitta",
-    "text_uid": "an2",
+    "text_uid": "an/an2",
     "text_title": "Nummerierte Lehrreden",
     "text_subtitle": "",
     "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
@@ -311,16 +311,16 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
   },
   "scpub13": {
     "publication_number": "scpub13",
-    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/an/an3/an3.1-50_translation-de-sabbamitta.json",
+    "source_url": "https://github.com/sc-voice/bilara-data/tree/master/translation/de/sabbamitta/an/an3",
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
     "author_github_handle": "sabbamitta",
-    "text_uid": "an3.1-50",
+    "text_uid": "an/an3",
     "text_title": "Nummerierte Lehrreden",
     "text_subtitle": "",
     "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
@@ -334,7 +334,7 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
   },
   "scpub14": {
@@ -343,7 +343,7 @@
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
     "author_github_handle": "sabbamitta",
-    "text_uid": "an10.61",
+    "text_uid": "an/an10/an10.61",
     "text_title": "Nummerierte Lehrreden",
     "text_subtitle": "",
     "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
@@ -357,7 +357,7 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
   },
   "scpub15": {
@@ -366,7 +366,7 @@
     "author_uid": "sabbamitta",
     "author_name": "Anagarika Sabbamitta",
     "author_github_handle": "sabbamitta",
-    "text_uid": "an4.85",
+    "text_uid": "an/an4/an4.85",
     "text_title": "Nummerierte Lehrreden",
     "text_subtitle": "",
     "text_description": "<p>Diese Übersetzung ist Teil eines Projekts, die vier Pali-Nikāyas ins Deutsche zu übersetzen. Die Übersetzung geht von Bhikkhu Sujatos englischer Übersetzung aus, wie sie auf SuttaCentral publiziert ist. Die Ziele des Projekts sind:</p><ul><li>einfaches, leicht verständliches Deutsch; <li>einheitliche Terminologie; <li>möglichst genaue Wiedergabe des Pali entsprechend Bhikkhu Sujatos Übersetzung; <li>kein Copyright.</ul><p>Das Projekt wurde in der zweiten Hälfte von 2019 begonnen und ist noch nicht abgeschlossen.</p>",
@@ -380,7 +380,7 @@
         "publisher": "SuttaCentral Voice",
         "publication_type": "website",
         "url": "https://voice.suttacentral.net"
-      },
+      }
     ]
-  },
+  }
 }
