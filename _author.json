@@ -23,6 +23,12 @@
     "root_lang": "pli",
     "root_edition": "ms"
   },
+  "vanaputta": {
+    "type": "translator",
+    "name": "Vanaputta Upasika",
+    "root_lang": "pli",
+    "root_edition": "ms"
+  },
   "kaz": {
     "type": "translator",
     "name": "Kaz Takehara",
