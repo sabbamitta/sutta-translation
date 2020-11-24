@@ -155,7 +155,52 @@
 			"file": "DN/dn33 Gemeinsam aufsagen",
 			"settings":
 			{
-				"buffer_size": 120824,
+				"buffer_size": 120802,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Blurbs/an-blurbs_root-de.json",
+			"settings":
+			{
+				"buffer_size": 76239,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Blurbs/dn-blurbs_root-de.json",
+			"settings":
+			{
+				"buffer_size": 4532,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Blurbs/mn-blurbs_root-de.json",
+			"settings":
+			{
+				"buffer_size": 4173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Blurbs/sn-blurbs_root-de.json",
+			"settings":
+			{
+				"buffer_size": 22470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/4/an4.53 Zusammenleben (1)",
+			"settings":
+			{
+				"buffer_size": 4017,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -587,7 +632,7 @@
 			"file": "DN/dn17 Der König Mahāsudassana",
 			"settings":
 			{
-				"buffer_size": 40039,
+				"buffer_size": 40056,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -596,7 +641,43 @@
 			"file": "DN/dn18 Mit Janavasabha",
 			"settings":
 			{
-				"buffer_size": 28029,
+				"buffer_size": 27999,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/3/an3.126 Der Kālāmer Bharaṇḍu",
+			"settings":
+			{
+				"buffer_size": 3740,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/4/an4.187 Mit Vassakāra",
+			"settings":
+			{
+				"buffer_size": 4827,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/5/an5.143 Bei Sārandada",
+			"settings":
+			{
+				"buffer_size": 2820,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/5/an5.50 Mit Nārada",
+			"settings":
+			{
+				"buffer_size": 12203,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -803,7 +884,16 @@
 			"file": "AN/6/an6.24 Der Himalaya",
 			"settings":
 			{
-				"buffer_size": 878,
+				"buffer_size": 860,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/5/an5.193 Mit Saṅgārava",
+			"settings":
+			{
+				"buffer_size": 9301,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -938,7 +1028,7 @@
 			"file": "AN/4/an4.180 Die vier großen Bezugspunkte",
 			"settings":
 			{
-				"buffer_size": 9839,
+				"buffer_size": 9817,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -965,7 +1055,7 @@
 			"file": "AN/6/an6.28 Gelegenheiten (2)",
 			"settings":
 			{
-				"buffer_size": 4972,
+				"buffer_size": 4960,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1370,7 +1460,7 @@
 			"file": "AN/5/an5.44 Angenehm",
 			"settings":
 			{
-				"buffer_size": 4487,
+				"buffer_size": 4475,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1388,7 +1478,7 @@
 			"file": "AN/3/an3.80 Kleiner",
 			"settings":
 			{
-				"buffer_size": 4289,
+				"buffer_size": 4283,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1685,7 +1775,7 @@
 			"file": "DN/dn14 Die große Lehrrede über die Ernte aus den Taten",
 			"settings":
 			{
-				"buffer_size": 74541,
+				"buffer_size": 74525,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1892,6 +1982,7 @@
 	"file_history":
 	[
 		"/home/sabbamitta/dev/running_script.sh",
+		"/home/sabbamitta/Dokumente/Technik/a-resize",
 		"/home/sabbamitta/.bashrc",
 		"/home/sabbamitta/Schreibtisch/Third party sources disabled",
 		"/home/sabbamitta/Schreibtisch/SC-Voice/Technik/running_script.sh",
@@ -2017,8 +2108,7 @@
 		"/home/sabbamitta/Schreibtisch/Sutta translation/AN/8/AN 8.6",
 		"/home/sabbamitta/Schreibtisch/Sutta translation/Random Pali terms",
 		"/home/sabbamitta/Schreibtisch/Sutta translation/SN/Sam 10/Indaka/SN 10.8-mit Sudatta",
-		"/home/sabbamitta/Schreibtisch/Sutta translation/AN/7/AN 7.36 Ein Freund (1)",
-		"/home/sabbamitta/Schreibtisch/Sutta translation/Samyutta Nikaya"
+		"/home/sabbamitta/Schreibtisch/Sutta translation/AN/7/AN 7.36 Ein Freund (1)"
 	],
 	"find":
 	{
@@ -2036,6 +2126,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"geizig und",
+			"passend",
+			"aus dem mund",
 			"18.6",
 			"18",
 			"Nutzen und Glück der Vielen gehandelt",
@@ -2075,7 +2168,7 @@
 	"groups":
 	[
 		{
-			"selected": 65,
+			"selected": 70,
 			"sheets":
 			[
 				{
@@ -2105,7 +2198,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 198,
+					"stack_index": 208,
 					"type": "text"
 				},
 				{
@@ -2135,7 +2228,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 120,
+					"stack_index": 135,
 					"type": "text"
 				},
 				{
@@ -2165,7 +2258,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 119,
+					"stack_index": 134,
 					"type": "text"
 				},
 				{
@@ -2195,7 +2288,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 118,
+					"stack_index": 133,
 					"type": "text"
 				},
 				{
@@ -2225,7 +2318,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 117,
+					"stack_index": 132,
 					"type": "text"
 				},
 				{
@@ -2255,7 +2348,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 116,
+					"stack_index": 131,
 					"type": "text"
 				},
 				{
@@ -2285,7 +2378,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 115,
+					"stack_index": 130,
 					"type": "text"
 				},
 				{
@@ -2315,7 +2408,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 114,
+					"stack_index": 129,
 					"type": "text"
 				},
 				{
@@ -2345,7 +2438,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 113,
+					"stack_index": 128,
 					"type": "text"
 				},
 				{
@@ -2375,7 +2468,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 112,
+					"stack_index": 127,
 					"type": "text"
 				},
 				{
@@ -2405,7 +2498,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 111,
+					"stack_index": 126,
 					"type": "text"
 				},
 				{
@@ -2435,7 +2528,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 110,
+					"stack_index": 125,
 					"type": "text"
 				},
 				{
@@ -2465,7 +2558,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 109,
+					"stack_index": 124,
 					"type": "text"
 				},
 				{
@@ -2495,7 +2588,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 197,
+					"stack_index": 207,
 					"type": "text"
 				},
 				{
@@ -2525,7 +2618,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 201,
+					"stack_index": 211,
 					"type": "text"
 				},
 				{
@@ -2555,7 +2648,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 192,
+					"stack_index": 202,
 					"type": "text"
 				},
 				{
@@ -2564,15 +2657,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 120824,
+						"buffer_size": 120802,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								120824,
-								120824
+								0,
+								0
 							]
 						],
 						"settings":
@@ -2582,14 +2675,162 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 37288.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 17,
+					"file": "Blurbs/an-blurbs_root-de.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Blurbs/dn-blurbs_root-de.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Blurbs/mn-blurbs_root-de.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Blurbs/sn-blurbs_root-de.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "AN/4/an4.53 Zusammenleben (1)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
 					"file": "AN/4/an4.90 Zusammenwirkende Faktoren",
 					"semi_transient": false,
 					"settings":
@@ -2615,11 +2856,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 144,
+					"stack_index": 159,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 23,
 					"file": "SN/Sam12/sn12.2 Aufgliederung",
 					"semi_transient": false,
 					"settings":
@@ -2645,11 +2886,11 @@
 						"translation.y": 126.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 143,
+					"stack_index": 158,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 24,
 					"file": "MN/mn23 Der Ameisenhaufen",
 					"semi_transient": false,
 					"settings":
@@ -2675,11 +2916,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 41,
+					"stack_index": 58,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 25,
 					"file": "MN/mn33 Die längere Lehrrede vom Kuhhirten",
 					"semi_transient": false,
 					"settings":
@@ -2705,11 +2946,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 40,
+					"stack_index": 57,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 26,
 					"file": "AN/10/an10.60 Mit Girimānanda",
 					"semi_transient": false,
 					"settings":
@@ -2735,11 +2976,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 132,
+					"stack_index": 147,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 27,
 					"file": "AN/10/an10.61 Unwissenheit",
 					"semi_transient": false,
 					"settings":
@@ -2765,11 +3006,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 131,
+					"stack_index": 146,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 28,
 					"file": "AN/2/an2.1-10",
 					"semi_transient": false,
 					"settings":
@@ -2795,11 +3036,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 130,
+					"stack_index": 145,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 29,
 					"file": "AN/2/an2.11-20",
 					"semi_transient": false,
 					"settings":
@@ -2825,11 +3066,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 129,
+					"stack_index": 144,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 30,
 					"file": "AN/2/an2.118-129",
 					"semi_transient": false,
 					"settings":
@@ -2855,11 +3096,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 128,
+					"stack_index": 143,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 31,
 					"file": "AN/2/an2.130-140",
 					"semi_transient": false,
 					"settings":
@@ -2885,11 +3126,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 127,
+					"stack_index": 142,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 32,
 					"file": "AN/2/an2.141-150",
 					"semi_transient": false,
 					"settings":
@@ -2915,11 +3156,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 126,
+					"stack_index": 141,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
+					"buffer": 33,
 					"file": "AN/2/an2.151-162",
 					"semi_transient": false,
 					"settings":
@@ -2945,11 +3186,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 125,
+					"stack_index": 140,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 34,
 					"file": "AN/2/an2.163-179",
 					"semi_transient": false,
 					"settings":
@@ -2975,11 +3216,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 124,
+					"stack_index": 139,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
+					"buffer": 35,
 					"file": "AN/2/an2.180-229",
 					"semi_transient": false,
 					"settings":
@@ -3005,11 +3246,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 123,
+					"stack_index": 138,
 					"type": "text"
 				},
 				{
-					"buffer": 31,
+					"buffer": 36,
 					"file": "AN/2/an2.21-31",
 					"semi_transient": false,
 					"settings":
@@ -3035,11 +3276,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 122,
+					"stack_index": 137,
 					"type": "text"
 				},
 				{
-					"buffer": 32,
+					"buffer": 37,
 					"file": "AN/2/an2.230-279",
 					"semi_transient": false,
 					"settings":
@@ -3063,11 +3304,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 121,
+					"stack_index": 136,
 					"type": "text"
 				},
 				{
-					"buffer": 33,
+					"buffer": 38,
 					"file": "AN/3/an3.61 Glaubenssätze von Sekten",
 					"semi_transient": false,
 					"settings":
@@ -3093,11 +3334,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 142,
+					"stack_index": 157,
 					"type": "text"
 				},
 				{
-					"buffer": 34,
+					"buffer": 39,
 					"file": "AN/4/an4.12 Ethik",
 					"semi_transient": false,
 					"settings":
@@ -3123,11 +3364,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 141,
+					"stack_index": 156,
 					"type": "text"
 				},
 				{
-					"buffer": 35,
+					"buffer": 40,
 					"file": "AN/4/an4.254 Einsicht",
 					"semi_transient": false,
 					"settings":
@@ -3153,11 +3394,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 140,
+					"stack_index": 155,
 					"type": "text"
 				},
 				{
-					"buffer": 36,
+					"buffer": 41,
 					"file": "AN/4/an4.41 Wie man Versenkung weiterentwickelt",
 					"semi_transient": false,
 					"settings":
@@ -3183,11 +3424,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 139,
+					"stack_index": 154,
 					"type": "text"
 				},
 				{
-					"buffer": 37,
+					"buffer": 42,
 					"file": "AN/5/an5.30 Mit Nāgita",
 					"semi_transient": false,
 					"settings":
@@ -3213,11 +3454,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 138,
+					"stack_index": 153,
 					"type": "text"
 				},
 				{
-					"buffer": 38,
+					"buffer": 43,
 					"file": "SN/Sam12/sn12.27 Bedingungen",
 					"semi_transient": false,
 					"settings":
@@ -3243,11 +3484,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 137,
+					"stack_index": 152,
 					"type": "text"
 				},
 				{
-					"buffer": 39,
+					"buffer": 44,
 					"file": "SN/Sam12/sn12.28 Mönch oder Nonne",
 					"semi_transient": false,
 					"settings":
@@ -3273,11 +3514,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 136,
+					"stack_index": 151,
 					"type": "text"
 				},
 				{
-					"buffer": 40,
+					"buffer": 45,
 					"file": "SN/Sam12/sn12.33 Grundlagen der Erkenntnis",
 					"semi_transient": false,
 					"settings":
@@ -3303,11 +3544,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 135,
+					"stack_index": 150,
 					"type": "text"
 				},
 				{
-					"buffer": 41,
+					"buffer": 46,
 					"file": "SN/Sam5/sn5.10 Mit Vajirā",
 					"semi_transient": false,
 					"settings":
@@ -3333,11 +3574,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 46,
 					"type": "text"
 				},
 				{
-					"buffer": 42,
+					"buffer": 47,
 					"file": "SN/Sam5/sn5.2 Mit Somā",
 					"semi_transient": false,
 					"settings":
@@ -3363,11 +3604,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 45,
 					"type": "text"
 				},
 				{
-					"buffer": 43,
+					"buffer": 48,
 					"file": "SN/Sam5/sn5.3 Mit Kisāgotamī",
 					"semi_transient": false,
 					"settings":
@@ -3393,11 +3634,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 44,
 					"type": "text"
 				},
 				{
-					"buffer": 44,
+					"buffer": 49,
 					"file": "SN/Sam5/sn5.4 Mit Vijayā",
 					"semi_transient": false,
 					"settings":
@@ -3423,11 +3664,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 43,
 					"type": "text"
 				},
 				{
-					"buffer": 45,
+					"buffer": 50,
 					"file": "SN/Sam5/sn5.5 Mit Uppalavaṇṇā",
 					"semi_transient": false,
 					"settings":
@@ -3453,11 +3694,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 42,
 					"type": "text"
 				},
 				{
-					"buffer": 46,
+					"buffer": 51,
 					"file": "SN/Sam5/sn5.6 Mit Cālā",
 					"semi_transient": false,
 					"settings":
@@ -3483,11 +3724,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 41,
 					"type": "text"
 				},
 				{
-					"buffer": 47,
+					"buffer": 52,
 					"file": "SN/Sam5/sn5.7 Mit Upacālā",
 					"semi_transient": false,
 					"settings":
@@ -3513,11 +3754,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 40,
 					"type": "text"
 				},
 				{
-					"buffer": 48,
+					"buffer": 53,
 					"file": "SN/Sam5/sn5.8 Mit Sīsupacālā",
 					"semi_transient": false,
 					"settings":
@@ -3543,11 +3784,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 39,
 					"type": "text"
 				},
 				{
-					"buffer": 49,
+					"buffer": 54,
 					"file": "SN/Sam5/sn5.1 Mit Āḷavikā",
 					"semi_transient": false,
 					"settings":
@@ -3573,11 +3814,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 47,
 					"type": "text"
 				},
 				{
-					"buffer": 50,
+					"buffer": 55,
 					"file": "SN/Sam5/sn5.9 Mit Selā",
 					"semi_transient": false,
 					"settings":
@@ -3603,11 +3844,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
-					"buffer": 51,
+					"buffer": 56,
 					"file": "SN/Sam56/sn56.11 Das Rad des Dhamma ins Rollen bringen",
 					"semi_transient": false,
 					"settings":
@@ -3633,11 +3874,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 134,
+					"stack_index": 149,
 					"type": "text"
 				},
 				{
-					"buffer": 52,
+					"buffer": 57,
 					"file": "AN/10/an10.48 Zehn regelmäßige Betrachtungen für hauslos Lebende",
 					"semi_transient": false,
 					"settings":
@@ -3663,11 +3904,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 133,
+					"stack_index": 148,
 					"type": "text"
 				},
 				{
-					"buffer": 53,
+					"buffer": 58,
 					"file": "SN/Sam56/sn56.1 Versenkung",
 					"semi_transient": false,
 					"settings":
@@ -3693,11 +3934,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 37,
 					"type": "text"
 				},
 				{
-					"buffer": 54,
+					"buffer": 59,
 					"file": "SN/Sam6/sn6.1 Die Aufforderung des Brahmā",
 					"semi_transient": false,
 					"settings":
@@ -3723,11 +3964,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 36,
 					"type": "text"
 				},
 				{
-					"buffer": 55,
+					"buffer": 60,
 					"file": "MN/mn7 Das Gleichnis vom Tuch",
 					"semi_transient": false,
 					"settings":
@@ -3753,11 +3994,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 39,
+					"stack_index": 56,
 					"type": "text"
 				},
 				{
-					"buffer": 56,
+					"buffer": 61,
 					"file": "SN/Sam1/sn1.1 Die Flut überqueren",
 					"semi_transient": false,
 					"settings":
@@ -3783,11 +4024,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 38,
+					"stack_index": 55,
 					"type": "text"
 				},
 				{
-					"buffer": 57,
+					"buffer": 62,
 					"file": "SN/Sam10/sn10.8 Mit Sudatta",
 					"semi_transient": false,
 					"settings":
@@ -3813,11 +4054,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 37,
+					"stack_index": 54,
 					"type": "text"
 				},
 				{
-					"buffer": 58,
+					"buffer": 63,
 					"file": "SN/Sam22/sn22.59 Kennzeichen des Nicht-selbst",
 					"semi_transient": false,
 					"settings":
@@ -3843,11 +4084,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 36,
+					"stack_index": 53,
 					"type": "text"
 				},
 				{
-					"buffer": 59,
+					"buffer": 64,
 					"file": "SN/Sam3/sn3.21 Menschen",
 					"semi_transient": false,
 					"settings":
@@ -3873,11 +4114,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 35,
+					"stack_index": 52,
 					"type": "text"
 				},
 				{
-					"buffer": 60,
+					"buffer": 65,
 					"file": "SN/Sam35/sn35.28 Brennen",
 					"semi_transient": false,
 					"settings":
@@ -3903,11 +4144,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 51,
 					"type": "text"
 				},
 				{
-					"buffer": 61,
+					"buffer": 66,
 					"file": "SN/Sam42/sn42.11 Mit Bhadraka",
 					"semi_transient": false,
 					"settings":
@@ -3933,11 +4174,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 50,
 					"type": "text"
 				},
 				{
-					"buffer": 62,
+					"buffer": 67,
 					"file": "SN/Sam45/sn45.8 Aufgliederung",
 					"semi_transient": false,
 					"settings":
@@ -3963,11 +4204,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 49,
 					"type": "text"
 				},
 				{
-					"buffer": 63,
+					"buffer": 68,
 					"file": "SN/Sam47/sn47.9 Krank",
 					"semi_transient": false,
 					"settings":
@@ -3993,16 +4234,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 48,
 					"type": "text"
 				},
 				{
-					"buffer": 64,
+					"buffer": 69,
 					"file": "DN/dn17 Der König Mahāsudassana",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 40039,
+						"buffer_size": 40056,
 						"regions":
 						{
 						},
@@ -4023,24 +4264,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 191,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 65,
+					"buffer": 70,
 					"file": "DN/dn18 Mit Janavasabha",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 28029,
+						"buffer_size": 27999,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								28029,
-								28029
+								0,
+								0
 							]
 						],
 						"settings":
@@ -4058,14 +4299,134 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1084.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 66,
+					"buffer": 71,
+					"file": "AN/3/an3.126 Der Kālāmer Bharaṇḍu",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 72,
+					"file": "AN/4/an4.187 Mit Vassakāra",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 73,
+					"file": "AN/5/an5.143 Bei Sārandada",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 74,
+					"file": "AN/5/an5.50 Mit Nārada",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 75,
 					"file": "AN/3/an3.156-162",
 					"semi_transient": false,
 					"settings":
@@ -4091,11 +4452,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 67,
+					"buffer": 76,
 					"file": "AN/3/an3.1 Gefahren",
 					"semi_transient": false,
 					"settings":
@@ -4121,11 +4482,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
-					"buffer": 68,
+					"buffer": 77,
 					"file": "AN/3/an3.10 Flecken",
 					"semi_transient": false,
 					"settings":
@@ -4151,11 +4512,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 34,
 					"type": "text"
 				},
 				{
-					"buffer": 69,
+					"buffer": 78,
 					"file": "AN/3/an3.100 Ein Salzklümpchen",
 					"semi_transient": false,
 					"settings":
@@ -4181,11 +4542,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
-					"buffer": 70,
+					"buffer": 79,
 					"file": "AN/3/an3.101 Ein Goldwäscher",
 					"semi_transient": false,
 					"settings":
@@ -4211,11 +4572,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
-					"buffer": 71,
+					"buffer": 80,
 					"file": "AN/3/an3.102 Grundlagen",
 					"semi_transient": false,
 					"settings":
@@ -4241,11 +4602,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
-					"buffer": 72,
+					"buffer": 81,
 					"file": "AN/3/an3.103 Vor dem Erwachen",
 					"semi_transient": false,
 					"settings":
@@ -4271,11 +4632,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
-					"buffer": 73,
+					"buffer": 82,
 					"file": "AN/3/an3.104 Erfüllung (1)",
 					"semi_transient": false,
 					"settings":
@@ -4301,11 +4662,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
-					"buffer": 74,
+					"buffer": 83,
 					"file": "AN/3/an3.105 Erfüllung (2)",
 					"semi_transient": false,
 					"settings":
@@ -4331,11 +4692,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 28,
 					"type": "text"
 				},
 				{
-					"buffer": 75,
+					"buffer": 84,
 					"file": "AN/3/an3.106 Asketen und Brahmanen",
 					"semi_transient": false,
 					"settings":
@@ -4359,11 +4720,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
-					"buffer": 76,
+					"buffer": 85,
 					"file": "AN/3/an3.107 Wehklagen",
 					"semi_transient": false,
 					"settings":
@@ -4387,11 +4748,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 77,
+					"buffer": 86,
 					"file": "AN/3/an3.108 Befriedigung",
 					"semi_transient": false,
 					"settings":
@@ -4415,11 +4776,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 78,
+					"buffer": 87,
 					"file": "AN/3/an3.109 Ungeschützt",
 					"semi_transient": false,
 					"settings":
@@ -4445,11 +4806,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 79,
+					"buffer": 88,
 					"file": "AN/3/an3.11 Namhaft",
 					"semi_transient": false,
 					"settings":
@@ -4475,11 +4836,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 80,
+					"buffer": 89,
 					"file": "AN/3/an3.110 Gefallen",
 					"semi_transient": false,
 					"settings":
@@ -4505,11 +4866,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 81,
+					"buffer": 90,
 					"file": "MN/mn10 Achtsamkeitsmeditation",
 					"semi_transient": false,
 					"settings":
@@ -4535,11 +4896,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 43,
+					"stack_index": 60,
 					"type": "text"
 				},
 				{
-					"buffer": 82,
+					"buffer": 91,
 					"file": "MN/mn2 Alle Befleckungen",
 					"semi_transient": false,
 					"settings":
@@ -4565,11 +4926,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 42,
+					"stack_index": 59,
 					"type": "text"
 				},
 				{
-					"buffer": 83,
+					"buffer": 92,
 					"file": "AN/6/an6.19 Achtsamkeit auf den Tod (1)",
 					"semi_transient": false,
 					"settings":
@@ -4595,11 +4956,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 98,
+					"stack_index": 113,
 					"type": "text"
 				},
 				{
-					"buffer": 84,
+					"buffer": 93,
 					"file": "AN/6/an6.20 Achtsamkeit auf den Tod (2)",
 					"semi_transient": false,
 					"settings":
@@ -4625,11 +4986,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 96,
+					"stack_index": 111,
 					"type": "text"
 				},
 				{
-					"buffer": 85,
+					"buffer": 94,
 					"file": "AN/6/an6.21 Beim Dorf Sāma",
 					"semi_transient": false,
 					"settings":
@@ -4655,11 +5016,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 95,
+					"stack_index": 110,
 					"type": "text"
 				},
 				{
-					"buffer": 86,
+					"buffer": 95,
 					"file": "AN/6/an6.22 Gedeihen",
 					"semi_transient": false,
 					"settings":
@@ -4685,11 +5046,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 94,
+					"stack_index": 109,
 					"type": "text"
 				},
 				{
-					"buffer": 87,
+					"buffer": 96,
 					"file": "AN/6/an6.23 Gefahren",
 					"semi_transient": false,
 					"settings":
@@ -4715,16 +5076,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 93,
+					"stack_index": 108,
 					"type": "text"
 				},
 				{
-					"buffer": 88,
+					"buffer": 97,
 					"file": "AN/6/an6.24 Der Himalaya",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 878,
+						"buffer_size": 860,
 						"regions":
 						{
 						},
@@ -4743,11 +5104,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 92,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 89,
+					"buffer": 98,
+					"file": "AN/5/an5.193 Mit Saṅgārava",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 99,
 					"file": "AN/6/an6.25 Gegenstände zur Besinnung",
 					"semi_transient": false,
 					"settings":
@@ -4773,11 +5164,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 91,
+					"stack_index": 107,
 					"type": "text"
 				},
 				{
-					"buffer": 90,
+					"buffer": 100,
 					"file": "AN/6/an6.26 Mit Mahākaccāna",
 					"semi_transient": false,
 					"settings":
@@ -4803,11 +5194,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 90,
+					"stack_index": 106,
 					"type": "text"
 				},
 				{
-					"buffer": 91,
+					"buffer": 101,
 					"file": "AN/6/an6.27 Gelegenheiten (1)",
 					"semi_transient": false,
 					"settings":
@@ -4833,11 +5224,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 89,
+					"stack_index": 105,
 					"type": "text"
 				},
 				{
-					"buffer": 92,
+					"buffer": 102,
 					"file": "AN/6/an6.1 Einer Gabe würdig (1)",
 					"semi_transient": false,
 					"settings":
@@ -4863,11 +5254,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 108,
+					"stack_index": 123,
 					"type": "text"
 				},
 				{
-					"buffer": 93,
+					"buffer": 103,
 					"file": "AN/6/an6.10 Mit Mahānāma",
 					"semi_transient": false,
 					"settings":
@@ -4893,11 +5284,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 107,
+					"stack_index": 122,
 					"type": "text"
 				},
 				{
-					"buffer": 94,
+					"buffer": 104,
 					"file": "AN/6/an6.11 Warmherzig (1)",
 					"semi_transient": false,
 					"settings":
@@ -4923,11 +5314,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 106,
+					"stack_index": 121,
 					"type": "text"
 				},
 				{
-					"buffer": 95,
+					"buffer": 105,
 					"file": "AN/6/an6.12 Warmherzig (2)",
 					"semi_transient": false,
 					"settings":
@@ -4953,11 +5344,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 105,
+					"stack_index": 120,
 					"type": "text"
 				},
 				{
-					"buffer": 96,
+					"buffer": 106,
 					"file": "AN/6/an6.13 Elemente des Entrinnens",
 					"semi_transient": false,
 					"settings":
@@ -4983,11 +5374,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 104,
+					"stack_index": 119,
 					"type": "text"
 				},
 				{
-					"buffer": 97,
+					"buffer": 107,
 					"file": "AN/6/an6.14 Ein guter Tod",
 					"semi_transient": false,
 					"settings":
@@ -5013,11 +5404,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 103,
+					"stack_index": 118,
 					"type": "text"
 				},
 				{
-					"buffer": 98,
+					"buffer": 108,
 					"file": "AN/6/an6.15 Reue",
 					"semi_transient": false,
 					"settings":
@@ -5043,11 +5434,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 102,
+					"stack_index": 117,
 					"type": "text"
 				},
 				{
-					"buffer": 99,
+					"buffer": 109,
 					"file": "AN/6/an6.16 Nakulas Vater",
 					"semi_transient": false,
 					"settings":
@@ -5073,11 +5464,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 101,
+					"stack_index": 116,
 					"type": "text"
 				},
 				{
-					"buffer": 100,
+					"buffer": 110,
 					"file": "AN/6/an6.17 Schlaf",
 					"semi_transient": false,
 					"settings":
@@ -5103,11 +5494,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 100,
+					"stack_index": 115,
 					"type": "text"
 				},
 				{
-					"buffer": 101,
+					"buffer": 111,
 					"file": "AN/6/an6.18 Ein Fischhändler",
 					"semi_transient": false,
 					"settings":
@@ -5133,11 +5524,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 99,
+					"stack_index": 114,
 					"type": "text"
 				},
 				{
-					"buffer": 102,
+					"buffer": 112,
 					"file": "AN/6/an6.2 Einer Gabe würdig (2)",
 					"semi_transient": false,
 					"settings":
@@ -5163,16 +5554,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 97,
+					"stack_index": 112,
 					"type": "text"
 				},
 				{
-					"buffer": 103,
+					"buffer": 113,
 					"file": "AN/4/an4.180 Die vier großen Bezugspunkte",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9839,
+						"buffer_size": 9817,
 						"regions":
 						{
 						},
@@ -5193,11 +5584,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 189,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 104,
+					"buffer": 114,
 					"file": "AN/4/an4.170 Gemeinsam",
 					"semi_transient": false,
 					"settings":
@@ -5223,11 +5614,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 188,
+					"stack_index": 201,
 					"type": "text"
 				},
 				{
-					"buffer": 105,
+					"buffer": 115,
 					"file": "AN/3/an3.30 Auf dem Kopf",
 					"semi_transient": false,
 					"settings":
@@ -5253,16 +5644,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 187,
+					"stack_index": 200,
 					"type": "text"
 				},
 				{
-					"buffer": 106,
+					"buffer": 116,
 					"file": "AN/6/an6.28 Gelegenheiten (2)",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4972,
+						"buffer_size": 4960,
 						"regions":
 						{
 						},
@@ -5283,11 +5674,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 88,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 107,
+					"buffer": 117,
 					"file": "AN/6/an6.29 Mit Udāyī",
 					"semi_transient": false,
 					"settings":
@@ -5313,11 +5704,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 87,
+					"stack_index": 104,
 					"type": "text"
 				},
 				{
-					"buffer": 108,
+					"buffer": 118,
 					"file": "AN/6/an6.3 Fähigkeiten",
 					"semi_transient": false,
 					"settings":
@@ -5341,11 +5732,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 86,
+					"stack_index": 103,
 					"type": "text"
 				},
 				{
-					"buffer": 109,
+					"buffer": 119,
 					"file": "AN/6/an6.30 Unübertrefflich",
 					"semi_transient": false,
 					"settings":
@@ -5371,11 +5762,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 85,
+					"stack_index": 102,
 					"type": "text"
 				},
 				{
-					"buffer": 110,
+					"buffer": 120,
 					"file": "AN/6/an6.31 Ein Übender",
 					"semi_transient": false,
 					"settings":
@@ -5401,11 +5792,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 84,
+					"stack_index": 101,
 					"type": "text"
 				},
 				{
-					"buffer": 111,
+					"buffer": 121,
 					"file": "AN/6/an6.32 Gedeihen (1)",
 					"semi_transient": false,
 					"settings":
@@ -5431,11 +5822,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 83,
+					"stack_index": 100,
 					"type": "text"
 				},
 				{
-					"buffer": 112,
+					"buffer": 122,
 					"file": "AN/6/an6.33 Gedeihen (2)",
 					"semi_transient": false,
 					"settings":
@@ -5461,11 +5852,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 82,
+					"stack_index": 99,
 					"type": "text"
 				},
 				{
-					"buffer": 113,
+					"buffer": 123,
 					"file": "AN/6/an6.34 Mit Mahāmoggallāna",
 					"semi_transient": false,
 					"settings":
@@ -5491,11 +5882,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 81,
+					"stack_index": 98,
 					"type": "text"
 				},
 				{
-					"buffer": 114,
+					"buffer": 124,
 					"file": "AN/6/an6.35 Dinge, die für das Klarwerden eine Rolle spielen",
 					"semi_transient": false,
 					"settings":
@@ -5519,11 +5910,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 80,
+					"stack_index": 97,
 					"type": "text"
 				},
 				{
-					"buffer": 115,
+					"buffer": 125,
 					"file": "AN/6/an6.36 Wurzeln des Zwists",
 					"semi_transient": false,
 					"settings":
@@ -5549,11 +5940,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 79,
+					"stack_index": 96,
 					"type": "text"
 				},
 				{
-					"buffer": 116,
+					"buffer": 126,
 					"file": "AN/6/an6.37 Eine Gabe mit sechs Faktoren",
 					"semi_transient": false,
 					"settings":
@@ -5579,11 +5970,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 78,
+					"stack_index": 95,
 					"type": "text"
 				},
 				{
-					"buffer": 117,
+					"buffer": 127,
 					"file": "AN/6/an6.38 Der eigene Wille",
 					"semi_transient": false,
 					"settings":
@@ -5609,11 +6000,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 77,
+					"stack_index": 94,
 					"type": "text"
 				},
 				{
-					"buffer": 118,
+					"buffer": 128,
 					"file": "AN/6/an6.39 Quellen",
 					"semi_transient": false,
 					"settings":
@@ -5639,11 +6030,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 76,
+					"stack_index": 93,
 					"type": "text"
 				},
 				{
-					"buffer": 119,
+					"buffer": 129,
 					"file": "AN/6/an6.4 Kräfte",
 					"semi_transient": false,
 					"settings":
@@ -5667,11 +6058,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 75,
+					"stack_index": 92,
 					"type": "text"
 				},
 				{
-					"buffer": 120,
+					"buffer": 130,
 					"file": "AN/6/an6.40 Mit Kimbila",
 					"semi_transient": false,
 					"settings":
@@ -5697,11 +6088,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 74,
+					"stack_index": 91,
 					"type": "text"
 				},
 				{
-					"buffer": 121,
+					"buffer": 131,
 					"file": "AN/6/an6.41 Ein Baumstamm",
 					"semi_transient": false,
 					"settings":
@@ -5727,11 +6118,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 73,
+					"stack_index": 90,
 					"type": "text"
 				},
 				{
-					"buffer": 122,
+					"buffer": 132,
 					"file": "AN/6/an6.42 Mit Nāgita",
 					"semi_transient": false,
 					"settings":
@@ -5757,11 +6148,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 72,
+					"stack_index": 89,
 					"type": "text"
 				},
 				{
-					"buffer": 123,
+					"buffer": 133,
 					"file": "AN/6/an6.43 Der Riese",
 					"semi_transient": false,
 					"settings":
@@ -5787,11 +6178,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 71,
+					"stack_index": 88,
 					"type": "text"
 				},
 				{
-					"buffer": 124,
+					"buffer": 134,
 					"file": "AN/6/an6.5 Ein Vollblüter (1)",
 					"semi_transient": false,
 					"settings":
@@ -5817,11 +6208,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 70,
+					"stack_index": 87,
 					"type": "text"
 				},
 				{
-					"buffer": 125,
+					"buffer": 135,
 					"file": "AN/6/an6.6 Ein Vollblüter (2)",
 					"semi_transient": false,
 					"settings":
@@ -5847,11 +6238,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 69,
+					"stack_index": 86,
 					"type": "text"
 				},
 				{
-					"buffer": 126,
+					"buffer": 136,
 					"file": "AN/6/an6.7 Ein Vollblüter (3)",
 					"semi_transient": false,
 					"settings":
@@ -5877,11 +6268,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 68,
+					"stack_index": 85,
 					"type": "text"
 				},
 				{
-					"buffer": 127,
+					"buffer": 137,
 					"file": "AN/6/an6.8 Unübertrefflich",
 					"semi_transient": false,
 					"settings":
@@ -5905,11 +6296,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 67,
+					"stack_index": 84,
 					"type": "text"
 				},
 				{
-					"buffer": 128,
+					"buffer": 138,
 					"file": "AN/6/an6.9 Gegenstände zur Besinnung",
 					"semi_transient": false,
 					"settings":
@@ -5933,11 +6324,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 66,
+					"stack_index": 83,
 					"type": "text"
 				},
 				{
-					"buffer": 129,
+					"buffer": 139,
 					"file": "KN/Thag/thag1.43 Sumaṅgala",
 					"semi_transient": false,
 					"settings":
@@ -5963,11 +6354,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 65,
+					"stack_index": 82,
 					"type": "text"
 				},
 				{
-					"buffer": 130,
+					"buffer": 140,
 					"file": "KN/Thag/thag15.2 Udāyī",
 					"semi_transient": false,
 					"settings":
@@ -5993,11 +6384,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 64,
+					"stack_index": 81,
 					"type": "text"
 				},
 				{
-					"buffer": 131,
+					"buffer": 141,
 					"file": "KN/Thig/thig1.1 Eine nicht namentlich genannte Nonne (1)",
 					"semi_transient": false,
 					"settings":
@@ -6021,11 +6412,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 63,
+					"stack_index": 80,
 					"type": "text"
 				},
 				{
-					"buffer": 132,
+					"buffer": 142,
 					"file": "KN/Thig/thig1.10 Upasamā",
 					"semi_transient": false,
 					"settings":
@@ -6049,11 +6440,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 62,
+					"stack_index": 79,
 					"type": "text"
 				},
 				{
-					"buffer": 133,
+					"buffer": 143,
 					"file": "KN/Thig/thig1.11 Muttā (2)",
 					"semi_transient": false,
 					"settings":
@@ -6077,11 +6468,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 61,
+					"stack_index": 78,
 					"type": "text"
 				},
 				{
-					"buffer": 134,
+					"buffer": 144,
 					"file": "KN/Thig/thig1.12 Dhammadinnā",
 					"semi_transient": false,
 					"settings":
@@ -6105,11 +6496,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 56,
+					"stack_index": 73,
 					"type": "text"
 				},
 				{
-					"buffer": 135,
+					"buffer": 145,
 					"file": "KN/Thig/thig1.13 Visākhā",
 					"semi_transient": false,
 					"settings":
@@ -6133,11 +6524,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 57,
+					"stack_index": 74,
 					"type": "text"
 				},
 				{
-					"buffer": 136,
+					"buffer": 146,
 					"file": "KN/Thig/thig1.14 Sumanā",
 					"semi_transient": false,
 					"settings":
@@ -6161,11 +6552,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 58,
+					"stack_index": 75,
 					"type": "text"
 				},
 				{
-					"buffer": 137,
+					"buffer": 147,
 					"file": "KN/Thig/thig1.15 Uttarā",
 					"semi_transient": false,
 					"settings":
@@ -6189,11 +6580,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 59,
+					"stack_index": 76,
 					"type": "text"
 				},
 				{
-					"buffer": 138,
+					"buffer": 148,
 					"file": "KN/Thig/thig1.17 Dhammā",
 					"semi_transient": false,
 					"settings":
@@ -6217,11 +6608,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 55,
+					"stack_index": 72,
 					"type": "text"
 				},
 				{
-					"buffer": 139,
+					"buffer": 149,
 					"file": "KN/Thig/thig1.18 Saṅghā",
 					"semi_transient": false,
 					"settings":
@@ -6247,11 +6638,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 54,
+					"stack_index": 71,
 					"type": "text"
 				},
 				{
-					"buffer": 140,
+					"buffer": 150,
 					"file": "KN/Thig/thig1.2 Muttā (1)",
 					"semi_transient": false,
 					"settings":
@@ -6275,11 +6666,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 53,
+					"stack_index": 70,
 					"type": "text"
 				},
 				{
-					"buffer": 141,
+					"buffer": 151,
 					"file": "KN/Thig/thig1.3 Puṇṇā",
 					"semi_transient": false,
 					"settings":
@@ -6303,11 +6694,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 52,
+					"stack_index": 69,
 					"type": "text"
 				},
 				{
-					"buffer": 142,
+					"buffer": 152,
 					"file": "KN/Thig/thig1.4 Tissā",
 					"semi_transient": false,
 					"settings":
@@ -6331,11 +6722,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 51,
+					"stack_index": 68,
 					"type": "text"
 				},
 				{
-					"buffer": 143,
+					"buffer": 153,
 					"file": "KN/Thig/thig1.5 Eine andere Tissā",
 					"semi_transient": false,
 					"settings":
@@ -6359,11 +6750,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 50,
+					"stack_index": 67,
 					"type": "text"
 				},
 				{
-					"buffer": 144,
+					"buffer": 154,
 					"file": "KN/Thig/thig1.6 Dhīrā",
 					"semi_transient": false,
 					"settings":
@@ -6387,11 +6778,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 49,
+					"stack_index": 66,
 					"type": "text"
 				},
 				{
-					"buffer": 145,
+					"buffer": 155,
 					"file": "KN/Thig/thig1.7 Vīrā",
 					"semi_transient": false,
 					"settings":
@@ -6415,11 +6806,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 48,
+					"stack_index": 65,
 					"type": "text"
 				},
 				{
-					"buffer": 146,
+					"buffer": 156,
 					"file": "KN/Thig/thig1.8 Mittā (1)",
 					"semi_transient": false,
 					"settings":
@@ -6443,11 +6834,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 47,
+					"stack_index": 64,
 					"type": "text"
 				},
 				{
-					"buffer": 147,
+					"buffer": 157,
 					"file": "KN/Thig/thig1.9 Bhadrā",
 					"semi_transient": false,
 					"settings":
@@ -6471,11 +6862,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 46,
+					"stack_index": 63,
 					"type": "text"
 				},
 				{
-					"buffer": 148,
+					"buffer": 158,
 					"file": "KN/Thig/thig3.8 Somā",
 					"semi_transient": false,
 					"settings":
@@ -6501,11 +6892,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 45,
+					"stack_index": 62,
 					"type": "text"
 				},
 				{
-					"buffer": 149,
+					"buffer": 159,
 					"file": "KN/Thig/thig6.8 Vijayā",
 					"semi_transient": false,
 					"settings":
@@ -6531,11 +6922,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 44,
+					"stack_index": 61,
 					"type": "text"
 				},
 				{
-					"buffer": 150,
+					"buffer": 160,
 					"file": "KN/Thig/thig1.16 Sumanā, die spät im Leben fortzog",
 					"semi_transient": false,
 					"settings":
@@ -6559,16 +6950,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 60,
+					"stack_index": 77,
 					"type": "text"
 				},
 				{
-					"buffer": 151,
+					"buffer": 161,
 					"file": "AN/5/an5.44 Angenehm",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4487,
+						"buffer_size": 4475,
 						"regions":
 						{
 						},
@@ -6589,11 +6980,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 186,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 152,
+					"buffer": 162,
 					"file": "AN/4/an4.76 In Kusinārā",
 					"semi_transient": false,
 					"settings":
@@ -6619,16 +7010,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 185,
+					"stack_index": 199,
 					"type": "text"
 				},
 				{
-					"buffer": 153,
+					"buffer": 163,
 					"file": "AN/3/an3.80 Kleiner",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4289,
+						"buffer_size": 4283,
 						"regions":
 						{
 						},
@@ -6649,11 +7040,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 184,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 154,
+					"buffer": 164,
 					"file": "AN/1/an1.1-10",
 					"semi_transient": false,
 					"settings":
@@ -6679,11 +7070,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 183,
+					"stack_index": 198,
 					"type": "text"
 				},
 				{
-					"buffer": 155,
+					"buffer": 165,
 					"file": "AN/1/an1.11-20",
 					"semi_transient": false,
 					"settings":
@@ -6709,11 +7100,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 182,
+					"stack_index": 197,
 					"type": "text"
 				},
 				{
-					"buffer": 156,
+					"buffer": 166,
 					"file": "AN/1/an1.140-149",
 					"semi_transient": false,
 					"settings":
@@ -6739,11 +7130,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 181,
+					"stack_index": 196,
 					"type": "text"
 				},
 				{
-					"buffer": 157,
+					"buffer": 167,
 					"file": "AN/1/an1.150-169",
 					"semi_transient": false,
 					"settings":
@@ -6769,11 +7160,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 180,
+					"stack_index": 195,
 					"type": "text"
 				},
 				{
-					"buffer": 158,
+					"buffer": 168,
 					"file": "AN/1/an1.170-187",
 					"semi_transient": false,
 					"settings":
@@ -6799,11 +7190,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 179,
+					"stack_index": 194,
 					"type": "text"
 				},
 				{
-					"buffer": 159,
+					"buffer": 169,
 					"file": "AN/1/an1.188-197",
 					"semi_transient": false,
 					"settings":
@@ -6829,11 +7220,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 176,
+					"stack_index": 191,
 					"type": "text"
 				},
 				{
-					"buffer": 160,
+					"buffer": 170,
 					"file": "AN/1/an1.198-208",
 					"semi_transient": false,
 					"settings":
@@ -6859,11 +7250,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 178,
+					"stack_index": 193,
 					"type": "text"
 				},
 				{
-					"buffer": 161,
+					"buffer": 171,
 					"file": "AN/1/an1.209-218",
 					"semi_transient": false,
 					"settings":
@@ -6889,11 +7280,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 177,
+					"stack_index": 192,
 					"type": "text"
 				},
 				{
-					"buffer": 162,
+					"buffer": 172,
 					"file": "AN/1/an1.21-30",
 					"semi_transient": false,
 					"settings":
@@ -6919,11 +7310,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 175,
+					"stack_index": 190,
 					"type": "text"
 				},
 				{
-					"buffer": 163,
+					"buffer": 173,
 					"file": "AN/1/an1.219-234",
 					"semi_transient": false,
 					"settings":
@@ -6949,11 +7340,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 174,
+					"stack_index": 189,
 					"type": "text"
 				},
 				{
-					"buffer": 164,
+					"buffer": 174,
 					"file": "AN/1/an1.235-247",
 					"semi_transient": false,
 					"settings":
@@ -6979,11 +7370,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 173,
+					"stack_index": 188,
 					"type": "text"
 				},
 				{
-					"buffer": 165,
+					"buffer": 175,
 					"file": "AN/1/an1.248-257",
 					"semi_transient": false,
 					"settings":
@@ -7009,11 +7400,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 172,
+					"stack_index": 187,
 					"type": "text"
 				},
 				{
-					"buffer": 166,
+					"buffer": 176,
 					"file": "AN/1/an1.258-267",
 					"semi_transient": false,
 					"settings":
@@ -7039,11 +7430,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 171,
+					"stack_index": 186,
 					"type": "text"
 				},
 				{
-					"buffer": 167,
+					"buffer": 177,
 					"file": "AN/1/an1.268-277",
 					"semi_transient": false,
 					"settings":
@@ -7069,11 +7460,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 168,
+					"buffer": 178,
 					"file": "AN/1/an1.278-286",
 					"semi_transient": false,
 					"settings":
@@ -7099,11 +7490,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 169,
+					"buffer": 179,
 					"file": "AN/1/an1.287-295",
 					"semi_transient": false,
 					"settings":
@@ -7129,11 +7520,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 170,
+					"stack_index": 185,
 					"type": "text"
 				},
 				{
-					"buffer": 170,
+					"buffer": 180,
 					"file": "AN/1/an1.296-305",
 					"semi_transient": false,
 					"settings":
@@ -7159,11 +7550,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 169,
+					"stack_index": 184,
 					"type": "text"
 				},
 				{
-					"buffer": 171,
+					"buffer": 181,
 					"file": "AN/1/an1.306-315",
 					"semi_transient": false,
 					"settings":
@@ -7189,11 +7580,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 168,
+					"stack_index": 183,
 					"type": "text"
 				},
 				{
-					"buffer": 172,
+					"buffer": 182,
 					"file": "AN/1/an1.31-40",
 					"semi_transient": false,
 					"settings":
@@ -7219,11 +7610,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 167,
+					"stack_index": 182,
 					"type": "text"
 				},
 				{
-					"buffer": 173,
+					"buffer": 183,
 					"file": "AN/1/an1.316-332",
 					"semi_transient": false,
 					"settings":
@@ -7249,11 +7640,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 166,
+					"stack_index": 181,
 					"type": "text"
 				},
 				{
-					"buffer": 174,
+					"buffer": 184,
 					"file": "AN/1/an1.333-377",
 					"semi_transient": false,
 					"settings":
@@ -7279,11 +7670,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 165,
+					"stack_index": 180,
 					"type": "text"
 				},
 				{
-					"buffer": 175,
+					"buffer": 185,
 					"file": "AN/1/an1.378-393",
 					"semi_transient": false,
 					"settings":
@@ -7309,11 +7700,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 164,
+					"stack_index": 179,
 					"type": "text"
 				},
 				{
-					"buffer": 176,
+					"buffer": 186,
 					"file": "AN/1/an1.394-574",
 					"semi_transient": false,
 					"settings":
@@ -7339,11 +7730,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 163,
+					"stack_index": 178,
 					"type": "text"
 				},
 				{
-					"buffer": 177,
+					"buffer": 187,
 					"file": "AN/1/an1.41-50",
 					"semi_transient": false,
 					"settings":
@@ -7369,11 +7760,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 162,
+					"stack_index": 177,
 					"type": "text"
 				},
 				{
-					"buffer": 178,
+					"buffer": 188,
 					"file": "AN/1/an1.51-60",
 					"semi_transient": false,
 					"settings":
@@ -7399,11 +7790,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 161,
+					"stack_index": 176,
 					"type": "text"
 				},
 				{
-					"buffer": 179,
+					"buffer": 189,
 					"file": "AN/1/an1.575-615",
 					"semi_transient": false,
 					"settings":
@@ -7429,11 +7820,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 160,
+					"stack_index": 175,
 					"type": "text"
 				},
 				{
-					"buffer": 180,
+					"buffer": 190,
 					"file": "AN/1/an1.61-70",
 					"semi_transient": false,
 					"settings":
@@ -7459,11 +7850,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 159,
+					"stack_index": 174,
 					"type": "text"
 				},
 				{
-					"buffer": 181,
+					"buffer": 191,
 					"file": "AN/1/an1.616-627",
 					"semi_transient": false,
 					"settings":
@@ -7489,11 +7880,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 158,
+					"stack_index": 173,
 					"type": "text"
 				},
 				{
-					"buffer": 182,
+					"buffer": 192,
 					"file": "AN/1/an1.71-81",
 					"semi_transient": false,
 					"settings":
@@ -7519,11 +7910,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 157,
+					"stack_index": 172,
 					"type": "text"
 				},
 				{
-					"buffer": 183,
+					"buffer": 193,
 					"file": "AN/1/an1.82-97",
 					"semi_transient": false,
 					"settings":
@@ -7549,11 +7940,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 156,
+					"stack_index": 171,
 					"type": "text"
 				},
 				{
-					"buffer": 184,
+					"buffer": 194,
 					"file": "AN/1/an1.98-139",
 					"semi_transient": false,
 					"settings":
@@ -7579,11 +7970,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 155,
+					"stack_index": 170,
 					"type": "text"
 				},
 				{
-					"buffer": 185,
+					"buffer": 195,
 					"file": "DN/dn15 Die große Lehrrede über ursächliche Zusammenhänge",
 					"semi_transient": false,
 					"settings":
@@ -7609,24 +8000,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 200,
+					"stack_index": 210,
 					"type": "text"
 				},
 				{
-					"buffer": 186,
+					"buffer": 196,
 					"file": "DN/dn14 Die große Lehrrede über die Ernte aus den Taten",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 74541,
+						"buffer_size": 74525,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								74525,
+								74525
 							]
 						],
 						"settings":
@@ -7636,14 +8027,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 21643.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 190,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 187,
+					"buffer": 197,
 					"file": "AN/3/an3.48 Der König der Berge",
 					"semi_transient": false,
 					"settings":
@@ -7669,11 +8060,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 196,
+					"stack_index": 206,
 					"type": "text"
 				},
 				{
-					"buffer": 188,
+					"buffer": 198,
 					"file": "AN/5/an5.40 Die großen Salbäume",
 					"semi_transient": false,
 					"settings":
@@ -7699,11 +8090,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 195,
+					"stack_index": 205,
 					"type": "text"
 				},
 				{
-					"buffer": 189,
+					"buffer": 199,
 					"file": "AN/3/an3.40 Sich in die Pflicht nehmen",
 					"semi_transient": false,
 					"settings":
@@ -7729,11 +8120,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 154,
+					"stack_index": 169,
 					"type": "text"
 				},
 				{
-					"buffer": 190,
+					"buffer": 200,
 					"file": "AN/3/an3.53 Ein gewisser Brahmane",
 					"semi_transient": false,
 					"settings":
@@ -7759,11 +8150,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 153,
+					"stack_index": 168,
 					"type": "text"
 				},
 				{
-					"buffer": 191,
+					"buffer": 201,
 					"file": "AN/3/an3.54 Ein Wanderer",
 					"semi_transient": false,
 					"settings":
@@ -7789,11 +8180,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 152,
+					"stack_index": 167,
 					"type": "text"
 				},
 				{
-					"buffer": 192,
+					"buffer": 202,
 					"file": "AN/3/an3.55 Erloschen",
 					"semi_transient": false,
 					"settings":
@@ -7819,11 +8210,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 151,
+					"stack_index": 166,
 					"type": "text"
 				},
 				{
-					"buffer": 193,
+					"buffer": 203,
 					"file": "AN/3/an3.70 Besinnungstag",
 					"semi_transient": false,
 					"settings":
@@ -7849,11 +8240,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 150,
+					"stack_index": 165,
 					"type": "text"
 				},
 				{
-					"buffer": 194,
+					"buffer": 204,
 					"file": "AN/3/an3.74 Jainas",
 					"semi_transient": false,
 					"settings":
@@ -7879,11 +8270,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 149,
+					"stack_index": 164,
 					"type": "text"
 				},
 				{
-					"buffer": 195,
+					"buffer": 205,
 					"file": "AN/3/an3.75 Beständigkeit",
 					"semi_transient": false,
 					"settings":
@@ -7909,11 +8300,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 148,
+					"stack_index": 163,
 					"type": "text"
 				},
 				{
-					"buffer": 196,
+					"buffer": 206,
 					"file": "AN/4/an4.195 Mit Vappa",
 					"semi_transient": false,
 					"settings":
@@ -7939,11 +8330,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 147,
+					"stack_index": 162,
 					"type": "text"
 				},
 				{
-					"buffer": 197,
+					"buffer": 207,
 					"file": "AN/4/an4.52 Überfließendes Verdienst (2)",
 					"semi_transient": false,
 					"settings":
@@ -7969,11 +8360,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 146,
+					"stack_index": 161,
 					"type": "text"
 				},
 				{
-					"buffer": 198,
+					"buffer": 208,
 					"file": "AN/5/an5.179 Ein Laie",
 					"semi_transient": false,
 					"settings":
@@ -7999,11 +8390,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 145,
+					"stack_index": 160,
 					"type": "text"
 				},
 				{
-					"buffer": 199,
+					"buffer": 209,
 					"file": "SN/Sam12/sn12.22 Die zehn Kräfte (2)",
 					"semi_transient": false,
 					"settings":
@@ -8029,11 +8420,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 194,
+					"stack_index": 204,
 					"type": "text"
 				},
 				{
-					"buffer": 200,
+					"buffer": 210,
 					"file": "AN/3/an3.60 Mit Saṅgārava",
 					"semi_transient": false,
 					"settings":
@@ -8059,11 +8450,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 193,
+					"stack_index": 203,
 					"type": "text"
 				},
 				{
-					"buffer": 201,
+					"buffer": 211,
 					"file": "DN/dn12 Mit Lohicca",
 					"semi_transient": false,
 					"settings":
@@ -8089,7 +8480,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 199,
+					"stack_index": 209,
 					"type": "text"
 				}
 			]
