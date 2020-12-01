@@ -11,7 +11,7 @@
 			"file": "DN/dn10 Mit Subha",
 			"settings":
 			{
-				"buffer_size": 33847,
+				"buffer_size": 33850,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -119,7 +119,7 @@
 			"file": "AN/8/an8.53 Kurzer Rat für Gotamī",
 			"settings":
 			{
-				"buffer_size": 2065,
+				"buffer_size": 2081,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -128,7 +128,7 @@
 			"file": "AN/8/an8.63 Eine kurze Unterweisung",
 			"settings":
 			{
-				"buffer_size": 6066,
+				"buffer_size": 6077,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -775,12 +775,48 @@
 			}
 		},
 		{
+			"file": "AN/4/an4.257 Mit Māluṅkyaputta",
+			"settings":
+			{
+				"buffer_size": 2649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"contents": "Voice release v2.5: Search memorizer\n\nDear friends of Voice,\n\nThe new version 2.5 has just been released.\n\nYou won't perhaps see much difference, compared to the previous version. Yet a lot of work has been done by @karl_lew that is not so visible.\n\n- Firstly, we have built a new search memorzizer. Before, if people have been searching a second or repeated time for the same thing, this second search would just take as much time as the first one. However, the result would still be the same. \"Root of suffering\" returns 7 Suttas, whether you search for the first or a subsequent time. So we thought, why not remember these results? This way, on repeated search, the result would be available much faster! This seemed especially useful as we could see in our logs that most searches were done with terms from our examples list.\n\n   So now the new search memorizer is caching the search results, and if the same search request is made another time, the result is already there! This works both for Voice and for scv-bilara, our command line search tool.\n\n   This means, since I did already search for \"root of suffering\" right now, this term won't take as much time as it used to do before. From the day of the release onward, the memory cache will gradually fill up, and more and more terms are available within short time. However this also means that changes that are made to the texts won't show up in your search results. This isn't very relevant for English, as Bhante Sujato only occasionally still makes some edits, but it is more relevant for German where my translations are continually evolving and new texts are being added.\n\n   Therefore, on content update the search memory cache will be cleard in order to allow for new search results to appear. But we won't update content as often from now on as we used to do in the past. Having a faster search means that you will have to wait longer for new content to appear.\n- As many of you may have noticed, over the past weeks the SuttaCentral main site has been down a couple of times, and this also led to outages of Voice. Voice is dependent on SuttaCentral in various ways. It pulls information like legacy texts, titles, legacy author information etc. from SuttaCentral; basically, all the data that are not in [bilara-data](https://github.com/sc-voice/bilara-data)---of which Voice has its independent version.\n\n   In order to reduce these dependencies we have built another cache to store these data, except for the legacy texts; this would be another huge task to get our own vesion of those. But with the new SC-API cache Voice is able to stay up in case SC is down, even if it can't show legacy texts. At the very least it will then show a relevant error message in case you are trying to access a legacy text---i.e. for example a translation by Bhikkhu Bodhi---and Voice is unable to respond to your request.\n\n   To keep up-to-date with changes in the SuttaCentral data, this cache has to be rebilt from time to time.\n- While fixing a download bug it turned out that we needed to switch to a new operating system for our Voice servers in order to get the latest version of `ffmpeg` running, a software tool required for building the download files. At the same time, we also upgraded our own machines to the new OS standards for our local Voice installs to be compatible.\n\n   On this occasion, a completely new downloader has been built, and at the same time we also integrated new download formats. Voice does now allow download in MP3, Opus, or OGG formats; the latter two being much smaller in file size, compared to MP3, so that more sound files can be stored in the same space.\n- Following [this request](https://discourse.suttacentral.net/t/copying-pali-english-verses/17980) by @Snowbird, we have added a new verse output format to our command line search tool, scv-bilara---which at a later date we'd also like to make available as a tool for general use with a user friendly interface. It turned out that this output format wasn't qite what Snowbird needed, but I guess all Voice devs that have tried it out are very happy to have it! So a big thank you to Snowbird for the request! :smile:\n- We still found another Pali pronunciation issue that the SuttaCentral team has kindly fixed for us by removing some numbers from the root text that should not be there. :pray:\n- Well, and a few more bugs have been fixed as they arose … see all issues of this release [here](https://github.com/sc-voice/sc-voice/releases/tag/v2.5).\n\nThanks to all our users for being with us. You make us feel that our efforts are not in vain!!\n\nPlease make use of our [feedback thread](https://discourse.suttacentral.net/t/how-do-you-use-suttacentral-voice/12384) or call us by typing @devs-voice.\n\nStay tuned! We keep developing awesome features … at least Karl and I find them awesone, if nobody else, and we're having much fun!",
 			"settings":
 			{
 				"buffer_size": 4885,
 				"line_ending": "Unix",
 				"name": "Voice release v2.5: Search memorizer"
+			}
+		},
+		{
+			"file": "AN/3/an3.128 Verdrießlich",
+			"settings":
+			{
+				"buffer_size": 2690,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/3/an3.99 Jute",
+			"settings":
+			{
+				"buffer_size": 3875,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AN/5/an5.166 Aufhören",
+			"settings":
+			{
+				"buffer_size": 7456,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -1480,7 +1516,7 @@
 			"file": "AN/6/an6.38 Der eigene Wille",
 			"settings":
 			{
-				"buffer_size": 2506,
+				"buffer_size": 2520,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1534,7 +1570,7 @@
 			"file": "AN/6/an6.43 Der Riese",
 			"settings":
 			{
-				"buffer_size": 7052,
+				"buffer_size": 7053,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1597,7 +1633,7 @@
 			"file": "KN/Thag/thag15.2 Udāyī",
 			"settings":
 			{
-				"buffer_size": 3921,
+				"buffer_size": 3922,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -2569,6 +2605,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bande",
+			"sklavin",
+			"befallen",
+			"in aller welt",
 			"gabe für die götter",
 			"stelzen-lang",
 			"geschweige denn viel",
@@ -2618,7 +2658,7 @@
 	"groups":
 	[
 		{
-			"selected": 85,
+			"selected": 86,
 			"sheets":
 			[
 				{
@@ -2627,7 +2667,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 33847,
+						"buffer_size": 33850,
 						"regions":
 						{
 						},
@@ -2640,6 +2680,14 @@
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -2648,7 +2696,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -2678,7 +2726,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 190,
+					"stack_index": 194,
 					"type": "text"
 				},
 				{
@@ -2708,7 +2756,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 189,
+					"stack_index": 193,
 					"type": "text"
 				},
 				{
@@ -2738,7 +2786,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 57,
+					"stack_index": 66,
 					"type": "text"
 				},
 				{
@@ -2768,7 +2816,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 56,
+					"stack_index": 65,
 					"type": "text"
 				},
 				{
@@ -2798,7 +2846,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 55,
+					"stack_index": 64,
 					"type": "text"
 				},
 				{
@@ -2828,7 +2876,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 188,
+					"stack_index": 192,
 					"type": "text"
 				},
 				{
@@ -2858,7 +2906,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 187,
+					"stack_index": 191,
 					"type": "text"
 				},
 				{
@@ -2888,7 +2936,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 186,
+					"stack_index": 190,
 					"type": "text"
 				},
 				{
@@ -2918,7 +2966,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 185,
+					"stack_index": 189,
 					"type": "text"
 				},
 				{
@@ -2948,7 +2996,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 184,
+					"stack_index": 188,
 					"type": "text"
 				},
 				{
@@ -2978,7 +3026,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 183,
+					"stack_index": 187,
 					"type": "text"
 				},
 				{
@@ -2987,7 +3035,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2065,
+						"buffer_size": 2081,
 						"regions":
 						{
 						},
@@ -3000,6 +3048,14 @@
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -3008,7 +3064,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 182,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -3017,19 +3073,27 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6066,
+						"buffer_size": 6077,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								428,
+								428
 							]
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -3038,7 +3102,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 181,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -3068,7 +3132,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 180,
+					"stack_index": 186,
 					"type": "text"
 				},
 				{
@@ -3098,7 +3162,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 258,
+					"stack_index": 262,
 					"type": "text"
 				},
 				{
@@ -3128,7 +3192,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 260,
+					"stack_index": 264,
 					"type": "text"
 				},
 				{
@@ -3158,7 +3222,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 253,
+					"stack_index": 257,
 					"type": "text"
 				},
 				{
@@ -3188,7 +3252,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
@@ -3218,7 +3282,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 83,
+					"stack_index": 90,
 					"type": "text"
 				},
 				{
@@ -3248,7 +3312,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 82,
+					"stack_index": 89,
 					"type": "text"
 				},
 				{
@@ -3278,7 +3342,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 81,
+					"stack_index": 88,
 					"type": "text"
 				},
 				{
@@ -3308,7 +3372,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 80,
+					"stack_index": 87,
 					"type": "text"
 				},
 				{
@@ -3338,7 +3402,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 84,
+					"stack_index": 91,
 					"type": "text"
 				},
 				{
@@ -3368,7 +3432,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 214,
+					"stack_index": 218,
 					"type": "text"
 				},
 				{
@@ -3398,7 +3462,7 @@
 						"translation.y": 126.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 213,
+					"stack_index": 217,
 					"type": "text"
 				},
 				{
@@ -3428,7 +3492,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 126,
+					"stack_index": 133,
 					"type": "text"
 				},
 				{
@@ -3458,7 +3522,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 125,
+					"stack_index": 132,
 					"type": "text"
 				},
 				{
@@ -3488,7 +3552,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 202,
+					"stack_index": 206,
 					"type": "text"
 				},
 				{
@@ -3518,7 +3582,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 201,
+					"stack_index": 205,
 					"type": "text"
 				},
 				{
@@ -3548,7 +3612,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 200,
+					"stack_index": 204,
 					"type": "text"
 				},
 				{
@@ -3578,7 +3642,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 199,
+					"stack_index": 203,
 					"type": "text"
 				},
 				{
@@ -3608,7 +3672,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 198,
+					"stack_index": 202,
 					"type": "text"
 				},
 				{
@@ -3638,7 +3702,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 197,
+					"stack_index": 201,
 					"type": "text"
 				},
 				{
@@ -3668,7 +3732,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 196,
+					"stack_index": 200,
 					"type": "text"
 				},
 				{
@@ -3698,7 +3762,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 195,
+					"stack_index": 199,
 					"type": "text"
 				},
 				{
@@ -3728,7 +3792,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 194,
+					"stack_index": 198,
 					"type": "text"
 				},
 				{
@@ -3758,7 +3822,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 193,
+					"stack_index": 197,
 					"type": "text"
 				},
 				{
@@ -3788,7 +3852,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 192,
+					"stack_index": 196,
 					"type": "text"
 				},
 				{
@@ -3816,7 +3880,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 191,
+					"stack_index": 195,
 					"type": "text"
 				},
 				{
@@ -3846,7 +3910,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 212,
+					"stack_index": 216,
 					"type": "text"
 				},
 				{
@@ -3876,7 +3940,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 211,
+					"stack_index": 215,
 					"type": "text"
 				},
 				{
@@ -3906,7 +3970,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 210,
+					"stack_index": 214,
 					"type": "text"
 				},
 				{
@@ -3936,7 +4000,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 209,
+					"stack_index": 213,
 					"type": "text"
 				},
 				{
@@ -3966,7 +4030,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 208,
+					"stack_index": 212,
 					"type": "text"
 				},
 				{
@@ -3996,7 +4060,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 207,
+					"stack_index": 211,
 					"type": "text"
 				},
 				{
@@ -4026,7 +4090,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 206,
+					"stack_index": 210,
 					"type": "text"
 				},
 				{
@@ -4056,7 +4120,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 205,
+					"stack_index": 209,
 					"type": "text"
 				},
 				{
@@ -4086,7 +4150,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 117,
+					"stack_index": 124,
 					"type": "text"
 				},
 				{
@@ -4116,7 +4180,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 116,
+					"stack_index": 123,
 					"type": "text"
 				},
 				{
@@ -4146,7 +4210,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 115,
+					"stack_index": 122,
 					"type": "text"
 				},
 				{
@@ -4176,7 +4240,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 114,
+					"stack_index": 121,
 					"type": "text"
 				},
 				{
@@ -4206,7 +4270,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 113,
+					"stack_index": 120,
 					"type": "text"
 				},
 				{
@@ -4236,7 +4300,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 112,
+					"stack_index": 119,
 					"type": "text"
 				},
 				{
@@ -4266,7 +4330,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 111,
+					"stack_index": 118,
 					"type": "text"
 				},
 				{
@@ -4296,7 +4360,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 110,
+					"stack_index": 117,
 					"type": "text"
 				},
 				{
@@ -4326,7 +4390,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 118,
+					"stack_index": 125,
 					"type": "text"
 				},
 				{
@@ -4356,7 +4420,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 109,
+					"stack_index": 116,
 					"type": "text"
 				},
 				{
@@ -4386,7 +4450,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 204,
+					"stack_index": 208,
 					"type": "text"
 				},
 				{
@@ -4416,7 +4480,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 203,
+					"stack_index": 207,
 					"type": "text"
 				},
 				{
@@ -4446,7 +4510,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 108,
+					"stack_index": 115,
 					"type": "text"
 				},
 				{
@@ -4476,7 +4540,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 107,
+					"stack_index": 114,
 					"type": "text"
 				},
 				{
@@ -4506,7 +4570,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
@@ -4536,7 +4600,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 124,
+					"stack_index": 131,
 					"type": "text"
 				},
 				{
@@ -4566,7 +4630,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 123,
+					"stack_index": 130,
 					"type": "text"
 				},
 				{
@@ -4596,7 +4660,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 122,
+					"stack_index": 129,
 					"type": "text"
 				},
 				{
@@ -4626,7 +4690,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 62,
+					"stack_index": 70,
 					"type": "text"
 				},
 				{
@@ -4656,7 +4720,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 47,
+					"stack_index": 56,
 					"type": "text"
 				},
 				{
@@ -4686,7 +4750,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 46,
+					"stack_index": 55,
 					"type": "text"
 				},
 				{
@@ -4716,7 +4780,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 45,
+					"stack_index": 54,
 					"type": "text"
 				},
 				{
@@ -4746,7 +4810,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 44,
+					"stack_index": 53,
 					"type": "text"
 				},
 				{
@@ -4776,7 +4840,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 61,
+					"stack_index": 69,
 					"type": "text"
 				},
 				{
@@ -4806,7 +4870,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 60,
+					"stack_index": 68,
 					"type": "text"
 				},
 				{
@@ -4836,7 +4900,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 121,
+					"stack_index": 128,
 					"type": "text"
 				},
 				{
@@ -4866,7 +4930,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 120,
+					"stack_index": 127,
 					"type": "text"
 				},
 				{
@@ -4896,7 +4960,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 76,
+					"stack_index": 83,
 					"type": "text"
 				},
 				{
@@ -4926,7 +4990,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 75,
+					"stack_index": 82,
 					"type": "text"
 				},
 				{
@@ -4956,7 +5020,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 119,
+					"stack_index": 126,
 					"type": "text"
 				},
 				{
@@ -4986,7 +5050,7 @@
 						"translation.y": 11416.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 74,
+					"stack_index": 81,
 					"type": "text"
 				},
 				{
@@ -5016,7 +5080,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 70,
+					"stack_index": 78,
 					"type": "text"
 				},
 				{
@@ -5046,7 +5110,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 65,
+					"stack_index": 73,
 					"type": "text"
 				},
 				{
@@ -5076,7 +5140,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 67,
+					"stack_index": 75,
 					"type": "text"
 				},
 				{
@@ -5106,7 +5170,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 66,
+					"stack_index": 74,
 					"type": "text"
 				},
 				{
@@ -5136,7 +5200,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 69,
+					"stack_index": 77,
 					"type": "text"
 				},
 				{
@@ -5179,6 +5243,45 @@
 				},
 				{
 					"buffer": 85,
+					"file": "AN/4/an4.257 Mit Māluṅkyaputta",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 341,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 86,
 					"semi_transient": false,
 					"settings":
 					{
@@ -5197,7 +5300,7 @@
 						{
 							"WordCount":
 							{
-								"changes": 5767,
+								"changes": 0,
 								"count": 838,
 								"modified": false,
 								"selection": false,
@@ -5208,14 +5311,131 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1134.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 86,
+					"buffer": 87,
+					"file": "AN/3/an3.128 Verdrießlich",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 263,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 88,
+					"file": "AN/3/an3.99 Jute",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 454,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 89,
+					"file": "AN/5/an5.166 Aufhören",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 918,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 90,
 					"file": "AN/4/an4.304-783",
 					"semi_transient": false,
 					"settings":
@@ -5233,26 +5453,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 64,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
-					"buffer": 87,
+					"buffer": 91,
 					"file": "AN/4/an4.30 Wanderer",
 					"semi_transient": false,
 					"settings":
@@ -5270,15 +5481,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 663,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -5287,11 +5489,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
-					"buffer": 88,
+					"buffer": 92,
 					"file": "AN/4/an4.3 Sich schaden (1)",
 					"semi_transient": false,
 					"settings":
@@ -5309,15 +5511,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 292,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -5326,11 +5519,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 28,
 					"type": "text"
 				},
 				{
-					"buffer": 89,
+					"buffer": 93,
 					"file": "AN/4/an4.29 Grundlegende Gesetzmäßigkeiten",
 					"semi_transient": false,
 					"settings":
@@ -5348,15 +5541,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 109,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -5365,11 +5549,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
-					"buffer": 90,
+					"buffer": 94,
 					"file": "AN/4/an4.28 Die edlen Bräuche",
 					"semi_transient": false,
 					"settings":
@@ -5387,15 +5571,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 379,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -5404,11 +5579,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
-					"buffer": 91,
+					"buffer": 95,
 					"file": "AN/4/an4.277-303",
 					"semi_transient": false,
 					"settings":
@@ -5426,26 +5601,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 46,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 92,
+					"buffer": 96,
 					"file": "AN/4/an4.276 Grundlagen der Wunderkräfte",
 					"semi_transient": false,
 					"settings":
@@ -5463,26 +5629,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 77,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 93,
+					"buffer": 97,
 					"file": "AN/4/an4.275 Rechtes Bemühen",
 					"semi_transient": false,
 					"settings":
@@ -5500,26 +5657,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 84,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 94,
+					"buffer": 98,
 					"file": "AN/4/an4.274 Achtsamkeitsmeditation",
 					"semi_transient": false,
 					"settings":
@@ -5537,26 +5685,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 93,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 95,
+					"buffer": 99,
 					"file": "AN/4/an4.273 Falsche Ansicht",
 					"semi_transient": false,
 					"settings":
@@ -5574,26 +5713,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 47,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 96,
+					"buffer": 100,
 					"file": "AN/4/an4.272 Böser Wille",
 					"semi_transient": false,
 					"settings":
@@ -5611,26 +5741,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 18,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 97,
+					"buffer": 101,
 					"file": "AN/4/an4.271 Begehrlichkeit",
 					"semi_transient": false,
 					"settings":
@@ -5648,26 +5769,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 17,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 98,
+					"buffer": 102,
 					"file": "AN/4/an4.270 Sinnlose Rede",
 					"semi_transient": false,
 					"settings":
@@ -5685,26 +5797,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 21,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 99,
+					"buffer": 103,
 					"file": "AN/4/an4.27 Zufriedenheit",
 					"semi_transient": false,
 					"settings":
@@ -5722,15 +5825,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 119,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -5739,11 +5833,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 100,
+					"buffer": 104,
 					"file": "AN/4/an4.269 Harte Rede",
 					"semi_transient": false,
 					"settings":
@@ -5761,26 +5855,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 23,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 101,
+					"buffer": 105,
 					"file": "AN/4/an4.268 Entzweiende Rede",
 					"semi_transient": false,
 					"settings":
@@ -5798,26 +5883,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 27,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 102,
+					"buffer": 106,
 					"file": "AN/4/an4.267 Lügen",
 					"semi_transient": false,
 					"settings":
@@ -5835,26 +5911,17 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 16,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 103,
+					"buffer": 107,
 					"file": "AN/3/an3.124 Zank",
 					"semi_transient": false,
 					"settings":
@@ -5880,11 +5947,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 64,
+					"stack_index": 72,
 					"type": "text"
 				},
 				{
-					"buffer": 104,
+					"buffer": 108,
 					"file": "AN/5/an5.235 Anteilnahme",
 					"semi_transient": false,
 					"settings":
@@ -5910,11 +5977,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 71,
+					"stack_index": 79,
 					"type": "text"
 				},
 				{
-					"buffer": 105,
+					"buffer": 109,
 					"file": "AN/4/an4.33 Der Löwe",
 					"semi_transient": false,
 					"settings":
@@ -5940,11 +6007,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 72,
+					"stack_index": 80,
 					"type": "text"
 				},
 				{
-					"buffer": 106,
+					"buffer": 110,
 					"file": "AN/3/an3.126 Der Kālāmer Bharaṇḍu",
 					"semi_transient": false,
 					"settings":
@@ -5970,11 +6037,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 86,
+					"stack_index": 93,
 					"type": "text"
 				},
 				{
-					"buffer": 107,
+					"buffer": 111,
 					"file": "AN/4/an4.187 Mit Vassakāra",
 					"semi_transient": false,
 					"settings":
@@ -5992,14 +6059,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -6008,11 +6067,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 108,
+					"buffer": 112,
 					"file": "AN/5/an5.143 Bei Sārandada",
 					"semi_transient": false,
 					"settings":
@@ -6038,11 +6097,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 68,
+					"stack_index": 76,
 					"type": "text"
 				},
 				{
-					"buffer": 109,
+					"buffer": 113,
 					"file": "AN/5/an5.50 Mit Nārada",
 					"semi_transient": false,
 					"settings":
@@ -6068,11 +6127,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 85,
+					"stack_index": 92,
 					"type": "text"
 				},
 				{
-					"buffer": 110,
+					"buffer": 114,
 					"file": "AN/3/an3.156-162",
 					"semi_transient": false,
 					"settings":
@@ -6098,11 +6157,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 95,
+					"stack_index": 102,
 					"type": "text"
 				},
 				{
-					"buffer": 111,
+					"buffer": 115,
 					"file": "AN/3/an3.1 Gefahren",
 					"semi_transient": false,
 					"settings":
@@ -6128,11 +6187,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 106,
+					"stack_index": 113,
 					"type": "text"
 				},
 				{
-					"buffer": 112,
+					"buffer": 116,
 					"file": "AN/3/an3.10 Flecken",
 					"semi_transient": false,
 					"settings":
@@ -6158,11 +6217,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 105,
+					"stack_index": 112,
 					"type": "text"
 				},
 				{
-					"buffer": 113,
+					"buffer": 117,
 					"file": "AN/3/an3.100 Ein Salzklümpchen",
 					"semi_transient": false,
 					"settings":
@@ -6188,11 +6247,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 63,
+					"stack_index": 71,
 					"type": "text"
 				},
 				{
-					"buffer": 114,
+					"buffer": 118,
 					"file": "AN/3/an3.101 Ein Goldwäscher",
 					"semi_transient": false,
 					"settings":
@@ -6218,11 +6277,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 79,
+					"stack_index": 86,
 					"type": "text"
 				},
 				{
-					"buffer": 115,
+					"buffer": 119,
 					"file": "AN/3/an3.102 Grundlagen",
 					"semi_transient": false,
 					"settings":
@@ -6248,11 +6307,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 78,
+					"stack_index": 85,
 					"type": "text"
 				},
 				{
-					"buffer": 116,
+					"buffer": 120,
 					"file": "AN/5/an5.23 Verunreinigungen",
 					"semi_transient": false,
 					"settings":
@@ -6278,11 +6337,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 77,
+					"stack_index": 84,
 					"type": "text"
 				},
 				{
-					"buffer": 117,
+					"buffer": 121,
 					"file": "AN/3/an3.103 Vor dem Erwachen",
 					"semi_transient": false,
 					"settings":
@@ -6308,11 +6367,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 104,
+					"stack_index": 111,
 					"type": "text"
 				},
 				{
-					"buffer": 118,
+					"buffer": 122,
 					"file": "AN/3/an3.104 Erfüllung (1)",
 					"semi_transient": false,
 					"settings":
@@ -6338,11 +6397,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 103,
+					"stack_index": 110,
 					"type": "text"
 				},
 				{
-					"buffer": 119,
+					"buffer": 123,
 					"file": "AN/3/an3.105 Erfüllung (2)",
 					"semi_transient": false,
 					"settings":
@@ -6368,11 +6427,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 102,
+					"stack_index": 109,
 					"type": "text"
 				},
 				{
-					"buffer": 120,
+					"buffer": 124,
 					"file": "AN/3/an3.106 Asketen und Brahmanen",
 					"semi_transient": false,
 					"settings":
@@ -6396,11 +6455,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 101,
+					"stack_index": 108,
 					"type": "text"
 				},
 				{
-					"buffer": 121,
+					"buffer": 125,
 					"file": "AN/3/an3.107 Wehklagen",
 					"semi_transient": false,
 					"settings":
@@ -6424,11 +6483,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 100,
+					"stack_index": 107,
 					"type": "text"
 				},
 				{
-					"buffer": 122,
+					"buffer": 126,
 					"file": "AN/3/an3.108 Befriedigung",
 					"semi_transient": false,
 					"settings":
@@ -6452,11 +6511,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 99,
+					"stack_index": 106,
 					"type": "text"
 				},
 				{
-					"buffer": 123,
+					"buffer": 127,
 					"file": "AN/3/an3.109 Ungeschützt",
 					"semi_transient": false,
 					"settings":
@@ -6482,11 +6541,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 98,
+					"stack_index": 105,
 					"type": "text"
 				},
 				{
-					"buffer": 124,
+					"buffer": 128,
 					"file": "AN/3/an3.11 Namhaft",
 					"semi_transient": false,
 					"settings":
@@ -6512,11 +6571,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 97,
+					"stack_index": 104,
 					"type": "text"
 				},
 				{
-					"buffer": 125,
+					"buffer": 129,
 					"file": "AN/3/an3.110 Gefallen",
 					"semi_transient": false,
 					"settings":
@@ -6542,11 +6601,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 96,
+					"stack_index": 103,
 					"type": "text"
 				},
 				{
-					"buffer": 126,
+					"buffer": 130,
 					"file": "MN/mn10 Achtsamkeitsmeditation",
 					"semi_transient": false,
 					"settings":
@@ -6572,11 +6631,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 128,
+					"stack_index": 135,
 					"type": "text"
 				},
 				{
-					"buffer": 127,
+					"buffer": 131,
 					"file": "MN/mn2 Alle Befleckungen",
 					"semi_transient": false,
 					"settings":
@@ -6602,11 +6661,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 127,
+					"stack_index": 134,
 					"type": "text"
 				},
 				{
-					"buffer": 128,
+					"buffer": 132,
 					"file": "AN/6/an6.19 Achtsamkeit auf den Tod (1)",
 					"semi_transient": false,
 					"settings":
@@ -6632,11 +6691,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 171,
+					"stack_index": 177,
 					"type": "text"
 				},
 				{
-					"buffer": 129,
+					"buffer": 133,
 					"file": "AN/6/an6.20 Achtsamkeit auf den Tod (2)",
 					"semi_transient": false,
 					"settings":
@@ -6662,11 +6721,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 170,
+					"stack_index": 176,
 					"type": "text"
 				},
 				{
-					"buffer": 130,
+					"buffer": 134,
 					"file": "AN/6/an6.21 Beim Dorf Sāma",
 					"semi_transient": false,
 					"settings":
@@ -6692,11 +6751,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 169,
+					"stack_index": 175,
 					"type": "text"
 				},
 				{
-					"buffer": 131,
+					"buffer": 135,
 					"file": "AN/6/an6.22 Gedeihen",
 					"semi_transient": false,
 					"settings":
@@ -6722,11 +6781,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 168,
+					"stack_index": 174,
 					"type": "text"
 				},
 				{
-					"buffer": 132,
+					"buffer": 136,
 					"file": "AN/6/an6.23 Gefahren",
 					"semi_transient": false,
 					"settings":
@@ -6752,11 +6811,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 167,
+					"stack_index": 173,
 					"type": "text"
 				},
 				{
-					"buffer": 133,
+					"buffer": 137,
 					"file": "AN/6/an6.24 Der Himalaya",
 					"semi_transient": false,
 					"settings":
@@ -6780,11 +6839,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 88,
+					"stack_index": 95,
 					"type": "text"
 				},
 				{
-					"buffer": 134,
+					"buffer": 138,
 					"file": "AN/5/an5.193 Mit Saṅgārava",
 					"semi_transient": false,
 					"settings":
@@ -6810,11 +6869,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 87,
+					"stack_index": 94,
 					"type": "text"
 				},
 				{
-					"buffer": 135,
+					"buffer": 139,
 					"file": "AN/6/an6.25 Gegenstände zur Besinnung",
 					"semi_transient": false,
 					"settings":
@@ -6840,11 +6899,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 41,
 					"type": "text"
 				},
 				{
-					"buffer": 136,
+					"buffer": 140,
 					"file": "AN/6/an6.26 Mit Mahākaccāna",
 					"semi_transient": false,
 					"settings":
@@ -6870,11 +6929,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 40,
 					"type": "text"
 				},
 				{
-					"buffer": 137,
+					"buffer": 141,
 					"file": "AN/6/an6.27 Gelegenheiten (1)",
 					"semi_transient": false,
 					"settings":
@@ -6900,11 +6959,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 166,
+					"stack_index": 172,
 					"type": "text"
 				},
 				{
-					"buffer": 138,
+					"buffer": 142,
 					"file": "AN/6/an6.1 Einer Gabe würdig (1)",
 					"semi_transient": false,
 					"settings":
@@ -6930,11 +6989,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 42,
 					"type": "text"
 				},
 				{
-					"buffer": 139,
+					"buffer": 143,
 					"file": "AN/6/an6.10 Mit Mahānāma",
 					"semi_transient": false,
 					"settings":
@@ -6960,11 +7019,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 43,
 					"type": "text"
 				},
 				{
-					"buffer": 140,
+					"buffer": 144,
 					"file": "AN/6/an6.11 Warmherzig (1)",
 					"semi_transient": false,
 					"settings":
@@ -6990,11 +7049,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 179,
+					"stack_index": 185,
 					"type": "text"
 				},
 				{
-					"buffer": 141,
+					"buffer": 145,
 					"file": "AN/6/an6.12 Warmherzig (2)",
 					"semi_transient": false,
 					"settings":
@@ -7020,11 +7079,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 178,
+					"stack_index": 184,
 					"type": "text"
 				},
 				{
-					"buffer": 142,
+					"buffer": 146,
 					"file": "AN/6/an6.13 Elemente des Entrinnens",
 					"semi_transient": false,
 					"settings":
@@ -7050,11 +7109,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 177,
+					"stack_index": 183,
 					"type": "text"
 				},
 				{
-					"buffer": 143,
+					"buffer": 147,
 					"file": "AN/6/an6.14 Ein guter Tod",
 					"semi_transient": false,
 					"settings":
@@ -7080,11 +7139,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 176,
+					"stack_index": 182,
 					"type": "text"
 				},
 				{
-					"buffer": 144,
+					"buffer": 148,
 					"file": "AN/6/an6.15 Reue",
 					"semi_transient": false,
 					"settings":
@@ -7110,11 +7169,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 175,
+					"stack_index": 181,
 					"type": "text"
 				},
 				{
-					"buffer": 145,
+					"buffer": 149,
 					"file": "AN/6/an6.16 Nakulas Vater",
 					"semi_transient": false,
 					"settings":
@@ -7140,11 +7199,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 174,
+					"stack_index": 180,
 					"type": "text"
 				},
 				{
-					"buffer": 146,
+					"buffer": 150,
 					"file": "AN/6/an6.17 Schlaf",
 					"semi_transient": false,
 					"settings":
@@ -7170,11 +7229,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 173,
+					"stack_index": 179,
 					"type": "text"
 				},
 				{
-					"buffer": 147,
+					"buffer": 151,
 					"file": "AN/6/an6.18 Ein Fischhändler",
 					"semi_transient": false,
 					"settings":
@@ -7200,11 +7259,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 172,
+					"stack_index": 178,
 					"type": "text"
 				},
 				{
-					"buffer": 148,
+					"buffer": 152,
 					"file": "AN/6/an6.2 Einer Gabe würdig (2)",
 					"semi_transient": false,
 					"settings":
@@ -7230,11 +7289,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 39,
 					"type": "text"
 				},
 				{
-					"buffer": 149,
+					"buffer": 153,
 					"file": "AN/4/an4.180 Die vier großen Bezugspunkte",
 					"semi_transient": false,
 					"settings":
@@ -7260,11 +7319,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 92,
+					"stack_index": 99,
 					"type": "text"
 				},
 				{
-					"buffer": 150,
+					"buffer": 154,
 					"file": "AN/4/an4.170 Gemeinsam",
 					"semi_transient": false,
 					"settings":
@@ -7290,11 +7349,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 252,
+					"stack_index": 256,
 					"type": "text"
 				},
 				{
-					"buffer": 151,
+					"buffer": 155,
 					"file": "AN/3/an3.30 Auf dem Kopf",
 					"semi_transient": false,
 					"settings":
@@ -7320,11 +7379,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 251,
+					"stack_index": 255,
 					"type": "text"
 				},
 				{
-					"buffer": 152,
+					"buffer": 156,
 					"file": "AN/6/an6.28 Gelegenheiten (2)",
 					"semi_transient": false,
 					"settings":
@@ -7350,11 +7409,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 91,
+					"stack_index": 98,
 					"type": "text"
 				},
 				{
-					"buffer": 153,
+					"buffer": 157,
 					"file": "AN/6/an6.29 Mit Udāyī",
 					"semi_transient": false,
 					"settings":
@@ -7380,11 +7439,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 165,
+					"stack_index": 171,
 					"type": "text"
 				},
 				{
-					"buffer": 154,
+					"buffer": 158,
 					"file": "AN/6/an6.3 Fähigkeiten",
 					"semi_transient": false,
 					"settings":
@@ -7408,11 +7467,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
-					"buffer": 155,
+					"buffer": 159,
 					"file": "AN/6/an6.30 Unübertrefflich",
 					"semi_transient": false,
 					"settings":
@@ -7438,11 +7497,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 164,
+					"stack_index": 170,
 					"type": "text"
 				},
 				{
-					"buffer": 156,
+					"buffer": 160,
 					"file": "AN/6/an6.31 Ein Übender",
 					"semi_transient": false,
 					"settings":
@@ -7468,11 +7527,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 163,
+					"stack_index": 169,
 					"type": "text"
 				},
 				{
-					"buffer": 157,
+					"buffer": 161,
 					"file": "AN/6/an6.32 Gedeihen (1)",
 					"semi_transient": false,
 					"settings":
@@ -7498,11 +7557,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 162,
+					"stack_index": 168,
 					"type": "text"
 				},
 				{
-					"buffer": 158,
+					"buffer": 162,
 					"file": "AN/6/an6.33 Gedeihen (2)",
 					"semi_transient": false,
 					"settings":
@@ -7528,11 +7587,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 161,
+					"stack_index": 167,
 					"type": "text"
 				},
 				{
-					"buffer": 159,
+					"buffer": 163,
 					"file": "AN/6/an6.34 Mit Mahāmoggallāna",
 					"semi_transient": false,
 					"settings":
@@ -7558,11 +7617,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 160,
+					"stack_index": 166,
 					"type": "text"
 				},
 				{
-					"buffer": 160,
+					"buffer": 164,
 					"file": "AN/6/an6.35 Dinge, die für das Klarwerden eine Rolle spielen",
 					"semi_transient": false,
 					"settings":
@@ -7586,11 +7645,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 159,
+					"stack_index": 165,
 					"type": "text"
 				},
 				{
-					"buffer": 161,
+					"buffer": 165,
 					"file": "AN/6/an6.36 Wurzeln des Zwists",
 					"semi_transient": false,
 					"settings":
@@ -7616,11 +7675,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 158,
+					"stack_index": 164,
 					"type": "text"
 				},
 				{
-					"buffer": 162,
+					"buffer": 166,
 					"file": "AN/6/an6.37 Eine Gabe mit sechs Faktoren",
 					"semi_transient": false,
 					"settings":
@@ -7646,2016 +7705,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 157,
-					"type": "text"
-				},
-				{
-					"buffer": 163,
-					"file": "AN/6/an6.38 Der eigene Wille",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2506,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 156,
-					"type": "text"
-				},
-				{
-					"buffer": 164,
-					"file": "AN/6/an6.39 Quellen",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2163,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 155,
-					"type": "text"
-				},
-				{
-					"buffer": 165,
-					"file": "AN/6/an6.4 Kräfte",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1009,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 28,
-					"type": "text"
-				},
-				{
-					"buffer": 166,
-					"file": "AN/6/an6.40 Mit Kimbila",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1571,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 154,
+					"stack_index": 163,
 					"type": "text"
 				},
 				{
 					"buffer": 167,
-					"file": "AN/6/an6.41 Ein Baumstamm",
+					"file": "AN/6/an6.38 Der eigene Wille",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1717,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 153,
-					"type": "text"
-				},
-				{
-					"buffer": 168,
-					"file": "AN/6/an6.42 Mit Nāgita",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 152,
-					"type": "text"
-				},
-				{
-					"buffer": 169,
-					"file": "AN/6/an6.43 Der Riese",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7052,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 59,
-					"type": "text"
-				},
-				{
-					"buffer": 170,
-					"file": "AN/6/an6.5 Ein Vollblüter (1)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1385,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 27,
-					"type": "text"
-				},
-				{
-					"buffer": 171,
-					"file": "AN/6/an6.6 Ein Vollblüter (2)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1388,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 26,
-					"type": "text"
-				},
-				{
-					"buffer": 172,
-					"file": "AN/6/an6.7 Ein Vollblüter (3)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1387,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 173,
-					"file": "AN/6/an6.8 Unübertrefflich",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 473,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 151,
-					"type": "text"
-				},
-				{
-					"buffer": 174,
-					"file": "AN/6/an6.9 Gegenstände zur Besinnung",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 460,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 150,
-					"type": "text"
-				},
-				{
-					"buffer": 175,
-					"file": "KN/Thag/thag1.43 Sumaṅgala",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 660,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 149,
-					"type": "text"
-				},
-				{
-					"buffer": 176,
-					"file": "KN/Thag/thag15.2 Udāyī",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3921,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 73,
-					"type": "text"
-				},
-				{
-					"buffer": 177,
-					"file": "KN/Thig/thig1.1 Eine nicht namentlich genannte Nonne (1)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 597,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 148,
-					"type": "text"
-				},
-				{
-					"buffer": 178,
-					"file": "KN/Thig/thig1.10 Upasamā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 403,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 147,
-					"type": "text"
-				},
-				{
-					"buffer": 179,
-					"file": "KN/Thig/thig1.11 Muttā (2)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 491,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 146,
-					"type": "text"
-				},
-				{
-					"buffer": 180,
-					"file": "KN/Thig/thig1.12 Dhammadinnā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 381,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 141,
-					"type": "text"
-				},
-				{
-					"buffer": 181,
-					"file": "KN/Thig/thig1.13 Visākhā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 142,
-					"type": "text"
-				},
-				{
-					"buffer": 182,
-					"file": "KN/Thig/thig1.14 Sumanā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 404,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 143,
-					"type": "text"
-				},
-				{
-					"buffer": 183,
-					"file": "KN/Thig/thig1.15 Uttarā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 379,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 144,
-					"type": "text"
-				},
-				{
-					"buffer": 184,
-					"file": "KN/Thig/thig1.17 Dhammā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 140,
-					"type": "text"
-				},
-				{
-					"buffer": 185,
-					"file": "KN/Thig/thig1.18 Saṅghā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 558,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 139,
-					"type": "text"
-				},
-				{
-					"buffer": 186,
-					"file": "KN/Thig/thig1.2 Muttā (1)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 518,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 138,
-					"type": "text"
-				},
-				{
-					"buffer": 187,
-					"file": "KN/Thig/thig1.3 Puṇṇā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 441,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 137,
-					"type": "text"
-				},
-				{
-					"buffer": 188,
-					"file": "KN/Thig/thig1.4 Tissā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 353,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 136,
-					"type": "text"
-				},
-				{
-					"buffer": 189,
-					"file": "KN/Thig/thig1.5 Eine andere Tissā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 389,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 135,
-					"type": "text"
-				},
-				{
-					"buffer": 190,
-					"file": "KN/Thig/thig1.6 Dhīrā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 331,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 134,
-					"type": "text"
-				},
-				{
-					"buffer": 191,
-					"file": "KN/Thig/thig1.7 Vīrā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 409,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 133,
-					"type": "text"
-				},
-				{
-					"buffer": 192,
-					"file": "KN/Thig/thig1.8 Mittā (1)",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 132,
-					"type": "text"
-				},
-				{
-					"buffer": 193,
-					"file": "KN/Thig/thig1.9 Bhadrā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 368,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 131,
-					"type": "text"
-				},
-				{
-					"buffer": 194,
-					"file": "KN/Thig/thig3.8 Somā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 828,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 130,
-					"type": "text"
-				},
-				{
-					"buffer": 195,
-					"file": "KN/Thig/thig6.8 Vijayā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1505,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 129,
-					"type": "text"
-				},
-				{
-					"buffer": 196,
-					"file": "KN/Thig/thig1.16 Sumanā, die spät im Leben fortzog",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 384,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 145,
-					"type": "text"
-				},
-				{
-					"buffer": 197,
-					"file": "AN/5/an5.44 Angenehm",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4475,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 90,
-					"type": "text"
-				},
-				{
-					"buffer": 198,
-					"file": "AN/4/an4.76 In Kusinārā",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 250,
-					"type": "text"
-				},
-				{
-					"buffer": 199,
-					"file": "AN/3/an3.80 Kleiner",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4283,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 89,
-					"type": "text"
-				},
-				{
-					"buffer": 200,
-					"file": "AN/1/an1.1-10",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3082,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 249,
-					"type": "text"
-				},
-				{
-					"buffer": 201,
-					"file": "AN/1/an1.11-20",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 248,
-					"type": "text"
-				},
-				{
-					"buffer": 202,
-					"file": "AN/1/an1.140-149",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1862,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 247,
-					"type": "text"
-				},
-				{
-					"buffer": 203,
-					"file": "AN/1/an1.150-169",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3715,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 246,
-					"type": "text"
-				},
-				{
-					"buffer": 204,
-					"file": "AN/1/an1.170-187",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3831,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 245,
-					"type": "text"
-				},
-				{
-					"buffer": 205,
-					"file": "AN/1/an1.188-197",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 883,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 242,
-					"type": "text"
-				},
-				{
-					"buffer": 206,
-					"file": "AN/1/an1.198-208",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 976,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 244,
-					"type": "text"
-				},
-				{
-					"buffer": 207,
-					"file": "AN/1/an1.209-218",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 895,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 243,
-					"type": "text"
-				},
-				{
-					"buffer": 208,
-					"file": "AN/1/an1.21-30",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3036,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 241,
-					"type": "text"
-				},
-				{
-					"buffer": 209,
-					"file": "AN/1/an1.219-234",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 240,
-					"type": "text"
-				},
-				{
-					"buffer": 210,
-					"file": "AN/1/an1.235-247",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1054,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 239,
-					"type": "text"
-				},
-				{
-					"buffer": 211,
-					"file": "AN/1/an1.248-257",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1102,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 238,
-					"type": "text"
-				},
-				{
-					"buffer": 212,
-					"file": "AN/1/an1.258-267",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 950,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 237,
-					"type": "text"
-				},
-				{
-					"buffer": 213,
-					"file": "AN/1/an1.268-277",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3037,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 94,
-					"type": "text"
-				},
-				{
-					"buffer": 214,
-					"file": "AN/1/an1.278-286",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2045,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 93,
-					"type": "text"
-				},
-				{
-					"buffer": 215,
-					"file": "AN/1/an1.287-295",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3273,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 236,
-					"type": "text"
-				},
-				{
-					"buffer": 216,
-					"file": "AN/1/an1.296-305",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 235,
-					"type": "text"
-				},
-				{
-					"buffer": 217,
-					"file": "AN/1/an1.306-315",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5596,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 234,
-					"type": "text"
-				},
-				{
-					"buffer": 218,
-					"file": "AN/1/an1.31-40",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 233,
-					"type": "text"
-				},
-				{
-					"buffer": 219,
-					"file": "AN/1/an1.316-332",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4864,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 232,
-					"type": "text"
-				},
-				{
-					"buffer": 220,
-					"file": "AN/1/an1.333-377",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7059,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 231,
-					"type": "text"
-				},
-				{
-					"buffer": 221,
-					"file": "AN/1/an1.378-393",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 928,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 230,
-					"type": "text"
-				},
-				{
-					"buffer": 222,
-					"file": "AN/1/an1.394-574",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13083,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 229,
-					"type": "text"
-				},
-				{
-					"buffer": 223,
-					"file": "AN/1/an1.41-50",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5263,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 228,
-					"type": "text"
-				},
-				{
-					"buffer": 224,
-					"file": "AN/1/an1.51-60",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3938,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 227,
-					"type": "text"
-				},
-				{
-					"buffer": 225,
-					"file": "AN/1/an1.575-615",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6057,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 226,
-					"type": "text"
-				},
-				{
-					"buffer": 226,
-					"file": "AN/1/an1.61-70",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3610,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 225,
-					"type": "text"
-				},
-				{
-					"buffer": 227,
-					"file": "AN/1/an1.616-627",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3713,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 224,
-					"type": "text"
-				},
-				{
-					"buffer": 228,
-					"file": "AN/1/an1.71-81",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3830,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 223,
-					"type": "text"
-				},
-				{
-					"buffer": 229,
-					"file": "AN/1/an1.82-97",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3855,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 222,
-					"type": "text"
-				},
-				{
-					"buffer": 230,
-					"file": "AN/1/an1.98-139",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6664,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 221,
-					"type": "text"
-				},
-				{
-					"buffer": 231,
-					"file": "DN/dn15 Die große Lehrrede über ursächliche Zusammenhänge",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31252,
+						"buffer_size": 2520,
 						"regions":
 						{
 						},
@@ -9684,11 +7743,2027 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 168,
+					"file": "AN/6/an6.39 Quellen",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 162,
+					"type": "text"
+				},
+				{
+					"buffer": 169,
+					"file": "AN/6/an6.4 Kräfte",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 170,
+					"file": "AN/6/an6.40 Mit Kimbila",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 161,
+					"type": "text"
+				},
+				{
+					"buffer": 171,
+					"file": "AN/6/an6.41 Ein Baumstamm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 160,
+					"type": "text"
+				},
+				{
+					"buffer": 172,
+					"file": "AN/6/an6.42 Mit Nāgita",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 159,
+					"type": "text"
+				},
+				{
+					"buffer": 173,
+					"file": "AN/6/an6.43 Der Riese",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 174,
+					"file": "AN/6/an6.5 Ein Vollblüter (1)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 175,
+					"file": "AN/6/an6.6 Ein Vollblüter (2)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 176,
+					"file": "AN/6/an6.7 Ein Vollblüter (3)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 177,
+					"file": "AN/6/an6.8 Unübertrefflich",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 158,
+					"type": "text"
+				},
+				{
+					"buffer": 178,
+					"file": "AN/6/an6.9 Gegenstände zur Besinnung",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 157,
+					"type": "text"
+				},
+				{
+					"buffer": 179,
+					"file": "KN/Thag/thag1.43 Sumaṅgala",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 156,
+					"type": "text"
+				},
+				{
+					"buffer": 180,
+					"file": "KN/Thag/thag15.2 Udāyī",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 181,
+					"file": "KN/Thig/thig1.1 Eine nicht namentlich genannte Nonne (1)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 155,
+					"type": "text"
+				},
+				{
+					"buffer": 182,
+					"file": "KN/Thig/thig1.10 Upasamā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 154,
+					"type": "text"
+				},
+				{
+					"buffer": 183,
+					"file": "KN/Thig/thig1.11 Muttā (2)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 153,
+					"type": "text"
+				},
+				{
+					"buffer": 184,
+					"file": "KN/Thig/thig1.12 Dhammadinnā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 148,
+					"type": "text"
+				},
+				{
+					"buffer": 185,
+					"file": "KN/Thig/thig1.13 Visākhā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 149,
+					"type": "text"
+				},
+				{
+					"buffer": 186,
+					"file": "KN/Thig/thig1.14 Sumanā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 150,
+					"type": "text"
+				},
+				{
+					"buffer": 187,
+					"file": "KN/Thig/thig1.15 Uttarā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 151,
+					"type": "text"
+				},
+				{
+					"buffer": 188,
+					"file": "KN/Thig/thig1.17 Dhammā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 147,
+					"type": "text"
+				},
+				{
+					"buffer": 189,
+					"file": "KN/Thig/thig1.18 Saṅghā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 146,
+					"type": "text"
+				},
+				{
+					"buffer": 190,
+					"file": "KN/Thig/thig1.2 Muttā (1)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 145,
+					"type": "text"
+				},
+				{
+					"buffer": 191,
+					"file": "KN/Thig/thig1.3 Puṇṇā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 144,
+					"type": "text"
+				},
+				{
+					"buffer": 192,
+					"file": "KN/Thig/thig1.4 Tissā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 143,
+					"type": "text"
+				},
+				{
+					"buffer": 193,
+					"file": "KN/Thig/thig1.5 Eine andere Tissā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 142,
+					"type": "text"
+				},
+				{
+					"buffer": 194,
+					"file": "KN/Thig/thig1.6 Dhīrā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 141,
+					"type": "text"
+				},
+				{
+					"buffer": 195,
+					"file": "KN/Thig/thig1.7 Vīrā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 140,
+					"type": "text"
+				},
+				{
+					"buffer": 196,
+					"file": "KN/Thig/thig1.8 Mittā (1)",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 139,
+					"type": "text"
+				},
+				{
+					"buffer": 197,
+					"file": "KN/Thig/thig1.9 Bhadrā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 138,
+					"type": "text"
+				},
+				{
+					"buffer": 198,
+					"file": "KN/Thig/thig3.8 Somā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 137,
+					"type": "text"
+				},
+				{
+					"buffer": 199,
+					"file": "KN/Thig/thig6.8 Vijayā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 136,
+					"type": "text"
+				},
+				{
+					"buffer": 200,
+					"file": "KN/Thig/thig1.16 Sumanā, die spät im Leben fortzog",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 152,
+					"type": "text"
+				},
+				{
+					"buffer": 201,
+					"file": "AN/5/an5.44 Angenehm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 97,
+					"type": "text"
+				},
+				{
+					"buffer": 202,
+					"file": "AN/4/an4.76 In Kusinārā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 254,
+					"type": "text"
+				},
+				{
+					"buffer": 203,
+					"file": "AN/3/an3.80 Kleiner",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 96,
+					"type": "text"
+				},
+				{
+					"buffer": 204,
+					"file": "AN/1/an1.1-10",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 253,
+					"type": "text"
+				},
+				{
+					"buffer": 205,
+					"file": "AN/1/an1.11-20",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 252,
+					"type": "text"
+				},
+				{
+					"buffer": 206,
+					"file": "AN/1/an1.140-149",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 251,
+					"type": "text"
+				},
+				{
+					"buffer": 207,
+					"file": "AN/1/an1.150-169",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 250,
+					"type": "text"
+				},
+				{
+					"buffer": 208,
+					"file": "AN/1/an1.170-187",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 249,
+					"type": "text"
+				},
+				{
+					"buffer": 209,
+					"file": "AN/1/an1.188-197",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 246,
+					"type": "text"
+				},
+				{
+					"buffer": 210,
+					"file": "AN/1/an1.198-208",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 248,
+					"type": "text"
+				},
+				{
+					"buffer": 211,
+					"file": "AN/1/an1.209-218",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 247,
+					"type": "text"
+				},
+				{
+					"buffer": 212,
+					"file": "AN/1/an1.21-30",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 245,
+					"type": "text"
+				},
+				{
+					"buffer": 213,
+					"file": "AN/1/an1.219-234",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 244,
+					"type": "text"
+				},
+				{
+					"buffer": 214,
+					"file": "AN/1/an1.235-247",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 243,
+					"type": "text"
+				},
+				{
+					"buffer": 215,
+					"file": "AN/1/an1.248-257",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 242,
+					"type": "text"
+				},
+				{
+					"buffer": 216,
+					"file": "AN/1/an1.258-267",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 241,
+					"type": "text"
+				},
+				{
+					"buffer": 217,
+					"file": "AN/1/an1.268-277",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 101,
+					"type": "text"
+				},
+				{
+					"buffer": 218,
+					"file": "AN/1/an1.278-286",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 100,
+					"type": "text"
+				},
+				{
+					"buffer": 219,
+					"file": "AN/1/an1.287-295",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 240,
+					"type": "text"
+				},
+				{
+					"buffer": 220,
+					"file": "AN/1/an1.296-305",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 239,
+					"type": "text"
+				},
+				{
+					"buffer": 221,
+					"file": "AN/1/an1.306-315",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 238,
+					"type": "text"
+				},
+				{
+					"buffer": 222,
+					"file": "AN/1/an1.31-40",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 237,
+					"type": "text"
+				},
+				{
+					"buffer": 223,
+					"file": "AN/1/an1.316-332",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 236,
+					"type": "text"
+				},
+				{
+					"buffer": 224,
+					"file": "AN/1/an1.333-377",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 235,
+					"type": "text"
+				},
+				{
+					"buffer": 225,
+					"file": "AN/1/an1.378-393",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 234,
+					"type": "text"
+				},
+				{
+					"buffer": 226,
+					"file": "AN/1/an1.394-574",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 233,
+					"type": "text"
+				},
+				{
+					"buffer": 227,
+					"file": "AN/1/an1.41-50",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 232,
+					"type": "text"
+				},
+				{
+					"buffer": 228,
+					"file": "AN/1/an1.51-60",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 231,
+					"type": "text"
+				},
+				{
+					"buffer": 229,
+					"file": "AN/1/an1.575-615",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 230,
+					"type": "text"
+				},
+				{
+					"buffer": 230,
+					"file": "AN/1/an1.61-70",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 229,
+					"type": "text"
+				},
+				{
+					"buffer": 231,
+					"file": "AN/1/an1.616-627",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 228,
 					"type": "text"
 				},
 				{
 					"buffer": 232,
+					"file": "AN/1/an1.71-81",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 227,
+					"type": "text"
+				},
+				{
+					"buffer": 233,
+					"file": "AN/1/an1.82-97",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 226,
+					"type": "text"
+				},
+				{
+					"buffer": 234,
+					"file": "AN/1/an1.98-139",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 225,
+					"type": "text"
+				},
+				{
+					"buffer": 235,
+					"file": "DN/dn15 Die große Lehrrede über ursächliche Zusammenhänge",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 236,
 					"file": "DN/dn14 Die große Lehrrede über die Ernte aus den Taten",
 					"semi_transient": false,
 					"settings":
@@ -9714,11 +9789,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
-					"buffer": 233,
+					"buffer": 237,
 					"file": "AN/3/an3.48 Der König der Berge",
 					"semi_transient": false,
 					"settings":
@@ -9744,11 +9819,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 257,
+					"stack_index": 261,
 					"type": "text"
 				},
 				{
-					"buffer": 234,
+					"buffer": 238,
 					"file": "AN/5/an5.40 Die großen Salbäume",
 					"semi_transient": false,
 					"settings":
@@ -9774,11 +9849,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 256,
+					"stack_index": 260,
 					"type": "text"
 				},
 				{
-					"buffer": 235,
+					"buffer": 239,
 					"file": "AN/3/an3.40 Sich in die Pflicht nehmen",
 					"semi_transient": false,
 					"settings":
@@ -9804,11 +9879,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 220,
+					"stack_index": 224,
 					"type": "text"
 				},
 				{
-					"buffer": 236,
+					"buffer": 240,
 					"file": "AN/3/an3.53 Ein gewisser Brahmane",
 					"semi_transient": false,
 					"settings":
@@ -9834,11 +9909,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 219,
+					"stack_index": 223,
 					"type": "text"
 				},
 				{
-					"buffer": 237,
+					"buffer": 241,
 					"file": "AN/3/an3.54 Ein Wanderer",
 					"semi_transient": false,
 					"settings":
@@ -9864,11 +9939,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 218,
+					"stack_index": 222,
 					"type": "text"
 				},
 				{
-					"buffer": 238,
+					"buffer": 242,
 					"file": "AN/3/an3.55 Erloschen",
 					"semi_transient": false,
 					"settings":
@@ -9894,11 +9969,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 217,
+					"stack_index": 221,
 					"type": "text"
 				},
 				{
-					"buffer": 239,
+					"buffer": 243,
 					"file": "AN/3/an3.70 Besinnungstag",
 					"semi_transient": false,
 					"settings":
@@ -9924,11 +9999,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 58,
+					"stack_index": 67,
 					"type": "text"
 				},
 				{
-					"buffer": 240,
+					"buffer": 244,
 					"file": "AN/3/an3.74 Jainas",
 					"semi_transient": false,
 					"settings":
@@ -9954,11 +10029,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 216,
+					"stack_index": 220,
 					"type": "text"
 				},
 				{
-					"buffer": 241,
+					"buffer": 245,
 					"file": "AN/3/an3.75 Beständigkeit",
 					"semi_transient": false,
 					"settings":
@@ -9984,11 +10059,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 54,
+					"stack_index": 63,
 					"type": "text"
 				},
 				{
-					"buffer": 242,
+					"buffer": 246,
 					"file": "AN/3/an3.96 Ein Vollblüter (1)",
 					"semi_transient": false,
 					"settings":
@@ -10014,11 +10089,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 53,
+					"stack_index": 62,
 					"type": "text"
 				},
 				{
-					"buffer": 243,
+					"buffer": 247,
 					"file": "AN/3/an3.97 Ein Vollblüter (2)",
 					"semi_transient": false,
 					"settings":
@@ -10044,11 +10119,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 52,
+					"stack_index": 61,
 					"type": "text"
 				},
 				{
-					"buffer": 244,
+					"buffer": 248,
 					"file": "AN/3/an3.98 Ein Vollblüter (3)",
 					"semi_transient": false,
 					"settings":
@@ -10074,11 +10149,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 51,
+					"stack_index": 60,
 					"type": "text"
 				},
 				{
-					"buffer": 245,
+					"buffer": 249,
 					"file": "AN/4/an4.112 Schnelligkeit",
 					"semi_transient": false,
 					"settings":
@@ -10104,11 +10179,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 50,
+					"stack_index": 59,
 					"type": "text"
 				},
 				{
-					"buffer": 246,
+					"buffer": 250,
 					"file": "AN/4/an4.114 Ein königlicher Elefant",
 					"semi_transient": false,
 					"settings":
@@ -10134,11 +10209,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 49,
+					"stack_index": 58,
 					"type": "text"
 				},
 				{
-					"buffer": 247,
+					"buffer": 251,
 					"file": "AN/4/an4.181 Ein Krieger",
 					"semi_transient": false,
 					"settings":
@@ -10164,11 +10239,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 48,
+					"stack_index": 57,
 					"type": "text"
 				},
 				{
-					"buffer": 248,
+					"buffer": 252,
 					"file": "AN/4/an4.195 Mit Vappa",
 					"semi_transient": false,
 					"settings":
@@ -10194,11 +10269,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 215,
+					"stack_index": 219,
 					"type": "text"
 				},
 				{
-					"buffer": 249,
+					"buffer": 253,
 					"file": "AN/4/an4.52 Überfließendes Verdienst (2)",
 					"semi_transient": false,
 					"settings":
@@ -10224,11 +10299,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 43,
+					"stack_index": 52,
 					"type": "text"
 				},
 				{
-					"buffer": 250,
+					"buffer": 254,
 					"file": "AN/4/an4.63 Mit Brahmā leben",
 					"semi_transient": false,
 					"settings":
@@ -10254,11 +10329,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 42,
+					"stack_index": 51,
 					"type": "text"
 				},
 				{
-					"buffer": 251,
+					"buffer": 255,
 					"file": "AN/5/an5.107 Ethik",
 					"semi_transient": false,
 					"settings":
@@ -10282,11 +10357,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 41,
+					"stack_index": 50,
 					"type": "text"
 				},
 				{
-					"buffer": 252,
+					"buffer": 256,
 					"file": "AN/5/an5.108 Ein Meister",
 					"semi_transient": false,
 					"settings":
@@ -10310,11 +10385,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 40,
+					"stack_index": 49,
 					"type": "text"
 				},
 				{
-					"buffer": 253,
+					"buffer": 257,
 					"file": "AN/5/an5.139 Unfähig, zu ertragen",
 					"semi_transient": false,
 					"settings":
@@ -10340,11 +10415,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 39,
+					"stack_index": 48,
 					"type": "text"
 				},
 				{
-					"buffer": 254,
+					"buffer": 258,
 					"file": "AN/5/an5.140 Zuhörer",
 					"semi_transient": false,
 					"settings":
@@ -10370,11 +10445,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 38,
+					"stack_index": 47,
 					"type": "text"
 				},
 				{
-					"buffer": 255,
+					"buffer": 259,
 					"file": "AN/5/an5.179 Ein Laie",
 					"semi_transient": false,
 					"settings":
@@ -10400,11 +10475,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 37,
+					"stack_index": 46,
 					"type": "text"
 				},
 				{
-					"buffer": 256,
+					"buffer": 260,
 					"file": "AN/5/an5.203 Vollblüter",
 					"semi_transient": false,
 					"settings":
@@ -10430,11 +10505,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 36,
+					"stack_index": 45,
 					"type": "text"
 				},
 				{
-					"buffer": 257,
+					"buffer": 261,
 					"file": "AN/5/an5.32 Mit Cundī",
 					"semi_transient": false,
 					"settings":
@@ -10460,11 +10535,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 35,
+					"stack_index": 44,
 					"type": "text"
 				},
 				{
-					"buffer": 258,
+					"buffer": 262,
 					"file": "SN/Sam12/sn12.22 Die zehn Kräfte (2)",
 					"semi_transient": false,
 					"settings":
@@ -10490,11 +10565,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 255,
+					"stack_index": 259,
 					"type": "text"
 				},
 				{
-					"buffer": 259,
+					"buffer": 263,
 					"file": "AN/3/an3.60 Mit Saṅgārava",
 					"semi_transient": false,
 					"settings":
@@ -10520,11 +10595,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 254,
+					"stack_index": 258,
 					"type": "text"
 				},
 				{
-					"buffer": 260,
+					"buffer": 264,
 					"file": "DN/dn12 Mit Lohicca",
 					"semi_transient": false,
 					"settings":
@@ -10550,7 +10625,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 259,
+					"stack_index": 263,
 					"type": "text"
 				}
 			]
