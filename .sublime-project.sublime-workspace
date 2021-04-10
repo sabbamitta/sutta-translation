@@ -1865,7 +1865,7 @@
 			"file": "AN/3/an3.27 Angewidert",
 			"settings":
 			{
-				"buffer_size": 4516,
+				"buffer_size": 4521,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -3568,7 +3568,7 @@
 			"file": "DN/dn23 Mit Pāyāsi",
 			"settings":
 			{
-				"buffer_size": 62194,
+				"buffer_size": 62219,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -3749,7 +3749,7 @@
 			"file": "DN/dn30 Kennzeichen eines großen Mannes",
 			"settings":
 			{
-				"buffer_size": 61213,
+				"buffer_size": 61185,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -6269,7 +6269,7 @@
 			"file": "MN/mn2 Alle Befleckungen",
 			"settings":
 			{
-				"buffer_size": 14796,
+				"buffer_size": 14801,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -6980,7 +6980,7 @@
 			"file": "AN/6/an6.58 Befleckungen",
 			"settings":
 			{
-				"buffer_size": 6978,
+				"buffer_size": 6983,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -7010,15 +7010,6 @@
 				"buffer_size": 5434,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "ox fond of crops | Ochse, der gerne die Saat frisst\nthe sweetest of the sweet | Sanfteste der Sanften\n… | Metteyya\n… | an beiden Enden --> beide.* Enden\n… | steckt nicht in der Mitte\nthat’s how the Buddha declared it | so hat der Buddha es erklärt",
-			"settings":
-			{
-				"buffer_size": 247,
-				"line_ending": "Unix",
-				"name": "ox fond of crops | Ochse, der gerne die Saat friss"
 			}
 		},
 		{
@@ -9883,13 +9874,15 @@
 	[
 		"/home/sabbamitta/dev/sutta-translation",
 		"/home/sabbamitta/dev/sutta-translation/AN",
-		"/home/sabbamitta/dev/sutta-translation/AN/6"
+		"/home/sabbamitta/dev/sutta-translation/DN"
 	],
 	"file_history":
 	[
-		"/home/sabbamitta/dev/ebt-site/content/wiki/news.md",
+		"/home/sabbamitta/dev/ebt-site/default.vue",
+		"/home/sabbamitta/dev/ebt-site/LICENSE",
 		"/home/sabbamitta/dev/ebt-site/content/news/2021-04.md",
 		"/home/sabbamitta/dev/running_script.sh",
+		"/home/sabbamitta/dev/ebt-site/content/wiki/news.md",
 		"/home/sabbamitta/dev/ebt-site/assets/scv.css",
 		"/home/sabbamitta/dev/ebt-site/content/Übersetzung/Übersicht.md",
 		"/home/sabbamitta/dev/ebt-site/content/wiki/welcome.md",
@@ -9922,7 +9915,6 @@
 		"/home/sabbamitta/dev/ebt-site/content/wiki/admin.md",
 		"/home/sabbamitta/dev/ebt-site/.github/workflows/schedule-actions.yml",
 		"/home/sabbamitta/Dokumente/Technik/Aminah'sTipps",
-		"/home/sabbamitta/dev/ebt-site/LICENSE",
 		"/home/sabbamitta/Dokumente/Technik/CSS (Aminah)",
 		"/home/sabbamitta/dev/ebt-site/content/wiki/news-en.md",
 		"/home/sabbamitta/Schreibtisch/Meeting-codes",
@@ -10013,8 +10005,7 @@
 		"/home/sabbamitta/Musik/voice-audio/Vicki/dn21_pli+de_vicki.opus",
 		"/home/sabbamitta/dev/kusalagnana-maitrimurti-traetow/34. Die Lehrrede: Bis Zehn aufsteigend",
 		"/home/sabbamitta/dev/kusalagnana-maitrimurti-traetow/33. Zusammenstellen und Rezitieren",
-		"/home/sabbamitta/dev/kusalagnana-maitrimurti-traetow/32. Āṭānāṭiya Lehrrede",
-		"/home/sabbamitta/dev/kusalagnana-maitrimurti-traetow/31. Die Belehrung des Siṅgālaka"
+		"/home/sabbamitta/dev/kusalagnana-maitrimurti-traetow/32. Āṭānāṭiya Lehrrede"
 	],
 	"find":
 	{
@@ -10033,6 +10024,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"verkümmern wird",
+			"das, das",
+			"kloake",
 			"diskutiert",
 			"see",
 			"muschelschalen",
@@ -10157,10 +10151,7 @@
 			"wendungen",
 			"begriff für begriff",
 			"wendungen",
-			"den wortlaut",
-			"den text",
-			"den wortlaut",
-			"den text"
+			"den wortlaut"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -10178,7 +10169,7 @@
 	"groups":
 	[
 		{
-			"selected": 777,
+			"selected": 414,
 			"sheets":
 			[
 				{
@@ -10208,7 +10199,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -10238,7 +10229,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 365,
+					"stack_index": 366,
 					"type": "text"
 				},
 				{
@@ -10268,7 +10259,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 359,
+					"stack_index": 360,
 					"type": "text"
 				},
 				{
@@ -10298,7 +10289,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 281,
+					"stack_index": 282,
 					"type": "text"
 				},
 				{
@@ -10328,7 +10319,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 358,
+					"stack_index": 359,
 					"type": "text"
 				},
 				{
@@ -10358,7 +10349,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 234,
+					"stack_index": 236,
 					"type": "text"
 				},
 				{
@@ -10388,7 +10379,7 @@
 						"translation.y": 56.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 357,
+					"stack_index": 358,
 					"type": "text"
 				},
 				{
@@ -10418,7 +10409,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 356,
+					"stack_index": 357,
 					"type": "text"
 				},
 				{
@@ -10448,7 +10439,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 355,
+					"stack_index": 356,
 					"type": "text"
 				},
 				{
@@ -10478,7 +10469,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
@@ -10506,7 +10497,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
@@ -10536,7 +10527,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -10564,7 +10555,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 220,
+					"stack_index": 223,
 					"type": "text"
 				},
 				{
@@ -10592,7 +10583,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 219,
+					"stack_index": 222,
 					"type": "text"
 				},
 				{
@@ -10620,7 +10611,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 218,
+					"stack_index": 221,
 					"type": "text"
 				},
 				{
@@ -10648,7 +10639,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 217,
+					"stack_index": 220,
 					"type": "text"
 				},
 				{
@@ -10676,7 +10667,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 216,
+					"stack_index": 219,
 					"type": "text"
 				},
 				{
@@ -10706,7 +10697,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 318,
+					"stack_index": 319,
 					"type": "text"
 				},
 				{
@@ -10736,7 +10727,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 250,
+					"stack_index": 251,
 					"type": "text"
 				},
 				{
@@ -10764,7 +10755,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 978,
+					"stack_index": 977,
 					"type": "text"
 				},
 				{
@@ -10792,7 +10783,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 977,
+					"stack_index": 976,
 					"type": "text"
 				},
 				{
@@ -10822,7 +10813,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 976,
+					"stack_index": 975,
 					"type": "text"
 				},
 				{
@@ -10852,7 +10843,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 142,
+					"stack_index": 145,
 					"type": "text"
 				},
 				{
@@ -10880,7 +10871,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 975,
+					"stack_index": 974,
 					"type": "text"
 				},
 				{
@@ -10908,7 +10899,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 974,
+					"stack_index": 973,
 					"type": "text"
 				},
 				{
@@ -10938,7 +10929,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1047,
+					"stack_index": 1046,
 					"type": "text"
 				},
 				{
@@ -10968,7 +10959,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 256,
+					"stack_index": 257,
 					"type": "text"
 				},
 				{
@@ -10998,7 +10989,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 993,
+					"stack_index": 992,
 					"type": "text"
 				},
 				{
@@ -11028,7 +11019,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 992,
+					"stack_index": 991,
 					"type": "text"
 				},
 				{
@@ -11118,7 +11109,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 34,
 					"type": "text"
 				},
 				{
@@ -11148,7 +11139,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 153,
+					"stack_index": 156,
 					"type": "text"
 				},
 				{
@@ -11178,7 +11169,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 151,
+					"stack_index": 154,
 					"type": "text"
 				},
 				{
@@ -11298,7 +11289,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 111,
+					"stack_index": 114,
 					"type": "text"
 				},
 				{
@@ -11328,7 +11319,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1070,
+					"stack_index": 1069,
 					"type": "text"
 				},
 				{
@@ -11358,7 +11349,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1069,
+					"stack_index": 1068,
 					"type": "text"
 				},
 				{
@@ -11388,7 +11379,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 223,
+					"stack_index": 226,
 					"type": "text"
 				},
 				{
@@ -11418,7 +11409,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1068,
+					"stack_index": 1067,
 					"type": "text"
 				},
 				{
@@ -11448,7 +11439,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 140,
+					"stack_index": 143,
 					"type": "text"
 				},
 				{
@@ -11478,7 +11469,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 361,
+					"stack_index": 362,
 					"type": "text"
 				},
 				{
@@ -11508,7 +11499,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 68,
+					"stack_index": 71,
 					"type": "text"
 				},
 				{
@@ -11538,7 +11529,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 363,
+					"stack_index": 364,
 					"type": "text"
 				},
 				{
@@ -11568,7 +11559,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 164,
+					"stack_index": 167,
 					"type": "text"
 				},
 				{
@@ -11598,7 +11589,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 324,
+					"stack_index": 325,
 					"type": "text"
 				},
 				{
@@ -11626,7 +11617,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1039,
+					"stack_index": 1038,
 					"type": "text"
 				},
 				{
@@ -11656,7 +11647,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1038,
+					"stack_index": 1037,
 					"type": "text"
 				},
 				{
@@ -11686,7 +11677,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 360,
+					"stack_index": 361,
 					"type": "text"
 				},
 				{
@@ -11714,7 +11705,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 334,
+					"stack_index": 335,
 					"type": "text"
 				},
 				{
@@ -11744,7 +11735,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 333,
+					"stack_index": 334,
 					"type": "text"
 				},
 				{
@@ -11774,7 +11765,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 332,
+					"stack_index": 333,
 					"type": "text"
 				},
 				{
@@ -11802,7 +11793,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 345,
+					"stack_index": 346,
 					"type": "text"
 				},
 				{
@@ -11830,7 +11821,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 344,
+					"stack_index": 345,
 					"type": "text"
 				},
 				{
@@ -11858,7 +11849,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 343,
+					"stack_index": 344,
 					"type": "text"
 				},
 				{
@@ -12006,7 +11997,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 342,
+					"stack_index": 343,
 					"type": "text"
 				},
 				{
@@ -12119,7 +12110,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 341,
+					"stack_index": 342,
 					"type": "text"
 				},
 				{
@@ -12235,7 +12226,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 340,
+					"stack_index": 341,
 					"type": "text"
 				},
 				{
@@ -12381,7 +12372,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 339,
+					"stack_index": 340,
 					"type": "text"
 				},
 				{
@@ -12469,7 +12460,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 338,
+					"stack_index": 339,
 					"type": "text"
 				},
 				{
@@ -12588,7 +12579,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 337,
+					"stack_index": 338,
 					"type": "text"
 				},
 				{
@@ -13119,7 +13110,7 @@
 						"translation.y": 29085.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 353,
+					"stack_index": 354,
 					"type": "text"
 				},
 				{
@@ -13149,7 +13140,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 352,
+					"stack_index": 353,
 					"type": "text"
 				},
 				{
@@ -13179,7 +13170,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 351,
+					"stack_index": 352,
 					"type": "text"
 				},
 				{
@@ -13209,7 +13200,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 350,
+					"stack_index": 351,
 					"type": "text"
 				},
 				{
@@ -13239,7 +13230,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 349,
+					"stack_index": 350,
 					"type": "text"
 				},
 				{
@@ -13269,7 +13260,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 348,
+					"stack_index": 349,
 					"type": "text"
 				},
 				{
@@ -13299,7 +13290,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 347,
+					"stack_index": 348,
 					"type": "text"
 				},
 				{
@@ -13417,7 +13408,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 346,
+					"stack_index": 347,
 					"type": "text"
 				},
 				{
@@ -13593,7 +13584,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 301,
+					"stack_index": 302,
 					"type": "text"
 				},
 				{
@@ -13623,7 +13614,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 45,
+					"stack_index": 48,
 					"type": "text"
 				},
 				{
@@ -13653,7 +13644,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -13827,7 +13818,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 167,
+					"stack_index": 170,
 					"type": "text"
 				},
 				{
@@ -14213,7 +14204,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 42,
+					"stack_index": 45,
 					"type": "text"
 				},
 				{
@@ -14361,7 +14352,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 185,
+					"stack_index": 188,
 					"type": "text"
 				},
 				{
@@ -14510,7 +14501,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1086,
+					"stack_index": 1085,
 					"type": "text"
 				},
 				{
@@ -14540,7 +14531,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 162,
+					"stack_index": 165,
 					"type": "text"
 				},
 				{
@@ -14570,7 +14561,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 322,
+					"stack_index": 323,
 					"type": "text"
 				},
 				{
@@ -14600,7 +14591,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 67,
+					"stack_index": 70,
 					"type": "text"
 				},
 				{
@@ -14630,7 +14621,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 299,
+					"stack_index": 300,
 					"type": "text"
 				},
 				{
@@ -14660,7 +14651,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1052,
+					"stack_index": 1051,
 					"type": "text"
 				},
 				{
@@ -14690,7 +14681,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 165,
+					"stack_index": 168,
 					"type": "text"
 				},
 				{
@@ -14871,7 +14862,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1088,
+					"stack_index": 1087,
 					"type": "text"
 				},
 				{
@@ -14901,7 +14892,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1087,
+					"stack_index": 1086,
 					"type": "text"
 				},
 				{
@@ -14931,7 +14922,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 202,
+					"stack_index": 205,
 					"type": "text"
 				},
 				{
@@ -14991,7 +14982,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 201,
+					"stack_index": 204,
 					"type": "text"
 				},
 				{
@@ -15051,7 +15042,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 184,
+					"stack_index": 187,
 					"type": "text"
 				},
 				{
@@ -15111,7 +15102,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 243,
+					"stack_index": 244,
 					"type": "text"
 				},
 				{
@@ -15231,7 +15222,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 294,
+					"stack_index": 295,
 					"type": "text"
 				},
 				{
@@ -15261,7 +15252,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 291,
+					"stack_index": 292,
 					"type": "text"
 				},
 				{
@@ -15291,7 +15282,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 283,
+					"stack_index": 284,
 					"type": "text"
 				},
 				{
@@ -15349,7 +15340,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1085,
+					"stack_index": 1084,
 					"type": "text"
 				},
 				{
@@ -15875,7 +15866,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 292,
+					"stack_index": 293,
 					"type": "text"
 				},
 				{
@@ -15935,7 +15926,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 954,
+					"stack_index": 953,
 					"type": "text"
 				},
 				{
@@ -15951,8 +15942,8 @@
 						"selection":
 						[
 							[
-								117,
-								117
+								0,
+								0
 							]
 						],
 						"settings":
@@ -15965,7 +15956,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 953,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -15995,7 +15986,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1067,
+					"stack_index": 1066,
 					"type": "text"
 				},
 				{
@@ -16025,7 +16016,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1066,
+					"stack_index": 1065,
 					"type": "text"
 				},
 				{
@@ -16055,7 +16046,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1065,
+					"stack_index": 1064,
 					"type": "text"
 				},
 				{
@@ -16085,7 +16076,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1064,
+					"stack_index": 1063,
 					"type": "text"
 				},
 				{
@@ -16115,7 +16106,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 320,
+					"stack_index": 321,
 					"type": "text"
 				},
 				{
@@ -16145,7 +16136,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 150,
+					"stack_index": 153,
 					"type": "text"
 				},
 				{
@@ -16175,7 +16166,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1071,
+					"stack_index": 1070,
 					"type": "text"
 				},
 				{
@@ -16205,7 +16196,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 972,
+					"stack_index": 971,
 					"type": "text"
 				},
 				{
@@ -16235,7 +16226,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 255,
+					"stack_index": 256,
 					"type": "text"
 				},
 				{
@@ -16244,7 +16235,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4516,
+						"buffer_size": 4521,
 						"regions":
 						{
 						},
@@ -16265,7 +16256,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 366,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -16295,7 +16286,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1050,
+					"stack_index": 1049,
 					"type": "text"
 				},
 				{
@@ -16325,7 +16316,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1049,
+					"stack_index": 1048,
 					"type": "text"
 				},
 				{
@@ -16413,7 +16404,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -16443,7 +16434,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 264,
+					"stack_index": 265,
 					"type": "text"
 				},
 				{
@@ -16473,7 +16464,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1027,
+					"stack_index": 1026,
 					"type": "text"
 				},
 				{
@@ -16503,7 +16494,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 137,
+					"stack_index": 140,
 					"type": "text"
 				},
 				{
@@ -16533,7 +16524,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 225,
+					"stack_index": 228,
 					"type": "text"
 				},
 				{
@@ -16683,7 +16674,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 55,
+					"stack_index": 58,
 					"type": "text"
 				},
 				{
@@ -16713,7 +16704,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 129,
+					"stack_index": 132,
 					"type": "text"
 				},
 				{
@@ -16743,7 +16734,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 128,
+					"stack_index": 131,
 					"type": "text"
 				},
 				{
@@ -16889,7 +16880,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 144,
+					"stack_index": 147,
 					"type": "text"
 				},
 				{
@@ -16911,14 +16902,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -16927,7 +16910,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -16949,14 +16932,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -16965,7 +16940,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -17175,7 +17150,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 239,
+					"stack_index": 241,
 					"type": "text"
 				},
 				{
@@ -17405,7 +17380,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 88,
+					"stack_index": 91,
 					"type": "text"
 				},
 				{
@@ -17435,7 +17410,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 106,
+					"stack_index": 109,
 					"type": "text"
 				},
 				{
@@ -17495,7 +17470,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 105,
+					"stack_index": 108,
 					"type": "text"
 				},
 				{
@@ -17615,7 +17590,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 309,
+					"stack_index": 310,
 					"type": "text"
 				},
 				{
@@ -17645,7 +17620,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 176,
+					"stack_index": 179,
 					"type": "text"
 				},
 				{
@@ -17675,7 +17650,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 266,
+					"stack_index": 267,
 					"type": "text"
 				},
 				{
@@ -17705,7 +17680,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 253,
+					"stack_index": 254,
 					"type": "text"
 				},
 				{
@@ -17795,7 +17770,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 263,
+					"stack_index": 264,
 					"type": "text"
 				},
 				{
@@ -17825,7 +17800,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 262,
+					"stack_index": 263,
 					"type": "text"
 				},
 				{
@@ -17855,7 +17830,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 113,
+					"stack_index": 116,
 					"type": "text"
 				},
 				{
@@ -17885,7 +17860,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 46,
+					"stack_index": 49,
 					"type": "text"
 				},
 				{
@@ -17975,7 +17950,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 312,
+					"stack_index": 313,
 					"type": "text"
 				},
 				{
@@ -18005,7 +17980,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 77,
+					"stack_index": 80,
 					"type": "text"
 				},
 				{
@@ -18065,7 +18040,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 31,
+					"stack_index": 36,
 					"type": "text"
 				},
 				{
@@ -18095,7 +18070,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1029,
+					"stack_index": 1028,
 					"type": "text"
 				},
 				{
@@ -18125,7 +18100,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 33,
 					"type": "text"
 				},
 				{
@@ -18185,7 +18160,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 247,
+					"stack_index": 248,
 					"type": "text"
 				},
 				{
@@ -18215,7 +18190,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 71,
+					"stack_index": 74,
 					"type": "text"
 				},
 				{
@@ -18245,7 +18220,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 95,
+					"stack_index": 98,
 					"type": "text"
 				},
 				{
@@ -18275,7 +18250,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 70,
+					"stack_index": 73,
 					"type": "text"
 				},
 				{
@@ -18363,7 +18338,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1042,
+					"stack_index": 1041,
 					"type": "text"
 				},
 				{
@@ -18393,7 +18368,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 227,
+					"stack_index": 229,
 					"type": "text"
 				},
 				{
@@ -18423,7 +18398,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1026,
+					"stack_index": 1025,
 					"type": "text"
 				},
 				{
@@ -18453,7 +18428,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1025,
+					"stack_index": 1024,
 					"type": "text"
 				},
 				{
@@ -18483,7 +18458,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 180,
+					"stack_index": 183,
 					"type": "text"
 				},
 				{
@@ -18543,7 +18518,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 207,
+					"stack_index": 210,
 					"type": "text"
 				},
 				{
@@ -18573,7 +18548,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 246,
+					"stack_index": 247,
 					"type": "text"
 				},
 				{
@@ -18633,7 +18608,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 168,
+					"stack_index": 171,
 					"type": "text"
 				},
 				{
@@ -18663,7 +18638,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 354,
+					"stack_index": 355,
 					"type": "text"
 				},
 				{
@@ -18693,7 +18668,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 336,
+					"stack_index": 337,
 					"type": "text"
 				},
 				{
@@ -18723,7 +18698,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 335,
+					"stack_index": 336,
 					"type": "text"
 				},
 				{
@@ -18753,7 +18728,7 @@
 						"translation.y": 870.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 170,
+					"stack_index": 173,
 					"type": "text"
 				},
 				{
@@ -18783,7 +18758,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 169,
+					"stack_index": 172,
 					"type": "text"
 				},
 				{
@@ -18813,7 +18788,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 331,
+					"stack_index": 332,
 					"type": "text"
 				},
 				{
@@ -18843,7 +18818,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 330,
+					"stack_index": 331,
 					"type": "text"
 				},
 				{
@@ -18873,7 +18848,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 329,
+					"stack_index": 330,
 					"type": "text"
 				},
 				{
@@ -18903,7 +18878,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 115,
+					"stack_index": 118,
 					"type": "text"
 				},
 				{
@@ -18933,7 +18908,7 @@
 						"translation.y": 588.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 319,
+					"stack_index": 320,
 					"type": "text"
 				},
 				{
@@ -18963,7 +18938,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 290,
+					"stack_index": 291,
 					"type": "text"
 				},
 				{
@@ -18993,7 +18968,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 289,
+					"stack_index": 290,
 					"type": "text"
 				},
 				{
@@ -19023,7 +18998,7 @@
 						"translation.y": 168.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 288,
+					"stack_index": 289,
 					"type": "text"
 				},
 				{
@@ -19053,7 +19028,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 287,
+					"stack_index": 288,
 					"type": "text"
 				},
 				{
@@ -19083,7 +19058,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 286,
+					"stack_index": 287,
 					"type": "text"
 				},
 				{
@@ -19113,7 +19088,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 285,
+					"stack_index": 286,
 					"type": "text"
 				},
 				{
@@ -19143,7 +19118,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 284,
+					"stack_index": 285,
 					"type": "text"
 				},
 				{
@@ -19173,7 +19148,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 278,
+					"stack_index": 279,
 					"type": "text"
 				},
 				{
@@ -19203,7 +19178,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 279,
+					"stack_index": 280,
 					"type": "text"
 				},
 				{
@@ -19233,7 +19208,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 280,
+					"stack_index": 281,
 					"type": "text"
 				},
 				{
@@ -19263,7 +19238,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 282,
+					"stack_index": 283,
 					"type": "text"
 				},
 				{
@@ -19294,7 +19269,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 276,
+					"stack_index": 277,
 					"type": "text"
 				},
 				{
@@ -19324,7 +19299,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 275,
+					"stack_index": 276,
 					"type": "text"
 				},
 				{
@@ -19354,7 +19329,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 274,
+					"stack_index": 275,
 					"type": "text"
 				},
 				{
@@ -19385,7 +19360,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 273,
+					"stack_index": 274,
 					"type": "text"
 				},
 				{
@@ -19415,7 +19390,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 272,
+					"stack_index": 273,
 					"type": "text"
 				},
 				{
@@ -19445,7 +19420,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 271,
+					"stack_index": 272,
 					"type": "text"
 				},
 				{
@@ -19475,7 +19450,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 270,
+					"stack_index": 271,
 					"type": "text"
 				},
 				{
@@ -19505,7 +19480,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 269,
+					"stack_index": 270,
 					"type": "text"
 				},
 				{
@@ -19535,7 +19510,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 268,
+					"stack_index": 269,
 					"type": "text"
 				},
 				{
@@ -19565,7 +19540,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 267,
+					"stack_index": 268,
 					"type": "text"
 				},
 				{
@@ -19595,7 +19570,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 236,
+					"stack_index": 238,
 					"type": "text"
 				},
 				{
@@ -19625,7 +19600,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 235,
+					"stack_index": 237,
 					"type": "text"
 				},
 				{
@@ -19655,7 +19630,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 101,
+					"stack_index": 104,
 					"type": "text"
 				},
 				{
@@ -19685,7 +19660,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 233,
+					"stack_index": 235,
 					"type": "text"
 				},
 				{
@@ -19715,7 +19690,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 231,
+					"stack_index": 233,
 					"type": "text"
 				},
 				{
@@ -19745,7 +19720,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 232,
+					"stack_index": 234,
 					"type": "text"
 				},
 				{
@@ -19775,7 +19750,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 230,
+					"stack_index": 232,
 					"type": "text"
 				},
 				{
@@ -19805,7 +19780,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 229,
+					"stack_index": 231,
 					"type": "text"
 				},
 				{
@@ -19835,7 +19810,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 222,
+					"stack_index": 225,
 					"type": "text"
 				},
 				{
@@ -19865,7 +19840,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 221,
+					"stack_index": 224,
 					"type": "text"
 				},
 				{
@@ -19895,7 +19870,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 210,
+					"stack_index": 213,
 					"type": "text"
 				},
 				{
@@ -19923,7 +19898,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 173,
+					"stack_index": 176,
 					"type": "text"
 				},
 				{
@@ -19951,7 +19926,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 211,
+					"stack_index": 214,
 					"type": "text"
 				},
 				{
@@ -19981,7 +19956,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 209,
+					"stack_index": 212,
 					"type": "text"
 				},
 				{
@@ -20011,7 +19986,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 30,
 					"type": "text"
 				},
 				{
@@ -20041,7 +20016,7 @@
 						"translation.y": 105.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 29,
 					"type": "text"
 				},
 				{
@@ -20071,7 +20046,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 35,
+					"stack_index": 40,
 					"type": "text"
 				},
 				{
@@ -20101,7 +20076,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 237,
+					"stack_index": 239,
 					"type": "text"
 				},
 				{
@@ -20131,7 +20106,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 35,
 					"type": "text"
 				},
 				{
@@ -20161,7 +20136,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 96,
+					"stack_index": 99,
 					"type": "text"
 				},
 				{
@@ -20191,7 +20166,7 @@
 						"translation.y": 3969.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 208,
+					"stack_index": 211,
 					"type": "text"
 				},
 				{
@@ -20251,7 +20226,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 99,
+					"stack_index": 102,
 					"type": "text"
 				},
 				{
@@ -20281,7 +20256,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 297,
+					"stack_index": 298,
 					"type": "text"
 				},
 				{
@@ -20459,7 +20434,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 116,
+					"stack_index": 119,
 					"type": "text"
 				},
 				{
@@ -20659,7 +20634,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 82,
+					"stack_index": 85,
 					"type": "text"
 				},
 				{
@@ -20839,7 +20814,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1051,
+					"stack_index": 1050,
 					"type": "text"
 				},
 				{
@@ -21259,7 +21234,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 84,
+					"stack_index": 87,
 					"type": "text"
 				},
 				{
@@ -21679,7 +21654,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 136,
+					"stack_index": 139,
 					"type": "text"
 				},
 				{
@@ -21799,7 +21774,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 307,
+					"stack_index": 308,
 					"type": "text"
 				},
 				{
@@ -21859,7 +21834,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 240,
+					"stack_index": 242,
 					"type": "text"
 				},
 				{
@@ -21889,7 +21864,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 241,
+					"stack_index": 243,
 					"type": "text"
 				},
 				{
@@ -21898,7 +21873,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 62194,
+						"buffer_size": 62219,
 						"regions":
 						{
 						},
@@ -21919,7 +21894,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 41,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -22089,7 +22064,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 122,
+					"stack_index": 125,
 					"type": "text"
 				},
 				{
@@ -22378,7 +22353,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 43,
+					"stack_index": 46,
 					"type": "text"
 				},
 				{
@@ -22408,7 +22383,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 85,
+					"stack_index": 88,
 					"type": "text"
 				},
 				{
@@ -22438,7 +22413,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 143,
+					"stack_index": 146,
 					"type": "text"
 				},
 				{
@@ -22468,7 +22443,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 204,
+					"stack_index": 207,
 					"type": "text"
 				},
 				{
@@ -22477,7 +22452,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 61213,
+						"buffer_size": 61185,
 						"regions":
 						{
 						},
@@ -22490,6 +22465,14 @@
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -22498,7 +22481,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 36,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -22528,7 +22511,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 200,
+					"stack_index": 203,
 					"type": "text"
 				},
 				{
@@ -22588,7 +22571,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 134,
+					"stack_index": 137,
 					"type": "text"
 				},
 				{
@@ -22940,7 +22923,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 130,
+					"stack_index": 133,
 					"type": "text"
 				},
 				{
@@ -22968,7 +22951,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 326,
+					"stack_index": 327,
 					"type": "text"
 				},
 				{
@@ -23174,7 +23157,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 984,
+					"stack_index": 983,
 					"type": "text"
 				},
 				{
@@ -23384,7 +23367,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 34,
+					"stack_index": 39,
 					"type": "text"
 				},
 				{
@@ -23414,7 +23397,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 296,
+					"stack_index": 297,
 					"type": "text"
 				},
 				{
@@ -23504,7 +23487,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 108,
+					"stack_index": 111,
 					"type": "text"
 				},
 				{
@@ -23592,7 +23575,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 107,
+					"stack_index": 110,
 					"type": "text"
 				},
 				{
@@ -23622,7 +23605,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 298,
+					"stack_index": 299,
 					"type": "text"
 				},
 				{
@@ -23652,7 +23635,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 293,
+					"stack_index": 294,
 					"type": "text"
 				},
 				{
@@ -24000,7 +23983,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 321,
+					"stack_index": 322,
 					"type": "text"
 				},
 				{
@@ -24236,7 +24219,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1028,
+					"stack_index": 1027,
 					"type": "text"
 				},
 				{
@@ -24296,7 +24279,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1014,
+					"stack_index": 1013,
 					"type": "text"
 				},
 				{
@@ -24326,7 +24309,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1013,
+					"stack_index": 1012,
 					"type": "text"
 				},
 				{
@@ -24356,7 +24339,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1012,
+					"stack_index": 1011,
 					"type": "text"
 				},
 				{
@@ -24386,7 +24369,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1011,
+					"stack_index": 1010,
 					"type": "text"
 				},
 				{
@@ -24416,7 +24399,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1010,
+					"stack_index": 1009,
 					"type": "text"
 				},
 				{
@@ -24446,7 +24429,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1009,
+					"stack_index": 1008,
 					"type": "text"
 				},
 				{
@@ -24476,7 +24459,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 254,
+					"stack_index": 255,
 					"type": "text"
 				},
 				{
@@ -24506,7 +24489,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 118,
+					"stack_index": 121,
 					"type": "text"
 				},
 				{
@@ -24626,7 +24609,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 265,
+					"stack_index": 266,
 					"type": "text"
 				},
 				{
@@ -24656,7 +24639,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 973,
+					"stack_index": 972,
 					"type": "text"
 				},
 				{
@@ -24686,7 +24669,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 245,
+					"stack_index": 246,
 					"type": "text"
 				},
 				{
@@ -24746,7 +24729,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 117,
+					"stack_index": 120,
 					"type": "text"
 				},
 				{
@@ -24866,7 +24849,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 316,
+					"stack_index": 317,
 					"type": "text"
 				},
 				{
@@ -25016,7 +24999,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 306,
+					"stack_index": 307,
 					"type": "text"
 				},
 				{
@@ -25076,7 +25059,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 983,
+					"stack_index": 982,
 					"type": "text"
 				},
 				{
@@ -25106,7 +25089,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 982,
+					"stack_index": 981,
 					"type": "text"
 				},
 				{
@@ -25136,7 +25119,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 981,
+					"stack_index": 980,
 					"type": "text"
 				},
 				{
@@ -25166,7 +25149,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 980,
+					"stack_index": 979,
 					"type": "text"
 				},
 				{
@@ -25196,7 +25179,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 979,
+					"stack_index": 978,
 					"type": "text"
 				},
 				{
@@ -25226,7 +25209,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1006,
+					"stack_index": 1005,
 					"type": "text"
 				},
 				{
@@ -25552,7 +25535,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 212,
+					"stack_index": 215,
 					"type": "text"
 				},
 				{
@@ -25582,7 +25565,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 87,
+					"stack_index": 90,
 					"type": "text"
 				},
 				{
@@ -25702,7 +25685,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 955,
+					"stack_index": 954,
 					"type": "text"
 				},
 				{
@@ -25732,7 +25715,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 92,
+					"stack_index": 95,
 					"type": "text"
 				},
 				{
@@ -25852,7 +25835,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 50,
+					"stack_index": 53,
 					"type": "text"
 				},
 				{
@@ -25912,7 +25895,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 183,
+					"stack_index": 186,
 					"type": "text"
 				},
 				{
@@ -25972,7 +25955,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 186,
+					"stack_index": 189,
 					"type": "text"
 				},
 				{
@@ -26032,7 +26015,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 104,
+					"stack_index": 107,
 					"type": "text"
 				},
 				{
@@ -26148,7 +26131,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 138,
+					"stack_index": 141,
 					"type": "text"
 				},
 				{
@@ -26206,7 +26189,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 213,
+					"stack_index": 216,
 					"type": "text"
 				},
 				{
@@ -26236,7 +26219,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 33,
+					"stack_index": 38,
 					"type": "text"
 				},
 				{
@@ -26266,7 +26249,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 110,
+					"stack_index": 113,
 					"type": "text"
 				},
 				{
@@ -26296,7 +26279,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 175,
+					"stack_index": 178,
 					"type": "text"
 				},
 				{
@@ -26324,7 +26307,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 214,
+					"stack_index": 217,
 					"type": "text"
 				},
 				{
@@ -26352,7 +26335,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 215,
+					"stack_index": 218,
 					"type": "text"
 				},
 				{
@@ -26524,7 +26507,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 295,
+					"stack_index": 296,
 					"type": "text"
 				},
 				{
@@ -26674,7 +26657,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 119,
+					"stack_index": 122,
 					"type": "text"
 				},
 				{
@@ -26704,7 +26687,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 315,
+					"stack_index": 316,
 					"type": "text"
 				},
 				{
@@ -26764,7 +26747,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 75,
+					"stack_index": 78,
 					"type": "text"
 				},
 				{
@@ -27598,7 +27581,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1056,
+					"stack_index": 1055,
 					"type": "text"
 				},
 				{
@@ -27628,7 +27611,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 964,
+					"stack_index": 963,
 					"type": "text"
 				},
 				{
@@ -27658,7 +27641,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 963,
+					"stack_index": 962,
 					"type": "text"
 				},
 				{
@@ -27686,7 +27669,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 962,
+					"stack_index": 961,
 					"type": "text"
 				},
 				{
@@ -27714,7 +27697,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 961,
+					"stack_index": 960,
 					"type": "text"
 				},
 				{
@@ -27742,7 +27725,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 960,
+					"stack_index": 959,
 					"type": "text"
 				},
 				{
@@ -27770,7 +27753,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 959,
+					"stack_index": 958,
 					"type": "text"
 				},
 				{
@@ -27800,7 +27783,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 958,
+					"stack_index": 957,
 					"type": "text"
 				},
 				{
@@ -27860,7 +27843,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1055,
+					"stack_index": 1054,
 					"type": "text"
 				},
 				{
@@ -27888,7 +27871,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1054,
+					"stack_index": 1053,
 					"type": "text"
 				},
 				{
@@ -27918,7 +27901,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1053,
+					"stack_index": 1052,
 					"type": "text"
 				},
 				{
@@ -27948,7 +27931,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 69,
+					"stack_index": 72,
 					"type": "text"
 				},
 				{
@@ -27978,7 +27961,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 32,
+					"stack_index": 37,
 					"type": "text"
 				},
 				{
@@ -28008,7 +27991,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 32,
 					"type": "text"
 				},
 				{
@@ -28126,7 +28109,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 103,
+					"stack_index": 106,
 					"type": "text"
 				},
 				{
@@ -28632,7 +28615,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 38,
+					"stack_index": 42,
 					"type": "text"
 				},
 				{
@@ -28782,7 +28765,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 121,
+					"stack_index": 124,
 					"type": "text"
 				},
 				{
@@ -28812,7 +28795,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 120,
+					"stack_index": 123,
 					"type": "text"
 				},
 				{
@@ -28902,7 +28885,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 127,
+					"stack_index": 130,
 					"type": "text"
 				},
 				{
@@ -28992,7 +28975,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 154,
+					"stack_index": 157,
 					"type": "text"
 				},
 				{
@@ -29052,7 +29035,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 63,
+					"stack_index": 66,
 					"type": "text"
 				},
 				{
@@ -29224,7 +29207,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 327,
+					"stack_index": 328,
 					"type": "text"
 				},
 				{
@@ -29314,7 +29297,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 58,
+					"stack_index": 61,
 					"type": "text"
 				},
 				{
@@ -29344,7 +29327,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 985,
+					"stack_index": 984,
 					"type": "text"
 				},
 				{
@@ -29434,7 +29417,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 156,
+					"stack_index": 159,
 					"type": "text"
 				},
 				{
@@ -29756,7 +29739,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 109,
+					"stack_index": 112,
 					"type": "text"
 				},
 				{
@@ -29786,7 +29769,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 957,
+					"stack_index": 956,
 					"type": "text"
 				},
 				{
@@ -29816,7 +29799,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 956,
+					"stack_index": 955,
 					"type": "text"
 				},
 				{
@@ -29846,7 +29829,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 310,
+					"stack_index": 311,
 					"type": "text"
 				},
 				{
@@ -29876,7 +29859,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1061,
+					"stack_index": 1060,
 					"type": "text"
 				},
 				{
@@ -29906,7 +29889,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 149,
+					"stack_index": 152,
 					"type": "text"
 				},
 				{
@@ -29934,7 +29917,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1060,
+					"stack_index": 1059,
 					"type": "text"
 				},
 				{
@@ -29964,7 +29947,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1059,
+					"stack_index": 1058,
 					"type": "text"
 				},
 				{
@@ -29994,7 +29977,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1058,
+					"stack_index": 1057,
 					"type": "text"
 				},
 				{
@@ -30024,7 +30007,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1063,
+					"stack_index": 1062,
 					"type": "text"
 				},
 				{
@@ -30054,7 +30037,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1062,
+					"stack_index": 1061,
 					"type": "text"
 				},
 				{
@@ -30084,7 +30067,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1057,
+					"stack_index": 1056,
 					"type": "text"
 				},
 				{
@@ -30144,7 +30127,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 79,
+					"stack_index": 82,
 					"type": "text"
 				},
 				{
@@ -30174,7 +30157,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 28,
 					"type": "text"
 				},
 				{
@@ -30322,7 +30305,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1005,
+					"stack_index": 1004,
 					"type": "text"
 				},
 				{
@@ -30352,7 +30335,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1004,
+					"stack_index": 1003,
 					"type": "text"
 				},
 				{
@@ -30382,7 +30365,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1003,
+					"stack_index": 1002,
 					"type": "text"
 				},
 				{
@@ -30410,7 +30393,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1002,
+					"stack_index": 1001,
 					"type": "text"
 				},
 				{
@@ -30466,7 +30449,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1001,
+					"stack_index": 1000,
 					"type": "text"
 				},
 				{
@@ -30496,7 +30479,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1000,
+					"stack_index": 999,
 					"type": "text"
 				},
 				{
@@ -30556,7 +30539,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 252,
+					"stack_index": 253,
 					"type": "text"
 				},
 				{
@@ -30616,7 +30599,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 999,
+					"stack_index": 998,
 					"type": "text"
 				},
 				{
@@ -30646,7 +30629,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 998,
+					"stack_index": 997,
 					"type": "text"
 				},
 				{
@@ -30676,7 +30659,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 996,
+					"stack_index": 995,
 					"type": "text"
 				},
 				{
@@ -30704,7 +30687,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 995,
+					"stack_index": 994,
 					"type": "text"
 				},
 				{
@@ -30732,7 +30715,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 994,
+					"stack_index": 993,
 					"type": "text"
 				},
 				{
@@ -30762,7 +30745,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 147,
+					"stack_index": 150,
 					"type": "text"
 				},
 				{
@@ -30771,7 +30754,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14796,
+						"buffer_size": 14801,
 						"regions":
 						{
 						},
@@ -30792,7 +30775,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 226,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -30852,7 +30835,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 163,
+					"stack_index": 166,
 					"type": "text"
 				},
 				{
@@ -30912,7 +30895,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 155,
+					"stack_index": 158,
 					"type": "text"
 				},
 				{
@@ -30942,7 +30925,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 160,
+					"stack_index": 163,
 					"type": "text"
 				},
 				{
@@ -30970,7 +30953,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 157,
+					"stack_index": 160,
 					"type": "text"
 				},
 				{
@@ -31030,7 +31013,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 57,
+					"stack_index": 60,
 					"type": "text"
 				},
 				{
@@ -31266,7 +31249,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 53,
+					"stack_index": 56,
 					"type": "text"
 				},
 				{
@@ -31326,7 +31309,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 311,
+					"stack_index": 312,
 					"type": "text"
 				},
 				{
@@ -31356,7 +31339,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 52,
+					"stack_index": 55,
 					"type": "text"
 				},
 				{
@@ -31686,7 +31669,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 305,
+					"stack_index": 306,
 					"type": "text"
 				},
 				{
@@ -31926,7 +31909,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1008,
+					"stack_index": 1007,
 					"type": "text"
 				},
 				{
@@ -31956,7 +31939,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1048,
+					"stack_index": 1047,
 					"type": "text"
 				},
 				{
@@ -31986,7 +31969,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 971,
+					"stack_index": 970,
 					"type": "text"
 				},
 				{
@@ -32014,7 +31997,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 970,
+					"stack_index": 969,
 					"type": "text"
 				},
 				{
@@ -32044,7 +32027,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 969,
+					"stack_index": 968,
 					"type": "text"
 				},
 				{
@@ -32074,7 +32057,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 968,
+					"stack_index": 967,
 					"type": "text"
 				},
 				{
@@ -32104,7 +32087,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 967,
+					"stack_index": 966,
 					"type": "text"
 				},
 				{
@@ -32132,7 +32115,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 966,
+					"stack_index": 965,
 					"type": "text"
 				},
 				{
@@ -32160,7 +32143,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 965,
+					"stack_index": 964,
 					"type": "text"
 				},
 				{
@@ -32220,7 +32203,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 78,
+					"stack_index": 81,
 					"type": "text"
 				},
 				{
@@ -32308,7 +32291,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 152,
+					"stack_index": 155,
 					"type": "text"
 				},
 				{
@@ -32398,7 +32381,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 114,
+					"stack_index": 117,
 					"type": "text"
 				},
 				{
@@ -32604,7 +32587,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 317,
+					"stack_index": 318,
 					"type": "text"
 				},
 				{
@@ -32634,7 +32617,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 313,
+					"stack_index": 314,
 					"type": "text"
 				},
 				{
@@ -32664,7 +32647,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 54,
+					"stack_index": 57,
 					"type": "text"
 				},
 				{
@@ -32694,7 +32677,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 97,
+					"stack_index": 100,
 					"type": "text"
 				},
 				{
@@ -32724,7 +32707,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 171,
+					"stack_index": 174,
 					"type": "text"
 				},
 				{
@@ -32754,7 +32737,7 @@
 						"translation.y": 1551.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 182,
+					"stack_index": 185,
 					"type": "text"
 				},
 				{
@@ -32784,7 +32767,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -32814,7 +32797,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 181,
+					"stack_index": 184,
 					"type": "text"
 				},
 				{
@@ -32844,7 +32827,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 179,
+					"stack_index": 182,
 					"type": "text"
 				},
 				{
@@ -32874,7 +32857,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 178,
+					"stack_index": 181,
 					"type": "text"
 				},
 				{
@@ -32904,7 +32887,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 177,
+					"stack_index": 180,
 					"type": "text"
 				},
 				{
@@ -32934,7 +32917,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 174,
+					"stack_index": 177,
 					"type": "text"
 				},
 				{
@@ -32964,7 +32947,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 172,
+					"stack_index": 175,
 					"type": "text"
 				},
 				{
@@ -32994,7 +32977,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 26,
 					"type": "text"
 				},
 				{
@@ -33024,7 +33007,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 27,
 					"type": "text"
 				},
 				{
@@ -33054,7 +33037,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
@@ -33084,7 +33067,7 @@
 						"translation.y": 1134.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
@@ -33114,7 +33097,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
@@ -33123,7 +33106,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6978,
+						"buffer_size": 6983,
 						"regions":
 						{
 						},
@@ -33144,7 +33127,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -33174,7 +33157,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -33196,14 +33179,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -33212,7 +33187,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -33234,15 +33209,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 0,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -33251,48 +33217,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 777,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 247,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								247,
-								247
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 67,
-								"count": 40,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"auto_name": "ox fond of crops | Ochse, der gerne die Saat friss",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 778,
 					"file": "AN/6/an6.5 Ein Vollblüter (1)",
 					"semi_transient": false,
 					"settings":
@@ -33318,11 +33247,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 779,
+					"buffer": 778,
 					"file": "AN/6/an6.6 Ein Vollblüter (2)",
 					"semi_transient": false,
 					"settings":
@@ -33352,7 +33281,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 780,
+					"buffer": 779,
 					"file": "AN/6/an6.7 Ein Vollblüter (3)",
 					"semi_transient": false,
 					"settings":
@@ -33382,7 +33311,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 781,
+					"buffer": 780,
 					"file": "AN/6/an6.8 Unübertrefflich",
 					"semi_transient": false,
 					"settings":
@@ -33410,7 +33339,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 782,
+					"buffer": 781,
 					"file": "AN/6/an6.9 Gegenstände zur Besinnung",
 					"semi_transient": false,
 					"settings":
@@ -33438,7 +33367,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 783,
+					"buffer": 782,
 					"file": "KN/Kp/kp1 Die dreifache Zuflucht",
 					"semi_transient": false,
 					"settings":
@@ -33469,7 +33398,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 784,
+					"buffer": 783,
 					"file": "KN/Kp/kp2 Die zehn Übungsregeln",
 					"semi_transient": false,
 					"settings":
@@ -33499,7 +33428,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 785,
+					"buffer": 784,
 					"file": "KN/Kp/kp3 Die zweiunddreißig Körperteile",
 					"semi_transient": false,
 					"settings":
@@ -33527,7 +33456,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 786,
+					"buffer": 785,
 					"file": "KN/Kp/kp4 Die Fragen des Jungen",
 					"semi_transient": false,
 					"settings":
@@ -33557,7 +33486,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 787,
+					"buffer": 786,
 					"file": "KN/Kp/kp5 Segen",
 					"semi_transient": false,
 					"settings":
@@ -33583,11 +33512,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 300,
+					"stack_index": 301,
 					"type": "text"
 				},
 				{
-					"buffer": 788,
+					"buffer": 787,
 					"file": "KN/Kp/kp6 Juwelen",
 					"semi_transient": false,
 					"settings":
@@ -33617,7 +33546,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 789,
+					"buffer": 788,
 					"file": "KN/Kp/kp7 Außerhalb der Mauern",
 					"semi_transient": false,
 					"settings":
@@ -33647,7 +33576,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 790,
+					"buffer": 789,
 					"file": "KN/Kp/kp8 Ein verborgener Schatz",
 					"semi_transient": false,
 					"settings":
@@ -33673,11 +33602,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 112,
+					"stack_index": 115,
 					"type": "text"
 				},
 				{
-					"buffer": 791,
+					"buffer": 790,
 					"file": "KN/Kp/kp9 Die Lehrrede von der Liebe",
 					"semi_transient": false,
 					"settings":
@@ -33707,7 +33636,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 792,
+					"buffer": 791,
 					"file": "AN/3/an3.36 Götterboten",
 					"semi_transient": false,
 					"settings":
@@ -33737,7 +33666,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 793,
+					"buffer": 792,
 					"file": "AN/3/an3.38 Die Vier Großen Könige (2)",
 					"semi_transient": false,
 					"settings":
@@ -33763,11 +33692,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1043,
+					"stack_index": 1042,
 					"type": "text"
 				},
 				{
-					"buffer": 794,
+					"buffer": 793,
 					"file": "SN/Sam12/sn12.16 Ein Dhammalehrer",
 					"semi_transient": false,
 					"settings":
@@ -33797,7 +33726,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 795,
+					"buffer": 794,
 					"file": "AN/3/an3.32 Mit Ānanda",
 					"semi_transient": false,
 					"settings":
@@ -33823,11 +33752,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1046,
+					"stack_index": 1045,
 					"type": "text"
 				},
 				{
-					"buffer": 796,
+					"buffer": 795,
 					"file": "AN/3/an3.33 Mit Sāriputta",
 					"semi_transient": false,
 					"settings":
@@ -33853,11 +33782,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1045,
+					"stack_index": 1044,
 					"type": "text"
 				},
 				{
-					"buffer": 797,
+					"buffer": 796,
 					"file": "AN/3/an3.34 Quellen",
 					"semi_transient": false,
 					"settings":
@@ -33883,11 +33812,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1044,
+					"stack_index": 1043,
 					"type": "text"
 				},
 				{
-					"buffer": 798,
+					"buffer": 797,
 					"file": "AN/3/an3.35 Mit Hatthaka",
 					"semi_transient": false,
 					"settings":
@@ -33913,11 +33842,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 304,
+					"stack_index": 305,
 					"type": "text"
 				},
 				{
-					"buffer": 799,
+					"buffer": 798,
 					"file": "AN/4/an4.192 Gelegenheiten",
 					"semi_transient": false,
 					"settings":
@@ -33943,11 +33872,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 80,
+					"stack_index": 83,
 					"type": "text"
 				},
 				{
-					"buffer": 800,
+					"buffer": 799,
 					"file": "AN/4/an4.191 Mit dem Ohr gefolgt",
 					"semi_transient": false,
 					"settings":
@@ -33977,7 +33906,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 801,
+					"buffer": 800,
 					"file": "KN/Thag/thag1.43 Sumaṅgala",
 					"semi_transient": false,
 					"settings":
@@ -34003,11 +33932,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 159,
+					"stack_index": 162,
 					"type": "text"
 				},
 				{
-					"buffer": 802,
+					"buffer": 801,
 					"file": "KN/Thag/that4.10 Dhammika",
 					"semi_transient": false,
 					"settings":
@@ -34033,11 +33962,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 158,
+					"stack_index": 161,
 					"type": "text"
 				},
 				{
-					"buffer": 803,
+					"buffer": 802,
 					"file": "KN/Thag/thag15.2 Udāyī",
 					"semi_transient": false,
 					"settings":
@@ -34063,11 +33992,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 98,
+					"stack_index": 101,
 					"type": "text"
 				},
 				{
-					"buffer": 804,
+					"buffer": 803,
 					"file": "KN/Thig/thig1.1 Eine nicht namentlich genannte Nonne (1)",
 					"semi_transient": false,
 					"settings":
@@ -34095,7 +34024,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 805,
+					"buffer": 804,
 					"file": "KN/Thig/thig1.10 Upasamā",
 					"semi_transient": false,
 					"settings":
@@ -34119,11 +34048,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 362,
+					"stack_index": 363,
 					"type": "text"
 				},
 				{
-					"buffer": 806,
+					"buffer": 805,
 					"file": "KN/Thig/thig1.11 Muttā (2)",
 					"semi_transient": false,
 					"settings":
@@ -34147,11 +34076,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 203,
+					"stack_index": 206,
 					"type": "text"
 				},
 				{
-					"buffer": 807,
+					"buffer": 806,
 					"file": "KN/Thig/thig1.12 Dhammadinnā",
 					"semi_transient": false,
 					"settings":
@@ -34179,7 +34108,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 808,
+					"buffer": 807,
 					"file": "KN/Thig/thig1.13 Visākhā",
 					"semi_transient": false,
 					"settings":
@@ -34203,11 +34132,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 102,
+					"stack_index": 105,
 					"type": "text"
 				},
 				{
-					"buffer": 809,
+					"buffer": 808,
 					"file": "KN/Thig/thig1.14 Sumanā",
 					"semi_transient": false,
 					"settings":
@@ -34235,7 +34164,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 810,
+					"buffer": 809,
 					"file": "KN/Thig/thig1.15 Uttarā",
 					"semi_transient": false,
 					"settings":
@@ -34263,7 +34192,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 811,
+					"buffer": 810,
 					"file": "KN/Thig/thig1.17 Dhammā",
 					"semi_transient": false,
 					"settings":
@@ -34291,7 +34220,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 812,
+					"buffer": 811,
 					"file": "KN/Thig/thig1.18 Saṅghā",
 					"semi_transient": false,
 					"settings":
@@ -34317,11 +34246,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 206,
+					"stack_index": 209,
 					"type": "text"
 				},
 				{
-					"buffer": 813,
+					"buffer": 812,
 					"file": "KN/Thig/thig2.1 Abhirūpanandā",
 					"semi_transient": false,
 					"settings":
@@ -34347,11 +34276,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 93,
+					"stack_index": 96,
 					"type": "text"
 				},
 				{
-					"buffer": 814,
+					"buffer": 813,
 					"file": "KN/Thig/thig2.2 Jentā",
 					"semi_transient": false,
 					"settings":
@@ -34377,11 +34306,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 205,
+					"stack_index": 208,
 					"type": "text"
 				},
 				{
-					"buffer": 815,
+					"buffer": 814,
 					"file": "KN/Thig/thig2.3 Sumaṅgalās Mutter",
 					"semi_transient": false,
 					"settings":
@@ -34407,11 +34336,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 195,
+					"stack_index": 198,
 					"type": "text"
 				},
 				{
-					"buffer": 816,
+					"buffer": 815,
 					"file": "KN/Thig/thig2.4 Aḍḍhakāsi",
 					"semi_transient": false,
 					"settings":
@@ -34437,11 +34366,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 199,
+					"stack_index": 202,
 					"type": "text"
 				},
 				{
-					"buffer": 817,
+					"buffer": 816,
 					"file": "KN/Thig/thig2.5 Cittā",
 					"semi_transient": false,
 					"settings":
@@ -34467,11 +34396,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 198,
+					"stack_index": 201,
 					"type": "text"
 				},
 				{
-					"buffer": 818,
+					"buffer": 817,
 					"file": "KN/Thig/thig2.6 Mettikā",
 					"semi_transient": false,
 					"settings":
@@ -34497,11 +34426,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 197,
+					"stack_index": 200,
 					"type": "text"
 				},
 				{
-					"buffer": 819,
+					"buffer": 818,
 					"file": "KN/Thig/thig2.7 Mittā (2)",
 					"semi_transient": false,
 					"settings":
@@ -34527,11 +34456,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 188,
+					"stack_index": 191,
 					"type": "text"
 				},
 				{
-					"buffer": 820,
+					"buffer": 819,
 					"file": "KN/Thig/thig2.8 Abhayas Mutter",
 					"semi_transient": false,
 					"settings":
@@ -34557,11 +34486,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 194,
+					"stack_index": 197,
 					"type": "text"
 				},
 				{
-					"buffer": 821,
+					"buffer": 820,
 					"file": "KN/Thig/thig2.9 Abhayā",
 					"semi_transient": false,
 					"settings":
@@ -34587,11 +34516,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 193,
+					"stack_index": 196,
 					"type": "text"
 				},
 				{
-					"buffer": 822,
+					"buffer": 821,
 					"file": "KN/Thig/thig2.10 Sāmā",
 					"semi_transient": false,
 					"settings":
@@ -34617,11 +34546,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 196,
+					"stack_index": 199,
 					"type": "text"
 				},
 				{
-					"buffer": 823,
+					"buffer": 822,
 					"file": "KN/Thig/thig3.1 Eine andere Sāmā",
 					"semi_transient": false,
 					"settings":
@@ -34647,11 +34576,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 83,
+					"stack_index": 86,
 					"type": "text"
 				},
 				{
-					"buffer": 824,
+					"buffer": 823,
 					"file": "KN/Thig/thig3.2 Uttamā",
 					"semi_transient": false,
 					"settings":
@@ -34677,11 +34606,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 192,
+					"stack_index": 195,
 					"type": "text"
 				},
 				{
-					"buffer": 825,
+					"buffer": 824,
 					"file": "KN/Thig/thig3.3 Eine andere Uttamā",
 					"semi_transient": false,
 					"settings":
@@ -34707,11 +34636,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 191,
+					"stack_index": 194,
 					"type": "text"
 				},
 				{
-					"buffer": 826,
+					"buffer": 825,
 					"file": "KN/Thig/thig3.4 Dantikā",
 					"semi_transient": false,
 					"settings":
@@ -34737,11 +34666,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 91,
+					"stack_index": 94,
 					"type": "text"
 				},
 				{
-					"buffer": 827,
+					"buffer": 826,
 					"file": "KN/Thig/thig3.5 Ubbirī",
 					"semi_transient": false,
 					"settings":
@@ -34767,11 +34696,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 190,
+					"stack_index": 193,
 					"type": "text"
 				},
 				{
-					"buffer": 828,
+					"buffer": 827,
 					"file": "KN/Thig/thig3.6 Sukkā",
 					"semi_transient": false,
 					"settings":
@@ -34797,11 +34726,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 90,
+					"stack_index": 93,
 					"type": "text"
 				},
 				{
-					"buffer": 829,
+					"buffer": 828,
 					"file": "KN/Thig/thig3.7 Selā",
 					"semi_transient": false,
 					"settings":
@@ -34827,11 +34756,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 189,
+					"stack_index": 192,
 					"type": "text"
 				},
 				{
-					"buffer": 830,
+					"buffer": 829,
 					"file": "KN/Thig/thig1.2 Muttā (1)",
 					"semi_transient": false,
 					"settings":
@@ -34859,7 +34788,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 831,
+					"buffer": 830,
 					"file": "KN/Thig/thig1.3 Puṇṇā",
 					"semi_transient": false,
 					"settings":
@@ -34887,7 +34816,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 832,
+					"buffer": 831,
 					"file": "KN/Thig/thig1.4 Tissā",
 					"semi_transient": false,
 					"settings":
@@ -34915,7 +34844,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 833,
+					"buffer": 832,
 					"file": "KN/Thig/thig1.5 Eine andere Tissā",
 					"semi_transient": false,
 					"settings":
@@ -34943,7 +34872,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 834,
+					"buffer": 833,
 					"file": "KN/Thig/thig1.6 Dhīrā",
 					"semi_transient": false,
 					"settings":
@@ -34971,7 +34900,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 835,
+					"buffer": 834,
 					"file": "KN/Thig/thig1.7 Vīrā",
 					"semi_transient": false,
 					"settings":
@@ -34999,7 +34928,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 836,
+					"buffer": 835,
 					"file": "KN/Thig/thig1.8 Mittā (1)",
 					"semi_transient": false,
 					"settings":
@@ -35027,7 +34956,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 837,
+					"buffer": 836,
 					"file": "KN/Thig/thig1.9 Bhadrā",
 					"semi_transient": false,
 					"settings":
@@ -35055,7 +34984,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 838,
+					"buffer": 837,
 					"file": "KN/Thig/thig3.8 Somā",
 					"semi_transient": false,
 					"settings":
@@ -35081,11 +35010,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 89,
+					"stack_index": 92,
 					"type": "text"
 				},
 				{
-					"buffer": 839,
+					"buffer": 838,
 					"file": "KN/Thig/thig5.9 Bhaddā Kuṇḍalakesā",
 					"semi_transient": false,
 					"settings":
@@ -35111,11 +35040,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 76,
+					"stack_index": 79,
 					"type": "text"
 				},
 				{
-					"buffer": 840,
+					"buffer": 839,
 					"file": "KN/Thig/thig6.5 Anopamā",
 					"semi_transient": false,
 					"settings":
@@ -35141,11 +35070,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 31,
 					"type": "text"
 				},
 				{
-					"buffer": 841,
+					"buffer": 840,
 					"file": "KN/Thig/thig6.6 Mahāpajāpati Gotamī",
 					"semi_transient": false,
 					"settings":
@@ -35171,11 +35100,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 39,
+					"stack_index": 43,
 					"type": "text"
 				},
 				{
-					"buffer": 842,
+					"buffer": 841,
 					"file": "KN/Thig/thig6.8 Vijayā",
 					"semi_transient": false,
 					"settings":
@@ -35201,11 +35130,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 40,
+					"stack_index": 44,
 					"type": "text"
 				},
 				{
-					"buffer": 843,
+					"buffer": 842,
 					"file": "KN/Thig/thig10.1 Kisāgotamī",
 					"semi_transient": false,
 					"settings":
@@ -35231,11 +35160,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 37,
+					"stack_index": 41,
 					"type": "text"
 				},
 				{
-					"buffer": 844,
+					"buffer": 843,
 					"file": "KN/Thig/thig1.16 Sumanā, die spät im Leben fortzog",
 					"semi_transient": false,
 					"settings":
@@ -35263,7 +35192,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 845,
+					"buffer": 844,
 					"file": "AN/5/an5.44 Angenehm",
 					"semi_transient": false,
 					"settings":
@@ -35293,7 +35222,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 846,
+					"buffer": 845,
 					"file": "AN/4/an4.76 In Kusinārā",
 					"semi_transient": false,
 					"settings":
@@ -35323,7 +35252,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 847,
+					"buffer": 846,
 					"file": "AN/4/an4.77 Durch Denken nicht zu fassen",
 					"semi_transient": false,
 					"settings":
@@ -35353,7 +35282,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 848,
+					"buffer": 847,
 					"file": "AN/4/an4.78 Eine religiöse Gabe",
 					"semi_transient": false,
 					"settings":
@@ -35383,7 +35312,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 849,
+					"buffer": 848,
 					"file": "AN/3/an3.80 Kleiner",
 					"semi_transient": false,
 					"settings":
@@ -35409,11 +35338,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1017,
+					"stack_index": 1016,
 					"type": "text"
 				},
 				{
-					"buffer": 850,
+					"buffer": 849,
 					"file": "AN/3/an3.81 Asketen",
 					"semi_transient": false,
 					"settings":
@@ -35439,11 +35368,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1016,
+					"stack_index": 1015,
 					"type": "text"
 				},
 				{
-					"buffer": 851,
+					"buffer": 850,
 					"file": "AN/3/an3.82 Der Esel",
 					"semi_transient": false,
 					"settings":
@@ -35469,11 +35398,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1015,
+					"stack_index": 1014,
 					"type": "text"
 				},
 				{
-					"buffer": 852,
+					"buffer": 851,
 					"file": "AN/1/an1.1-10",
 					"semi_transient": false,
 					"settings":
@@ -35499,11 +35428,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 302,
+					"stack_index": 303,
 					"type": "text"
 				},
 				{
-					"buffer": 853,
+					"buffer": 852,
 					"file": "AN/1/an1.11-20",
 					"semi_transient": false,
 					"settings":
@@ -35529,11 +35458,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 146,
+					"stack_index": 149,
 					"type": "text"
 				},
 				{
-					"buffer": 854,
+					"buffer": 853,
 					"file": "AN/1/an1.140-149",
 					"semi_transient": false,
 					"settings":
@@ -35563,7 +35492,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 855,
+					"buffer": 854,
 					"file": "AN/1/an1.150-169",
 					"semi_transient": false,
 					"settings":
@@ -35593,7 +35522,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 856,
+					"buffer": 855,
 					"file": "AN/1/an1.170-187",
 					"semi_transient": false,
 					"settings":
@@ -35623,7 +35552,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 857,
+					"buffer": 856,
 					"file": "AN/1/an1.188-197",
 					"semi_transient": false,
 					"settings":
@@ -35649,11 +35578,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1081,
+					"stack_index": 1080,
 					"type": "text"
 				},
 				{
-					"buffer": 858,
+					"buffer": 857,
 					"file": "AN/1/an1.198-208",
 					"semi_transient": false,
 					"settings":
@@ -35679,11 +35608,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 124,
+					"stack_index": 127,
 					"type": "text"
 				},
 				{
-					"buffer": 859,
+					"buffer": 858,
 					"file": "AN/1/an1.209-218",
 					"semi_transient": false,
 					"settings":
@@ -35709,11 +35638,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1080,
+					"stack_index": 1079,
 					"type": "text"
 				},
 				{
-					"buffer": 860,
+					"buffer": 859,
 					"file": "AN/1/an1.21-30",
 					"semi_transient": false,
 					"settings":
@@ -35739,11 +35668,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1084,
+					"stack_index": 1083,
 					"type": "text"
 				},
 				{
-					"buffer": 861,
+					"buffer": 860,
 					"file": "AN/1/an1.219-234",
 					"semi_transient": false,
 					"settings":
@@ -35769,11 +35698,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1079,
+					"stack_index": 1078,
 					"type": "text"
 				},
 				{
-					"buffer": 862,
+					"buffer": 861,
 					"file": "AN/1/an1.235-247",
 					"semi_transient": false,
 					"settings":
@@ -35799,11 +35728,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 123,
+					"stack_index": 126,
 					"type": "text"
 				},
 				{
-					"buffer": 863,
+					"buffer": 862,
 					"file": "AN/1/an1.248-257",
 					"semi_transient": false,
 					"settings":
@@ -35833,7 +35762,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 864,
+					"buffer": 863,
 					"file": "AN/1/an1.258-267",
 					"semi_transient": false,
 					"settings":
@@ -35859,11 +35788,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1078,
+					"stack_index": 1077,
 					"type": "text"
 				},
 				{
-					"buffer": 865,
+					"buffer": 864,
 					"file": "AN/1/an1.268-277",
 					"semi_transient": false,
 					"settings":
@@ -35889,11 +35818,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1077,
+					"stack_index": 1076,
 					"type": "text"
 				},
 				{
-					"buffer": 866,
+					"buffer": 865,
 					"file": "AN/1/an1.278-286",
 					"semi_transient": false,
 					"settings":
@@ -35919,11 +35848,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1076,
+					"stack_index": 1075,
 					"type": "text"
 				},
 				{
-					"buffer": 867,
+					"buffer": 866,
 					"file": "AN/1/an1.287-295",
 					"semi_transient": false,
 					"settings":
@@ -35949,11 +35878,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1075,
+					"stack_index": 1074,
 					"type": "text"
 				},
 				{
-					"buffer": 868,
+					"buffer": 867,
 					"file": "AN/1/an1.296-305",
 					"semi_transient": false,
 					"settings":
@@ -35979,11 +35908,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1074,
+					"stack_index": 1073,
 					"type": "text"
 				},
 				{
-					"buffer": 869,
+					"buffer": 868,
 					"file": "AN/1/an1.306-315",
 					"semi_transient": false,
 					"settings":
@@ -36009,11 +35938,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1073,
+					"stack_index": 1072,
 					"type": "text"
 				},
 				{
-					"buffer": 870,
+					"buffer": 869,
 					"file": "AN/1/an1.31-40",
 					"semi_transient": false,
 					"settings":
@@ -36039,11 +35968,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1083,
+					"stack_index": 1082,
 					"type": "text"
 				},
 				{
-					"buffer": 871,
+					"buffer": 870,
 					"file": "AN/1/an1.316-332",
 					"semi_transient": false,
 					"settings":
@@ -36069,11 +35998,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 133,
+					"stack_index": 136,
 					"type": "text"
 				},
 				{
-					"buffer": 872,
+					"buffer": 871,
 					"file": "AN/1/an1.333-377",
 					"semi_transient": false,
 					"settings":
@@ -36099,11 +36028,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 238,
+					"stack_index": 240,
 					"type": "text"
 				},
 				{
-					"buffer": 873,
+					"buffer": 872,
 					"file": "AN/1/an1.378-393",
 					"semi_transient": false,
 					"settings":
@@ -36129,11 +36058,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1072,
+					"stack_index": 1071,
 					"type": "text"
 				},
 				{
-					"buffer": 874,
+					"buffer": 873,
 					"file": "AN/1/an1.394-574",
 					"semi_transient": false,
 					"settings":
@@ -36163,7 +36092,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 875,
+					"buffer": 874,
 					"file": "AN/1/an1.41-50",
 					"semi_transient": false,
 					"settings":
@@ -36189,11 +36118,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 876,
+					"buffer": 875,
 					"file": "AN/1/an1.51-60",
 					"semi_transient": false,
 					"settings":
@@ -36223,7 +36152,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 877,
+					"buffer": 876,
 					"file": "AN/4/an4.128 Unglaubliche Dinge über den Klargewordenen (2)",
 					"semi_transient": false,
 					"settings":
@@ -36253,7 +36182,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 878,
+					"buffer": 877,
 					"file": "AN/1/an1.575-615",
 					"semi_transient": false,
 					"settings":
@@ -36279,11 +36208,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 364,
+					"stack_index": 365,
 					"type": "text"
 				},
 				{
-					"buffer": 879,
+					"buffer": 878,
 					"file": "AN/1/an1.61-70",
 					"semi_transient": false,
 					"settings":
@@ -36309,11 +36238,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 139,
+					"stack_index": 142,
 					"type": "text"
 				},
 				{
-					"buffer": 880,
+					"buffer": 879,
 					"file": "AN/1/an1.616-627",
 					"semi_transient": false,
 					"settings":
@@ -36339,11 +36268,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 277,
+					"stack_index": 278,
 					"type": "text"
 				},
 				{
-					"buffer": 881,
+					"buffer": 880,
 					"file": "AN/1/an1.71-81",
 					"semi_transient": false,
 					"settings":
@@ -36369,11 +36298,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1082,
+					"stack_index": 1081,
 					"type": "text"
 				},
 				{
-					"buffer": 882,
+					"buffer": 881,
 					"file": "AN/1/an1.82-97",
 					"semi_transient": false,
 					"settings":
@@ -36399,11 +36328,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 132,
+					"stack_index": 135,
 					"type": "text"
 				},
 				{
-					"buffer": 883,
+					"buffer": 882,
 					"file": "AN/1/an1.98-139",
 					"semi_transient": false,
 					"settings":
@@ -36429,11 +36358,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 141,
+					"stack_index": 144,
 					"type": "text"
 				},
 				{
-					"buffer": 884,
+					"buffer": 883,
 					"file": "DN/dn15 Die große Lehrrede über das Kausalprinzip",
 					"semi_transient": false,
 					"settings":
@@ -36459,11 +36388,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 242,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 885,
+					"buffer": 884,
 					"file": "SN/Sam12/sn12.23 Wesentliche Bedingungen",
 					"semi_transient": false,
 					"settings":
@@ -36493,7 +36422,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 886,
+					"buffer": 885,
 					"file": "DN/dn14 Die große Lehrrede über die Ernte aus den Taten",
 					"semi_transient": false,
 					"settings":
@@ -36519,11 +36448,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 887,
+					"buffer": 886,
 					"file": "AN/4/an4.94 Versenkung (3)",
 					"semi_transient": false,
 					"settings":
@@ -36553,7 +36482,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 888,
+					"buffer": 887,
 					"file": "AN/4/an4.95 Die Fackel",
 					"semi_transient": false,
 					"settings":
@@ -36583,7 +36512,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 889,
+					"buffer": 888,
 					"file": "AN/4/an4.96 Gier beseitigen",
 					"semi_transient": false,
 					"settings":
@@ -36613,7 +36542,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 890,
+					"buffer": 889,
 					"file": "AN/3/an3.48 Der König der Berge",
 					"semi_transient": false,
 					"settings":
@@ -36639,11 +36568,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1037,
+					"stack_index": 1036,
 					"type": "text"
 				},
 				{
-					"buffer": 891,
+					"buffer": 890,
 					"file": "AN/5/an5.40 Die großen Salbäume",
 					"semi_transient": false,
 					"settings":
@@ -36673,7 +36602,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 892,
+					"buffer": 891,
 					"file": "AN/3/an3.40 Sich in die Pflicht nehmen",
 					"semi_transient": false,
 					"settings":
@@ -36699,11 +36628,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1041,
+					"stack_index": 1040,
 					"type": "text"
 				},
 				{
-					"buffer": 893,
+					"buffer": 892,
 					"file": "AN/3/an3.41 Vorhanden",
 					"semi_transient": false,
 					"settings":
@@ -36727,11 +36656,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1040,
+					"stack_index": 1039,
 					"type": "text"
 				},
 				{
-					"buffer": 894,
+					"buffer": 893,
 					"file": "AN/3/an3.42 Drei Anzeichen",
 					"semi_transient": false,
 					"settings":
@@ -36761,7 +36690,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 895,
+					"buffer": 894,
 					"file": "AN/3/an3.43 Gute Gründe",
 					"semi_transient": false,
 					"settings":
@@ -36789,7 +36718,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 896,
+					"buffer": 895,
 					"file": "AN/3/an3.44 Wenn das Gespräch fließt",
 					"semi_transient": false,
 					"settings":
@@ -36817,7 +36746,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 897,
+					"buffer": 896,
 					"file": "AN/3/an3.49 Eifrig",
 					"semi_transient": false,
 					"settings":
@@ -36841,11 +36770,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1036,
+					"stack_index": 1035,
 					"type": "text"
 				},
 				{
-					"buffer": 898,
+					"buffer": 897,
 					"file": "AN/3/an3.50 Ein Meisterdieb",
 					"semi_transient": false,
 					"settings":
@@ -36871,11 +36800,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1035,
+					"stack_index": 1034,
 					"type": "text"
 				},
 				{
-					"buffer": 899,
+					"buffer": 898,
 					"file": "AN/3/an3.51 Zwei Brahmanen (1)",
 					"semi_transient": false,
 					"settings":
@@ -36901,11 +36830,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1034,
+					"stack_index": 1033,
 					"type": "text"
 				},
 				{
-					"buffer": 900,
+					"buffer": 899,
 					"file": "AN/3/an3.52 Zwei Brahmanen (2)",
 					"semi_transient": false,
 					"settings":
@@ -36931,11 +36860,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1033,
+					"stack_index": 1032,
 					"type": "text"
 				},
 				{
-					"buffer": 901,
+					"buffer": 900,
 					"file": "AN/3/an3.58 Mit Tikaṇṇa",
 					"semi_transient": false,
 					"settings":
@@ -36961,11 +36890,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 86,
+					"stack_index": 89,
 					"type": "text"
 				},
 				{
-					"buffer": 902,
+					"buffer": 901,
 					"file": "AN/3/an3.59 Mit Jāṇussoṇi",
 					"semi_transient": false,
 					"settings":
@@ -36991,11 +36920,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 94,
+					"stack_index": 97,
 					"type": "text"
 				},
 				{
-					"buffer": 903,
+					"buffer": 902,
 					"file": "AN/3/an3.63 In Venāgapura",
 					"semi_transient": false,
 					"settings":
@@ -37021,11 +36950,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 51,
+					"stack_index": 54,
 					"type": "text"
 				},
 				{
-					"buffer": 904,
+					"buffer": 903,
 					"file": "AN/4/an4.123 Unterschied (1)",
 					"semi_transient": false,
 					"settings":
@@ -37055,7 +36984,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 905,
+					"buffer": 904,
 					"file": "AN/4/an4.127 Unglaubliche Dinge über den Klargewordenen (1)",
 					"semi_transient": false,
 					"settings":
@@ -37085,7 +37014,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 906,
+					"buffer": 905,
 					"file": "AN/4/an4.130 Unglaubliche Dinge über den Rad-drehenden Herrscher",
 					"semi_transient": false,
 					"settings":
@@ -37115,7 +37044,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 907,
+					"buffer": 906,
 					"file": "AN/4/an4.131 Fesseln",
 					"semi_transient": false,
 					"settings":
@@ -37145,7 +37074,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 908,
+					"buffer": 907,
 					"file": "AN/4/an4.132 Wortgewandtheit",
 					"semi_transient": false,
 					"settings":
@@ -37175,7 +37104,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 909,
+					"buffer": 908,
 					"file": "AN/4/an4.133 Jemand, der sofort versteht",
 					"semi_transient": false,
 					"settings":
@@ -37203,7 +37132,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 910,
+					"buffer": 909,
 					"file": "AN/4/an4.134 Früchte des Unternehmungsgeistes",
 					"semi_transient": false,
 					"settings":
@@ -37233,7 +37162,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 911,
+					"buffer": 910,
 					"file": "AN/4/an4.135 Tadelnswert",
 					"semi_transient": false,
 					"settings":
@@ -37263,7 +37192,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 912,
+					"buffer": 911,
 					"file": "AN/4/an4.136 Ethik (1)",
 					"semi_transient": false,
 					"settings":
@@ -37293,7 +37222,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 913,
+					"buffer": 912,
 					"file": "AN/4/an4.137 Ethik (2)",
 					"semi_transient": false,
 					"settings":
@@ -37323,7 +37252,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 914,
+					"buffer": 913,
 					"file": "AN/4/an4.129 Unglaubliche Dinge über Ānanda ",
 					"semi_transient": false,
 					"settings":
@@ -37353,7 +37282,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 915,
+					"buffer": 914,
 					"file": "AN/4/an4.160 Die Übung eines Heiligen",
 					"semi_transient": false,
 					"settings":
@@ -37379,11 +37308,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 56,
+					"stack_index": 59,
 					"type": "text"
 				},
 				{
-					"buffer": 916,
+					"buffer": 915,
 					"file": "AN/4/an4.161 Kurz",
 					"semi_transient": false,
 					"settings":
@@ -37413,7 +37342,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 917,
+					"buffer": 916,
 					"file": "AN/4/an4.162 Ausführlich",
 					"semi_transient": false,
 					"settings":
@@ -37443,7 +37372,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 918,
+					"buffer": 917,
 					"file": "AN/4/an4.16 Feinheit",
 					"semi_transient": false,
 					"settings":
@@ -37473,7 +37402,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 919,
+					"buffer": 918,
 					"file": "AN/4/an4.17 Befangenheit (1)",
 					"semi_transient": false,
 					"settings":
@@ -37503,7 +37432,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 920,
+					"buffer": 919,
 					"file": "AN/4/an4.126 Liebe (2)",
 					"semi_transient": false,
 					"settings":
@@ -37533,7 +37462,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 921,
+					"buffer": 920,
 					"file": "AN/4/an4.124 Unterschied (2)",
 					"semi_transient": false,
 					"settings":
@@ -37563,7 +37492,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 922,
+					"buffer": 921,
 					"file": "AN/4/an4.125 Liebe (1)",
 					"semi_transient": false,
 					"settings":
@@ -37593,7 +37522,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 923,
+					"buffer": 922,
 					"file": "AN/4/an4.163 Hässlich",
 					"semi_transient": false,
 					"settings":
@@ -37623,7 +37552,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 924,
+					"buffer": 923,
 					"file": "AN/4/an4.164 Geduldig (1)",
 					"semi_transient": false,
 					"settings":
@@ -37653,7 +37582,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 925,
+					"buffer": 924,
 					"file": "AN/4/an4.165 Geduldig (2)",
 					"semi_transient": false,
 					"settings":
@@ -37683,7 +37612,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 926,
+					"buffer": 925,
 					"file": "AN/4/an4.166 Beide",
 					"semi_transient": false,
 					"settings":
@@ -37713,7 +37642,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 927,
+					"buffer": 926,
 					"file": "AN/4/an4.167 Mahāmoggallāna",
 					"semi_transient": false,
 					"settings":
@@ -37743,7 +37672,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 928,
+					"buffer": 927,
 					"file": "AN/4/an4.168 Sāriputta",
 					"semi_transient": false,
 					"settings":
@@ -37773,7 +37702,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 929,
+					"buffer": 928,
 					"file": "AN/4/an4.169 Besondere Anstrengung",
 					"semi_transient": false,
 					"settings":
@@ -37803,7 +37732,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 930,
+					"buffer": 929,
 					"file": "AN/4/an4.38 Zurückgezogen",
 					"semi_transient": false,
 					"settings":
@@ -37833,7 +37762,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 931,
+					"buffer": 930,
 					"file": "AN/4/an4.39 Mit Ujjaya",
 					"semi_transient": false,
 					"settings":
@@ -37863,7 +37792,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 932,
+					"buffer": 931,
 					"file": "AN/4/an4.40 Mit Udāyī",
 					"semi_transient": false,
 					"settings":
@@ -37893,7 +37822,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 933,
+					"buffer": 932,
 					"file": "AN/5/an5.14 Ausführlich",
 					"semi_transient": false,
 					"settings":
@@ -37919,11 +37848,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 62,
+					"stack_index": 65,
 					"type": "text"
 				},
 				{
-					"buffer": 934,
+					"buffer": 933,
 					"file": "AN/5/an5.15 Zu erkennen",
 					"semi_transient": false,
 					"settings":
@@ -37953,7 +37882,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 935,
+					"buffer": 934,
 					"file": "AN/4/an4.35 Mit Vassakāra",
 					"semi_transient": false,
 					"settings":
@@ -37983,7 +37912,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 936,
+					"buffer": 935,
 					"file": "AN/5/an5.154 Der Niedergang der wahren Lehre (1)",
 					"semi_transient": false,
 					"settings":
@@ -38013,7 +37942,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 937,
+					"buffer": 936,
 					"file": "AN/5/an5.155 Der Niedergang der wahren Lehre (2)",
 					"semi_transient": false,
 					"settings":
@@ -38043,7 +37972,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 938,
+					"buffer": 937,
 					"file": "AN/5/an5.156 Der Niedergang der wahren Lehre (3)",
 					"semi_transient": false,
 					"settings":
@@ -38073,7 +38002,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 939,
+					"buffer": 938,
 					"file": "AN/5/an5.157 Unangebrachte Rede",
 					"semi_transient": false,
 					"settings":
@@ -38099,11 +38028,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 148,
+					"stack_index": 151,
 					"type": "text"
 				},
 				{
-					"buffer": 940,
+					"buffer": 939,
 					"file": "AN/5/an5.158 Unsicherheit",
 					"semi_transient": false,
 					"settings":
@@ -38129,11 +38058,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 126,
+					"stack_index": 129,
 					"type": "text"
 				},
 				{
-					"buffer": 941,
+					"buffer": 940,
 					"file": "AN/5/an5.159 Mit Udāyī",
 					"semi_transient": false,
 					"settings":
@@ -38159,11 +38088,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 314,
+					"stack_index": 315,
 					"type": "text"
 				},
 				{
-					"buffer": 942,
+					"buffer": 941,
 					"file": "AN/5/an5.160 Schwer zu beseitigen",
 					"semi_transient": false,
 					"settings":
@@ -38191,7 +38120,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 943,
+					"buffer": 942,
 					"file": "AN/5/an5.28 Mit fünf Faktoren",
 					"semi_transient": false,
 					"settings":
@@ -38221,7 +38150,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 944,
+					"buffer": 943,
 					"file": "AN/3/an3.93 Abgeschiedenheit",
 					"semi_transient": false,
 					"settings":
@@ -38247,11 +38176,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1007,
+					"stack_index": 1006,
 					"type": "text"
 				},
 				{
-					"buffer": 945,
+					"buffer": 944,
 					"file": "AN/3/an3.94 Frühling",
 					"semi_transient": false,
 					"settings":
@@ -38275,11 +38204,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 997,
+					"stack_index": 996,
 					"type": "text"
 				},
 				{
-					"buffer": 946,
+					"buffer": 945,
 					"file": "AN/3/an3.95 Versammlungen",
 					"semi_transient": false,
 					"settings":
@@ -38309,7 +38238,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 947,
+					"buffer": 946,
 					"file": "AN/4/an4.138 Zurückgezogen",
 					"semi_transient": false,
 					"settings":
@@ -38335,11 +38264,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 328,
+					"stack_index": 329,
 					"type": "text"
 				},
 				{
-					"buffer": 948,
+					"buffer": 947,
 					"file": "AN/4/an4.139 Dhammalehrer",
 					"semi_transient": false,
 					"settings":
@@ -38369,7 +38298,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 949,
+					"buffer": 948,
 					"file": "AN/4/an4.140 Redner",
 					"semi_transient": false,
 					"settings":
@@ -38399,7 +38328,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 950,
+					"buffer": 949,
 					"file": "AN/4/an4.141 Helligkeit",
 					"semi_transient": false,
 					"settings":
@@ -38427,7 +38356,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 951,
+					"buffer": 950,
 					"file": "AN/4/an4.142 Glanz",
 					"semi_transient": false,
 					"settings":
@@ -38455,7 +38384,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 952,
+					"buffer": 951,
 					"file": "AN/4/an4.143 Licht",
 					"semi_transient": false,
 					"settings":
@@ -38483,7 +38412,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 953,
+					"buffer": 952,
 					"file": "AN/4/an4.144 Schein",
 					"semi_transient": false,
 					"settings":
@@ -38511,7 +38440,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 954,
+					"buffer": 953,
 					"file": "AN/4/an4.145 Lampen",
 					"semi_transient": false,
 					"settings":
@@ -38539,7 +38468,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 955,
+					"buffer": 954,
 					"file": "AN/4/an4.146 Zeit (1)",
 					"semi_transient": false,
 					"settings":
@@ -38567,7 +38496,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 956,
+					"buffer": 955,
 					"file": "AN/4/an4.147 Zeit (2)",
 					"semi_transient": false,
 					"settings":
@@ -38595,7 +38524,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 957,
+					"buffer": 956,
 					"file": "AN/4/an4.148 Schlechtes Verhalten",
 					"semi_transient": false,
 					"settings":
@@ -38623,7 +38552,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 958,
+					"buffer": 957,
 					"file": "AN/4/an4.149 Gutes Verhalten",
 					"semi_transient": false,
 					"settings":
@@ -38651,7 +38580,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 959,
+					"buffer": 958,
 					"file": "AN/4/an4.150 Wesentlich",
 					"semi_transient": false,
 					"settings":
@@ -38681,7 +38610,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 960,
+					"buffer": 959,
 					"file": "AN/4/an4.151 Fähigkeiten",
 					"semi_transient": false,
 					"settings":
@@ -38709,7 +38638,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 961,
+					"buffer": 960,
 					"file": "AN/4/an4.152 Die Kraft des Vertrauens",
 					"semi_transient": false,
 					"settings":
@@ -38737,7 +38666,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 962,
+					"buffer": 961,
 					"file": "AN/4/an4.157 Krankheit",
 					"semi_transient": false,
 					"settings":
@@ -38767,7 +38696,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 963,
+					"buffer": 962,
 					"file": "AN/4/an4.158 Niedergang",
 					"semi_transient": false,
 					"settings":
@@ -38797,7 +38726,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 964,
+					"buffer": 963,
 					"file": "AN/4/an4.262 Wildnis",
 					"semi_transient": false,
 					"settings":
@@ -38823,11 +38752,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 325,
+					"stack_index": 326,
 					"type": "text"
 				},
 				{
-					"buffer": 965,
+					"buffer": 964,
 					"file": "AN/4/an4.263 Taten",
 					"semi_transient": false,
 					"settings":
@@ -38857,7 +38786,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 966,
+					"buffer": 965,
 					"file": "AN/4/an4.264 Lebende Geschöpfe töten",
 					"semi_transient": false,
 					"settings":
@@ -38887,7 +38816,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 967,
+					"buffer": 966,
 					"file": "AN/4/an4.265 Stehlen",
 					"semi_transient": false,
 					"settings":
@@ -38915,7 +38844,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 968,
+					"buffer": 967,
 					"file": "AN/4/an4.266 Verfehlungen",
 					"semi_transient": false,
 					"settings":
@@ -38943,7 +38872,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 969,
+					"buffer": 968,
 					"file": "AN/3/an3.53 Ein gewisser Brahmane",
 					"semi_transient": false,
 					"settings":
@@ -38969,11 +38898,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1032,
+					"stack_index": 1031,
 					"type": "text"
 				},
 				{
-					"buffer": 970,
+					"buffer": 969,
 					"file": "AN/3/an3.54 Ein Wanderer",
 					"semi_transient": false,
 					"settings":
@@ -38999,11 +38928,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1031,
+					"stack_index": 1030,
 					"type": "text"
 				},
 				{
-					"buffer": 971,
+					"buffer": 970,
 					"file": "AN/3/an3.55 Erloschen",
 					"semi_transient": false,
 					"settings":
@@ -39029,11 +38958,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1030,
+					"stack_index": 1029,
 					"type": "text"
 				},
 				{
-					"buffer": 972,
+					"buffer": 971,
 					"file": "AN/3/an3.70 Besinnungstag",
 					"semi_transient": false,
 					"settings":
@@ -39059,11 +38988,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 66,
+					"stack_index": 69,
 					"type": "text"
 				},
 				{
-					"buffer": 973,
+					"buffer": 972,
 					"file": "AN/3/an3.71 Mit Channa",
 					"semi_transient": false,
 					"settings":
@@ -39089,11 +39018,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1024,
+					"stack_index": 1023,
 					"type": "text"
 				},
 				{
-					"buffer": 974,
+					"buffer": 973,
 					"file": "AN/3/an3.72 Ein Schüler der Ājīvakas",
 					"semi_transient": false,
 					"settings":
@@ -39119,11 +39048,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1023,
+					"stack_index": 1022,
 					"type": "text"
 				},
 				{
-					"buffer": 975,
+					"buffer": 974,
 					"file": "AN/3/an3.73 Mit dem Sakyer Mahānāma",
 					"semi_transient": false,
 					"settings":
@@ -39149,11 +39078,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 248,
+					"stack_index": 249,
 					"type": "text"
 				},
 				{
-					"buffer": 976,
+					"buffer": 975,
 					"file": "AN/4/an4.198 Selbstquälerei",
 					"semi_transient": false,
 					"settings":
@@ -39179,11 +39108,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 48,
+					"stack_index": 51,
 					"type": "text"
 				},
 				{
-					"buffer": 977,
+					"buffer": 976,
 					"file": "AN/4/an4.1 Verstanden",
 					"semi_transient": false,
 					"settings":
@@ -39209,11 +39138,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 224,
+					"stack_index": 227,
 					"type": "text"
 				},
 				{
-					"buffer": 978,
+					"buffer": 977,
 					"file": "AN/4/an4.2 Gefallen",
 					"semi_transient": false,
 					"settings":
@@ -39239,11 +39168,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 81,
+					"stack_index": 84,
 					"type": "text"
 				},
 				{
-					"buffer": 979,
+					"buffer": 978,
 					"file": "AN/4/an4.23 Die Welt",
 					"semi_transient": false,
 					"settings":
@@ -39273,7 +39202,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 980,
+					"buffer": 979,
 					"file": "AN/4/an4.255 Arten der Suche",
 					"semi_transient": false,
 					"settings":
@@ -39303,7 +39232,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 981,
+					"buffer": 980,
 					"file": "AN/4/an4.256 Arten des Einbeziehen",
 					"semi_transient": false,
 					"settings":
@@ -39327,11 +39256,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 251,
+					"stack_index": 252,
 					"type": "text"
 				},
 				{
-					"buffer": 982,
+					"buffer": 981,
 					"file": "AN/4/an4.229 Ohne Zurückhaltung",
 					"semi_transient": false,
 					"settings":
@@ -39359,7 +39288,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 983,
+					"buffer": 982,
 					"file": "AN/4/an4.230 Geistlos",
 					"semi_transient": false,
 					"settings":
@@ -39383,11 +39312,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 131,
+					"stack_index": 134,
 					"type": "text"
 				},
 				{
-					"buffer": 984,
+					"buffer": 983,
 					"file": "AN/4/an4.10 Bindungen",
 					"semi_transient": false,
 					"settings":
@@ -39413,11 +39342,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 228,
+					"stack_index": 230,
 					"type": "text"
 				},
 				{
-					"buffer": 985,
+					"buffer": 984,
 					"file": "AN/4/an4.100 Mit dem Wanderer Potaliya",
 					"semi_transient": false,
 					"settings":
@@ -39447,7 +39376,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 986,
+					"buffer": 985,
 					"file": "AN/4/an4.101 Wolken (1)",
 					"semi_transient": false,
 					"settings":
@@ -39473,11 +39402,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 303,
+					"stack_index": 304,
 					"type": "text"
 				},
 				{
-					"buffer": 987,
+					"buffer": 986,
 					"file": "AN/4/an4.102 Wolken (2)",
 					"semi_transient": false,
 					"settings":
@@ -39503,11 +39432,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 258,
+					"stack_index": 259,
 					"type": "text"
 				},
 				{
-					"buffer": 988,
+					"buffer": 987,
 					"file": "AN/4/an4.103 Krüge",
 					"semi_transient": false,
 					"settings":
@@ -39533,11 +39462,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 261,
+					"stack_index": 262,
 					"type": "text"
 				},
 				{
-					"buffer": 989,
+					"buffer": 988,
 					"file": "AN/4/an4.104 Seen",
 					"semi_transient": false,
 					"settings":
@@ -39563,11 +39492,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 260,
+					"stack_index": 261,
 					"type": "text"
 				},
 				{
-					"buffer": 990,
+					"buffer": 989,
 					"file": "AN/4/an4.105 Mangofrüchte",
 					"semi_transient": false,
 					"settings":
@@ -39593,11 +39522,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 259,
+					"stack_index": 260,
 					"type": "text"
 				},
 				{
-					"buffer": 991,
+					"buffer": 990,
 					"file": "AN/4/an4.107 Mäuse",
 					"semi_transient": false,
 					"settings":
@@ -39623,11 +39552,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 257,
+					"stack_index": 258,
 					"type": "text"
 				},
 				{
-					"buffer": 992,
+					"buffer": 991,
 					"file": "AN/4/an4.108 Ochsen",
 					"semi_transient": false,
 					"settings":
@@ -39657,7 +39586,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 993,
+					"buffer": 992,
 					"file": "AN/4/an4.109 Bäume",
 					"semi_transient": false,
 					"settings":
@@ -39687,7 +39616,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 994,
+					"buffer": 993,
 					"file": "AN/5/an5.144 Bei Tikaṇḍakī",
 					"semi_transient": false,
 					"settings":
@@ -39717,7 +39646,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 995,
+					"buffer": 994,
 					"file": "AN/5/an5.145 Die Hölle",
 					"semi_transient": false,
 					"settings":
@@ -39747,7 +39676,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 996,
+					"buffer": 995,
 					"file": "AN/5/an5.146 Eine Freundin",
 					"semi_transient": false,
 					"settings":
@@ -39777,7 +39706,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 997,
+					"buffer": 996,
 					"file": "AN/4/an4.21 In Uruvelā (1)",
 					"semi_transient": false,
 					"settings":
@@ -39803,11 +39732,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 100,
+					"stack_index": 103,
 					"type": "text"
 				},
 				{
-					"buffer": 998,
+					"buffer": 997,
 					"file": "AN/4/an4.36 Doṇa",
 					"semi_transient": false,
 					"settings":
@@ -39837,7 +39766,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 999,
+					"buffer": 998,
 					"file": "AN/4/an4.37 Gedeihen",
 					"semi_transient": false,
 					"settings":
@@ -39867,7 +39796,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1000,
+					"buffer": 999,
 					"file": "AN/3/an3.74 Jainas",
 					"semi_transient": false,
 					"settings":
@@ -39893,11 +39822,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1022,
+					"stack_index": 1021,
 					"type": "text"
 				},
 				{
-					"buffer": 1001,
+					"buffer": 1000,
 					"file": "AN/3/an3.75 Beständigkeit",
 					"semi_transient": false,
 					"settings":
@@ -39923,11 +39852,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 64,
+					"stack_index": 67,
 					"type": "text"
 				},
 				{
-					"buffer": 1002,
+					"buffer": 1001,
 					"file": "AN/3/an3.76 Fortgesetztes Dasein (1)",
 					"semi_transient": false,
 					"settings":
@@ -39953,11 +39882,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1021,
+					"stack_index": 1020,
 					"type": "text"
 				},
 				{
-					"buffer": 1003,
+					"buffer": 1002,
 					"file": "AN/3/an3.77 Fortgesetztes Dasein (2)",
 					"semi_transient": false,
 					"settings":
@@ -39983,11 +39912,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1020,
+					"stack_index": 1019,
 					"type": "text"
 				},
 				{
-					"buffer": 1004,
+					"buffer": 1003,
 					"file": "AN/3/an3.78 Regeln und Gelübde",
 					"semi_transient": false,
 					"settings":
@@ -40013,11 +39942,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1019,
+					"stack_index": 1018,
 					"type": "text"
 				},
 				{
-					"buffer": 1005,
+					"buffer": 1004,
 					"file": "AN/3/an3.79 Parfüm",
 					"semi_transient": false,
 					"settings":
@@ -40043,11 +39972,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1018,
+					"stack_index": 1017,
 					"type": "text"
 				},
 				{
-					"buffer": 1006,
+					"buffer": 1005,
 					"file": "AN/3/an3.96 Ein Vollblüter (1)",
 					"semi_transient": false,
 					"settings":
@@ -40073,11 +40002,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 72,
+					"stack_index": 75,
 					"type": "text"
 				},
 				{
-					"buffer": 1007,
+					"buffer": 1006,
 					"file": "AN/3/an3.97 Ein Vollblüter (2)",
 					"semi_transient": false,
 					"settings":
@@ -40103,11 +40032,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 74,
+					"stack_index": 77,
 					"type": "text"
 				},
 				{
-					"buffer": 1008,
+					"buffer": 1007,
 					"file": "AN/3/an3.98 Ein Vollblüter (3)",
 					"semi_transient": false,
 					"settings":
@@ -40133,11 +40062,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 73,
+					"stack_index": 76,
 					"type": "text"
 				},
 				{
-					"buffer": 1009,
+					"buffer": 1008,
 					"file": "AN/4/an4.111 Mit Kesi",
 					"semi_transient": false,
 					"settings":
@@ -40163,11 +40092,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 60,
+					"stack_index": 63,
 					"type": "text"
 				},
 				{
-					"buffer": 1010,
+					"buffer": 1009,
 					"file": "AN/4/an4.110 Giftschlangen",
 					"semi_transient": false,
 					"settings":
@@ -40197,7 +40126,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1011,
+					"buffer": 1010,
 					"file": "AN/4/an4.11 Gehen",
 					"semi_transient": false,
 					"settings":
@@ -40223,11 +40152,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 135,
+					"stack_index": 138,
 					"type": "text"
 				},
 				{
-					"buffer": 1012,
+					"buffer": 1011,
 					"file": "AN/4/an4.112 Schnelligkeit",
 					"semi_transient": false,
 					"settings":
@@ -40257,7 +40186,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1013,
+					"buffer": 1012,
 					"file": "AN/4/an4.113 Die Peitsche",
 					"semi_transient": false,
 					"settings":
@@ -40283,11 +40212,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 187,
+					"stack_index": 190,
 					"type": "text"
 				},
 				{
-					"buffer": 1014,
+					"buffer": 1013,
 					"file": "AN/4/an4.114 Ein königlicher Elefant",
 					"semi_transient": false,
 					"settings":
@@ -40317,7 +40246,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1015,
+					"buffer": 1014,
 					"file": "AN/4/an4.115 Sachen",
 					"semi_transient": false,
 					"settings":
@@ -40347,7 +40276,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1016,
+					"buffer": 1015,
 					"file": "AN/4/an4.116 Eifer",
 					"semi_transient": false,
 					"settings":
@@ -40377,7 +40306,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1017,
+					"buffer": 1016,
 					"file": "AN/4/an4.117 Bewachen",
 					"semi_transient": false,
 					"settings":
@@ -40407,7 +40336,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1018,
+					"buffer": 1017,
 					"file": "AN/4/an4.118 Ergreifend",
 					"semi_transient": false,
 					"settings":
@@ -40437,7 +40366,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1019,
+					"buffer": 1018,
 					"file": "AN/4/an4.119 Gefahren (1)",
 					"semi_transient": false,
 					"settings":
@@ -40465,7 +40394,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1020,
+					"buffer": 1019,
 					"file": "AN/4/an4.181 Ein Krieger",
 					"semi_transient": false,
 					"settings":
@@ -40491,11 +40420,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 249,
+					"stack_index": 250,
 					"type": "text"
 				},
 				{
-					"buffer": 1021,
+					"buffer": 1020,
 					"file": "AN/4/an4.195 Mit Vappa",
 					"semi_transient": false,
 					"settings":
@@ -40525,7 +40454,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1022,
+					"buffer": 1021,
 					"file": "AN/4/an4.196 196. Mit Sāḷha",
 					"semi_transient": false,
 					"settings":
@@ -40551,11 +40480,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 244,
+					"stack_index": 245,
 					"type": "text"
 				},
 				{
-					"buffer": 1023,
+					"buffer": 1022,
 					"file": "AN/4/an4.52 Überfließendes Verdienst (2)",
 					"semi_transient": false,
 					"settings":
@@ -40581,11 +40510,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 61,
+					"stack_index": 64,
 					"type": "text"
 				},
 				{
-					"buffer": 1024,
+					"buffer": 1023,
 					"file": "AN/4/an4.63 Mit Brahmā leben",
 					"semi_transient": false,
 					"settings":
@@ -40615,7 +40544,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1025,
+					"buffer": 1024,
 					"file": "AN/4/an4.64 Die Hölle",
 					"semi_transient": false,
 					"settings":
@@ -40645,7 +40574,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1026,
+					"buffer": 1025,
 					"file": "AN/4/an4.65 Das Äußere",
 					"semi_transient": false,
 					"settings":
@@ -40675,7 +40604,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1027,
+					"buffer": 1026,
 					"file": "AN/4/an4.66 Gierig",
 					"semi_transient": false,
 					"settings":
@@ -40705,7 +40634,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1028,
+					"buffer": 1027,
 					"file": "AN/4/an4.67 Der Schlangenkönig",
 					"semi_transient": false,
 					"settings":
@@ -40735,7 +40664,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1029,
+					"buffer": 1028,
 					"file": "AN/4/an4.68 Devadatta",
 					"semi_transient": false,
 					"settings":
@@ -40765,7 +40694,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1030,
+					"buffer": 1029,
 					"file": "AN/4/an4.69 Bemühen",
 					"semi_transient": false,
 					"settings":
@@ -40795,7 +40724,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1031,
+					"buffer": 1030,
 					"file": "AN/5/an5.107 Ethik",
 					"semi_transient": false,
 					"settings":
@@ -40823,7 +40752,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1032,
+					"buffer": 1031,
 					"file": "AN/5/an5.106 Mit Ānanda",
 					"semi_transient": false,
 					"settings":
@@ -40853,7 +40782,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1033,
+					"buffer": 1032,
 					"file": "AN/5/an5.105 Unbeschwert leben",
 					"semi_transient": false,
 					"settings":
@@ -40881,7 +40810,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1034,
+					"buffer": 1033,
 					"file": "AN/5/an5.108 Ein Meister",
 					"semi_transient": false,
 					"settings":
@@ -40909,7 +40838,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1035,
+					"buffer": 1034,
 					"file": "AN/5/an5.139 Kann nicht ertragen",
 					"semi_transient": false,
 					"settings":
@@ -40939,7 +40868,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1036,
+					"buffer": 1035,
 					"file": "AN/5/an5.85 Kann nicht ertragen",
 					"semi_transient": false,
 					"settings":
@@ -40969,7 +40898,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1037,
+					"buffer": 1036,
 					"file": "AN/5/an5.86 Sich die Methoden der Textanalyse zu Eigen machen",
 					"semi_transient": false,
 					"settings":
@@ -40997,7 +40926,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1038,
+					"buffer": 1037,
 					"file": "AN/5/an5.87 Sittlich",
 					"semi_transient": false,
 					"settings":
@@ -41027,7 +40956,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1039,
+					"buffer": 1038,
 					"file": "AN/5/an5.140 Zuhörer",
 					"semi_transient": false,
 					"settings":
@@ -41057,7 +40986,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1040,
+					"buffer": 1039,
 					"file": "AN/5/an5.179 Ein Laie",
 					"semi_transient": false,
 					"settings":
@@ -41083,11 +41012,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 49,
+					"stack_index": 52,
 					"type": "text"
 				},
 				{
-					"buffer": 1041,
+					"buffer": 1040,
 					"file": "AN/5/an5.199 Familien",
 					"semi_transient": false,
 					"settings":
@@ -41117,7 +41046,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1042,
+					"buffer": 1041,
 					"file": "AN/5/an5.18 Zum Nutzen anderer",
 					"semi_transient": false,
 					"settings":
@@ -41147,7 +41076,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1043,
+					"buffer": 1042,
 					"file": "AN/5/an5.19 Zu niemandes Nutzen",
 					"semi_transient": false,
 					"settings":
@@ -41177,7 +41106,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1044,
+					"buffer": 1043,
 					"file": "AN/5/an5.20 Zum Nutzen beider",
 					"semi_transient": false,
 					"settings":
@@ -41207,7 +41136,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1045,
+					"buffer": 1044,
 					"file": "AN/5/an5.180 Über Gavesī",
 					"semi_transient": false,
 					"settings":
@@ -41237,7 +41166,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1046,
+					"buffer": 1045,
 					"file": "AN/5/an5.181 Die in der Wildnis leben",
 					"semi_transient": false,
 					"settings":
@@ -41267,7 +41196,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1047,
+					"buffer": 1046,
 					"file": "AN/5/an5.182 Roben",
 					"semi_transient": false,
 					"settings":
@@ -41295,7 +41224,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1048,
+					"buffer": 1047,
 					"file": "AN/5/an5.183 Die am Fuß eines Baumes leben",
 					"semi_transient": false,
 					"settings":
@@ -41323,7 +41252,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1049,
+					"buffer": 1048,
 					"file": "AN/5/an5.184 Die auf dem Leichenfeld leben",
 					"semi_transient": false,
 					"settings":
@@ -41351,7 +41280,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1050,
+					"buffer": 1049,
 					"file": "AN/5/an5.185 Die im Freien leben",
 					"semi_transient": false,
 					"settings":
@@ -41379,7 +41308,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1051,
+					"buffer": 1050,
 					"file": "AN/5/an5.186 Die sich nie hinlegen",
 					"semi_transient": false,
 					"settings":
@@ -41407,7 +41336,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1052,
+					"buffer": 1051,
 					"file": "AN/5/an5.187 Die da schlafen, wo eine Matte hingelegt ist",
 					"semi_transient": false,
 					"settings":
@@ -41435,7 +41364,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1053,
+					"buffer": 1052,
 					"file": "AN/5/an5.188 Die nur einmal essen",
 					"semi_transient": false,
 					"settings":
@@ -41463,7 +41392,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1054,
+					"buffer": 1053,
 					"file": "AN/5/an5.189 Die späteres Essen zurückweisen",
 					"semi_transient": false,
 					"settings":
@@ -41491,7 +41420,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1055,
+					"buffer": 1054,
 					"file": "AN/5/an5.190 Die nur aus der Almosenschale essen",
 					"semi_transient": false,
 					"settings":
@@ -41521,7 +41450,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1056,
+					"buffer": 1055,
 					"file": "AN/5/an5.191 Hunde",
 					"semi_transient": false,
 					"settings":
@@ -41547,11 +41476,11 @@
 						"translation.y": 378.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 166,
+					"stack_index": 169,
 					"type": "text"
 				},
 				{
-					"buffer": 1057,
+					"buffer": 1056,
 					"file": "AN/5/an5.96 Sich an das erinnern, was man gehört hat",
 					"semi_transient": false,
 					"settings":
@@ -41581,7 +41510,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1058,
+					"buffer": 1057,
 					"file": "AN/4/an4.57 Mit Suppavāsā",
 					"semi_transient": false,
 					"settings":
@@ -41611,7 +41540,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1059,
+					"buffer": 1058,
 					"file": "AN/5/an5.95 Unerschütterlich",
 					"semi_transient": false,
 					"settings":
@@ -41639,7 +41568,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1060,
+					"buffer": 1059,
 					"file": "AN/5/an5.97 Gespräch",
 					"semi_transient": false,
 					"settings":
@@ -41665,11 +41594,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 125,
+					"stack_index": 128,
 					"type": "text"
 				},
 				{
-					"buffer": 1061,
+					"buffer": 1060,
 					"file": "AN/5/an5.203 Vollblüter",
 					"semi_transient": false,
 					"settings":
@@ -41699,7 +41628,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1062,
+					"buffer": 1061,
 					"file": "AN/5/an5.202 Der Lehre zuhören",
 					"semi_transient": false,
 					"settings":
@@ -41727,7 +41656,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1063,
+					"buffer": 1062,
 					"file": "AN/5/an5.201 Mit Kimbila",
 					"semi_transient": false,
 					"settings":
@@ -41757,7 +41686,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1064,
+					"buffer": 1063,
 					"file": "AN/5/an5.32 Mit Cundī",
 					"semi_transient": false,
 					"settings":
@@ -41787,7 +41716,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1065,
+					"buffer": 1064,
 					"file": "AN/5/an5.33 Mit Uggaha",
 					"semi_transient": false,
 					"settings":
@@ -41817,7 +41746,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1066,
+					"buffer": 1065,
 					"file": "AN/5/an5.34 Mit dem General Sīha",
 					"semi_transient": false,
 					"settings":
@@ -41847,7 +41776,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1067,
+					"buffer": 1066,
 					"file": "AN/5/an5.35 Vorteilhafte Folgen des Gebens",
 					"semi_transient": false,
 					"settings":
@@ -41877,7 +41806,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1068,
+					"buffer": 1067,
 					"file": "AN/5/an5.36 Gaben zur rechten Zeit",
 					"semi_transient": false,
 					"settings":
@@ -41907,7 +41836,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1069,
+					"buffer": 1068,
 					"file": "AN/5/an5.37 Speise",
 					"semi_transient": false,
 					"settings":
@@ -41937,7 +41866,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1070,
+					"buffer": 1069,
 					"file": "AN/5/an5.38 Vertrauen",
 					"semi_transient": false,
 					"settings":
@@ -41967,7 +41896,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1071,
+					"buffer": 1070,
 					"file": "AN/5/an5.47 Reichtum",
 					"semi_transient": false,
 					"settings":
@@ -41993,11 +41922,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 59,
+					"stack_index": 62,
 					"type": "text"
 				},
 				{
-					"buffer": 1072,
+					"buffer": 1071,
 					"file": "AN/5/an5.53 Faktoren, die die Meditation unterstützen",
 					"semi_transient": false,
 					"settings":
@@ -42023,11 +41952,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 65,
+					"stack_index": 68,
 					"type": "text"
 				},
 				{
-					"buffer": 1073,
+					"buffer": 1072,
 					"file": "AN/5/an5.52 Ein Haufen Untaugliches",
 					"semi_transient": false,
 					"settings":
@@ -42055,7 +41984,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1074,
+					"buffer": 1073,
 					"file": "AN/5/an5.51 Hemmnisse",
 					"semi_transient": false,
 					"settings":
@@ -42081,11 +42010,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 308,
+					"stack_index": 309,
 					"type": "text"
 				},
 				{
-					"buffer": 1075,
+					"buffer": 1074,
 					"file": "SN/Sam12/sn12.22 Die zehn Kräfte (2)",
 					"semi_transient": false,
 					"settings":
@@ -42111,11 +42040,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 145,
+					"stack_index": 148,
 					"type": "text"
 				},
 				{
-					"buffer": 1076,
+					"buffer": 1075,
 					"file": "SN/Sam12/sn12.1 Abhängiges Entstehen",
 					"semi_transient": false,
 					"settings":
@@ -42133,14 +42062,6 @@
 						],
 						"settings":
 						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -42149,11 +42070,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 1077,
+					"buffer": 1076,
 					"file": "SN/Sam12/sn12.10 Gotama",
 					"semi_transient": false,
 					"settings":
@@ -42183,7 +42104,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1078,
+					"buffer": 1077,
 					"file": "AN/3/an3.60 Mit Saṅgārava",
 					"semi_transient": false,
 					"settings":
@@ -42209,11 +42130,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 47,
+					"stack_index": 50,
 					"type": "text"
 				},
 				{
-					"buffer": 1079,
+					"buffer": 1078,
 					"file": "DN/dn12 Mit Lohicca",
 					"semi_transient": false,
 					"settings":
@@ -42239,11 +42160,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 44,
+					"stack_index": 47,
 					"type": "text"
 				},
 				{
-					"buffer": 1080,
+					"buffer": 1079,
 					"file": "AN/4/an4.93 Versenkung (2)",
 					"semi_transient": false,
 					"settings":
@@ -42269,11 +42190,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 161,
+					"stack_index": 164,
 					"type": "text"
 				},
 				{
-					"buffer": 1081,
+					"buffer": 1080,
 					"file": "AN/4/an4.92 Versenkung (1)",
 					"semi_transient": false,
 					"settings":
@@ -42303,7 +42224,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1082,
+					"buffer": 1081,
 					"file": "AN/3/an3.117 Versagen und Vollendung",
 					"semi_transient": false,
 					"settings":
@@ -42329,11 +42250,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 989,
+					"stack_index": 988,
 					"type": "text"
 				},
 				{
-					"buffer": 1083,
+					"buffer": 1082,
 					"file": "AN/3/an3.118 Gezinkte Würfel",
 					"semi_transient": false,
 					"settings":
@@ -42359,11 +42280,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 990,
+					"stack_index": 989,
 					"type": "text"
 				},
 				{
-					"buffer": 1084,
+					"buffer": 1083,
 					"file": "AN/3/an3.119 Handeln",
 					"semi_transient": false,
 					"settings":
@@ -42389,11 +42310,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 991,
+					"stack_index": 990,
 					"type": "text"
 				},
 				{
-					"buffer": 1085,
+					"buffer": 1084,
 					"file": "AN/3/an3.120 Reinheit (1)",
 					"semi_transient": false,
 					"settings":
@@ -42419,11 +42340,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 988,
+					"stack_index": 987,
 					"type": "text"
 				},
 				{
-					"buffer": 1086,
+					"buffer": 1085,
 					"file": "AN/3/an3.121 Reinheit (2)",
 					"semi_transient": false,
 					"settings":
@@ -42449,11 +42370,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 987,
+					"stack_index": 986,
 					"type": "text"
 				},
 				{
-					"buffer": 1087,
+					"buffer": 1086,
 					"file": "AN/3/an3.122 Urteilskraft",
 					"semi_transient": false,
 					"settings":
@@ -42479,11 +42400,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 986,
+					"stack_index": 985,
 					"type": "text"
 				},
 				{
-					"buffer": 1088,
+					"buffer": 1087,
 					"file": "AN/3/an3.123 In Kusināra",
 					"semi_transient": false,
 					"settings":
@@ -42509,7 +42430,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 323,
+					"stack_index": 324,
 					"type": "text"
 				}
 			]
