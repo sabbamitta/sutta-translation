@@ -7935,7 +7935,7 @@
 			"file": "KN/Thig/thig13.1 Ambapālī",
 			"settings":
 			{
-				"buffer_size": 5165,
+				"buffer_size": 5178,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -7944,19 +7944,17 @@
 			"file": "KN/Thig/thig13.2 Rohinī",
 			"settings":
 			{
-				"buffer_size": 5123,
+				"buffer_size": 5105,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "{\n  \"thig13.3:0.1\": \"Strophen der altehrwürdigen Nonnen \",\n  \"thig13.3:0.2\": \"Das Zwanzigerbuch \",\n  \"thig13.3:0.3\": \"13.3. Cāpā \",\n  \"thig13.3:1.1\": \"„Einst trug ich den Stab eines Einsiedlers, \",\n  \"thig13.3:1.2\": \"doch heutzutage jage ich Rotwild. \",\n  \"thig13.3:1.3\": \"Meine Lüste haben es vereitelt, \",\n  \"thig13.3:1.4\": \"dass ich von dem entsetzlichen Morast zum anderen Ufer übersetze. \",\n  \"thig13.3:2.1\": \"Weil sie mich für berauscht hielt von Liebe zu ihr, \",\n  \"thig13.3:2.2\": \"sorgte Cāpā dafür, dass unser Sohn glücklich war. \",\n  \"thig13.3:2.3\": \"Jetzt habe ich Cāpās Band durchgeschnitten \",\n  \"thig13.3:2.4\": \"und werde noch einmal fortziehen.“ \",\n  \"thig13.3:3.1\": \"„Sei nicht zornig auf mich, großer Held! \",\n  \"thig13.3:3.2\": \"Sei nicht zornig auf mich, großer Weiser! \",\n  \"thig13.3:3.3\": \"Wenn du in Zorn verstrickt bist, kannst du nicht rein bleiben \",\n  \"thig13.3:3.4\": \"und schon gar nicht Kasteiung üben.“ \",\n  \"thig13.3:4.1\": \"„Ich werde Nālā verlassen! \",\n  \"thig13.3:4.2\": \"Denn wer bleibt schon hier in Nālā! \",\n  \"thig13.3:4.3\": \"Mit ihrer Gestalt stellen die Frauen \",\n  \"thig13.3:4.4\": \"rechtschaffen lebenden Asketen eine Falle.“ \",\n  \"thig13.3:5.1\": \"„Bitte, Kāḷa, komm zurück zu mir, \",\n  \"thig13.3:5.2\": \"genieße die Sinnenfreuden, so wie früher. \",\n  \"thig13.3:5.3\": \"Ich werde mich dir unterwerfen, \",\n  \"thig13.3:5.4\": \"so wie auch all meine Verwandten.“ \",\n  \"thig13.3:6.1\": \"„Cāpā, wenn nur der vierte Teil \",\n  \"thig13.3:6.2\": \"deiner Worte wahr wäre, \",\n  \"thig13.3:6.3\": \"wäre das eine tolle Sache \",\n  \"thig13.3:6.4\": \"für einen Mann, der in dich verliebt wäre!“ \",\n  \"thig13.3:7.1\": \"„Kāḷa, ich bin wie eine flammend blühende Akazie \",\n  \"thig13.3:7.2\": \"auf einem Berggipfel, \",\n  \"thig13.3:7.3\": \"wie ein blühender Granatapfel, \",\n  \"thig13.3:7.4\": \"wie ein Trompetenblumenbaum auf einer Insel. \",\n  \"thig13.3:8.1\": \"Meine Glieder sind mit gelbem Sandelholz geölt, \",\n  \"thig13.3:8.2\": \"und ich trage erlesenstes Tuch aus Kāsi: \",\n  \"thig13.3:8.3\": \"Da ich so schön überaus bin, \",\n  \"thig13.3:8.4\": \"wie kannst du mich da verlassen und weggehen?“ \",\n  \"thig13.3:9.1\": \"„Du bist wie eine Vogelfängerin, \",\n  \"thig13.3:9.2\": \"die einen Vogel erwischen will; \",\n  \"thig13.3:9.3\": \"doch mich wirst du \",\n  \"thig13.3:9.4\": \"mit deiner einnehmenden Gestalt nicht fangen.“ \",\n  \"thig13.3:10.1\": \"„Aber dieses Kind, meine Frucht, \",\n  \"thig13.3:10.2\": \"hast du, Kāḷa, gezeugt. \",\n  \"thig13.3:10.3\": \"Da ich dieses Kind habe, \",\n  \"thig13.3:10.4\": \"wie kannst du mich da verlassen und weggehen?“ \",\n  \"thig13.3:11.1\": \"„Die Weisen geben Kinder, \",\n  \"thig13.3:11.2\": \"Familie und Vermögen auf. \",\n  \"thig13.3:11.3\": \"Große Helden ziehen fort, \",\n  \"thig13.3:11.4\": \"wie Elefanten, die ihre Fesseln sprengen.“ \",\n  \"thig13.3:12.1\": \"„Nun, diesen deinen Sohn: \",\n  \"thig13.3:12.2\": \"Ich werde ihn eben hier zu Boden schlagen, \",\n  \"thig13.3:12.3\": \"mit einem Stock oder einem Messer! \",\n  \"thig13.3:12.4\": \"Aus Kummer um deinen Sohn wirst du nicht weggehen.“ \",\n  \"thig13.3:13.1\": \"„Selbst wenn du unseren Sohn \",\n  \"thig13.3:13.2\": \"den Schakalen und Hunden zum Fraß vorwerfen würdest, \",\n  \"thig13.3:13.3\": \"würde ich nie zurückkommen, du Schlampe, \",\n  \"thig13.3:13.4\": \"nicht einmal dem Kind zuliebe.“ \",\n  \"thig13.3:14.1\": \"„Nun denn, Herr, dann sag mir: \",\n  \"thig13.3:14.2\": \"Wohin willst du gehen, Kāḷa? \",\n  \"thig13.3:14.3\": \"Zu welchem Dorf oder Marktflecken, \",\n  \"thig13.3:14.4\": \"welcher Stadt oder Hauptstadt?“ \",\n  \"thig13.3:15.1\": \"„Beim letzten Mal hatten wir Anhänger; \",\n  \"thig13.3:15.2\": \"wir waren keine Asketen, wir dachten nur, wir wären es. \",\n  \"thig13.3:15.3\": \"Wir wanderten von Dorf zu Dorf, \",\n  \"thig13.3:15.4\": \"zu Städten und Hauptstädten. \",\n  \"thig13.3:16.1\": \"Doch jetzt hält sich der Gesegnete, der Buddha, \",\n  \"thig13.3:16.2\": \"am Ufer des Flusses Nerañjara auf. \",\n  \"thig13.3:16.3\": \"Er lehrt den Dhamma, sodass die Kreaturen \",\n  \"thig13.3:16.4\": \"alles Leiden aufgeben können. \",\n  \"thig13.3:16.5\": \"Zu ihm werde ich hingehen, \",\n  \"thig13.3:16.6\": \"er soll mein Lehrer sein.“ \",\n  \"thig13.3:17.1\": \"„Dann überbringe bitte meine Ehrerbietung \",\n  \"thig13.3:17.2\": \"an diesen unübertrefflichen Beschützer der Welt. \",\n  \"thig13.3:17.3\": \"Umrunde ihn mit deiner rechten Seite \",\n  \"thig13.3:17.4\": \"und weihe ihm meine religiöse Gabe.“ \",\n  \"thig13.3:18.1\": \"„Das ist die rechte Art, zu handeln, \",\n  \"thig13.3:18.2\": \"genauso wie du zu mir gesagt hast. \",\n  \"thig13.3:18.3\": \"Ich werde deine Ehrerbietung überbringen \",\n  \"thig13.3:18.4\": \"an den unübertrefflichen Beschützer der Welt. \",\n  \"thig13.3:18.5\": \"Mit meiner rechten Seite werde ich ihn umrunden \",\n  \"thig13.3:18.6\": \"und ihm deine religiöse Gabe weihen.“ \",\n  \"thig13.3:19.1\": \"Dann brach Kāḷa \",\n  \"thig13.3:19.2\": \"zum Ufer des Flusses Nerañjara auf. \",\n  \"thig13.3:19.3\": \"Er sah den Erwachten, \",\n  \"thig13.3:19.4\": \"wie er den unsterblichen Zustand lehrte: \",\n  \"thig13.3:20.1\": \"das Leiden, des Leidens Entstehen, \",\n  \"thig13.3:20.2\": \"des Leidens Überwindung \",\n  \"thig13.3:20.3\": \"und den edlen achtfachen Pfad, \",\n  \"thig13.3:20.4\": \"der zum Stillen des Leidens führt. \",\n  \"thig13.3:21.1\": \"Er erwies Ehrerbietung zu seinen Füßen, \",\n  \"thig13.3:21.2\": \"umrundete ihn mit seiner rechten Seite \",\n  \"thig13.3:21.3\": \"und überbrachte Cāpās Widmung. \",\n  \"thig13.3:21.4\": \"Dann zog er fort ins hauslose Leben. \",\n  \"thig13.3:21.5\": \"Er verwirklichte das dreifache Wissen \",\n  \"thig13.3:21.6\": \"und erfüllte die Anweisung des Buddha. \"\n}",
 			"file": "KN/Thig/thig13.3 Cāpā",
-			"file_size": 5627,
-			"file_write_time": 132639008955773286,
 			"settings":
 			{
-				"buffer_size": 5487,
+				"buffer_size": 5496,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -10249,6 +10247,18 @@
 	],
 	"file_history":
 	[
+		"/home/sabbamitta/.bashrc",
+		"/home/sabbamitta/dev/dhammaregen/content/news/2021-04.md",
+		"/home/sabbamitta/dev/dhammaregen/content/Studium/Neu.md",
+		"/home/sabbamitta/Dokumente/Technik/Festplatte-aufräumen",
+		"/home/sabbamitta/dev/dhammaregen/content/Studium/Hören.md",
+		"/home/sabbamitta/dev/dhammaregen/content/sites/ebt-site.md",
+		"/home/sabbamitta/dev/dhammaregen/content/sites/voice.md",
+		"/home/sabbamitta/dev/dhammaregen/content/sites/suttacentral.md",
+		"/home/sabbamitta/dev/dhammaregen/content/wiki/sites.md",
+		"/home/sabbamitta/dev/dhammaregen/content/Übersetzung/Übersicht.md",
+		"/home/sabbamitta/dev/dhammaregen/content/Studium/Suche.md",
+		"/home/sabbamitta/dev/running_script.sh",
 		"/home/sabbamitta/dev/dhammaregen/store/ebt.js",
 		"/home/sabbamitta/dev/dhammaregen/pages/suttas.vue",
 		"/home/sabbamitta/dev/dhammaregen/pages/index.vue",
@@ -10268,7 +10278,6 @@
 		"/home/sabbamitta/dev/dhammaregen/middleware/README.md",
 		"/home/sabbamitta/dev/dhammaregen/middleware/home-redirect.js",
 		"/home/sabbamitta/dev/dhammaregen/layouts/default.vue",
-		"/home/sabbamitta/dev/running_script.sh",
 		"/home/sabbamitta/dev/ebt-site/content/news/2021-04.md",
 		"/home/sabbamitta/dev/ebt-site/content/Übersetzung/Übersicht.md",
 		"/home/sabbamitta/dev/ebt-site/content/Studium/Einstellungen.md",
@@ -10354,7 +10363,6 @@
 		"/home/sabbamitta/Dokumente/Technik/CSS (Aminah)",
 		"/home/sabbamitta/Schreibtisch/Meeting-codes",
 		"/home/sabbamitta/Schreibtisch/v2.9 SuttaCentral 2021",
-		"/home/sabbamitta/Dokumente/Technik/Festplatte-aufräumen",
 		"/home/sabbamitta/dev/ebt-site/content/Studium/Suchfeld.md",
 		"/home/sabbamitta/dev/ebt-site/content/Studium/such-mir-etwas-aus.md",
 		"/home/sabbamitta/dev/ebt-site/content/Studium/benachbart.md",
@@ -10366,17 +10374,7 @@
 		"/home/sabbamitta/dev/ebt-site/content/Studium/Suchbegriffe im Text.md",
 		"/home/sabbamitta/dev/ebt-site/content/Studium/Zu benachbarten Suttas gehen.md",
 		"/home/sabbamitta/dev/ebt-site/content/Studium/Ergebnis-Chronik benutzen.md",
-		"/home/sabbamitta/dev/ebt-site/content/Studium/Ins Suchfeld tippen.md",
-		"/home/sabbamitta/dev/ebt-site/content/Studium/example.md",
-		"/home/sabbamitta/Schreibtisch/michael-dziedzic-1bjsASjhfkE-unsplash.jpg",
-		"/home/sabbamitta/Schreibtisch/Dhammaregen",
-		"/home/sabbamitta/dev/ebt-site/pages/test/_slug.vue",
-		"/home/sabbamitta/dev/ebt-site/content/wiki/Essays-SC.md",
-		"/home/sabbamitta/dev/ebt-site/pages/Übersetzung/_slug.vue",
-		"/home/sabbamitta/dev/ebt-site/content/wiki/ubersetzung.md",
-		"/home/sabbamitta/dev/ebt-site/content/Übersetzung/example.md",
-		"/home/sabbamitta/dev/ebt-site/content/ubersetzung/example.md",
-		"/home/sabbamitta/dev/ebt-site/content/news-en/2021-02-25.md"
+		"/home/sabbamitta/dev/ebt-site/content/Studium/Ins Suchfeld tippen.md"
 	],
 	"find":
 	{
@@ -10540,7 +10538,7 @@
 	"groups":
 	[
 		{
-			"selected": 878,
+			"selected": 882,
 			"sheets":
 			[
 				{
@@ -36605,7 +36603,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -36614,49 +36612,27 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5165,
+						"buffer_size": 5178,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96,
-								96
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 880,
-					"file": "KN/Thig/thig13.2 Rohinī",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5123,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								96
-							]
-						],
-						"settings":
-						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -36669,33 +36645,79 @@
 					"type": "text"
 				},
 				{
-					"buffer": 881,
-					"file": "KN/Thig/thig13.3 Cāpā",
+					"buffer": 880,
+					"file": "KN/Thig/thig13.2 Rohinī",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5487,
+						"buffer_size": 5105,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5122,
-								5122
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1260.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 881,
+					"file": "KN/Thig/thig13.3 Cāpā",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -36711,21 +36733,29 @@
 						"selection":
 						[
 							[
-								4115,
-								4115
+								4092,
+								4092
 							]
 						],
 						"settings":
 						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1008.0,
+						"translation.y": 1134.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
